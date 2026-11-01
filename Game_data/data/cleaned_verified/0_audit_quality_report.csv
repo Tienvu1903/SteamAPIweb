@@ -1,0 +1,7 @@
+﻿source_file,verified_output_file,status,raw_rows,verified_rows,dropped_rows,auto_repaired_rows
+nintendo_clean.csv,nintendo_verified.csv,SAVED_OK,1523,1523,0,13
+cheapshark_reviews_clean.csv,cheapshark_reviews_verified.csv,SAVED_OK,897,897,0,0
+steam_reviews_rank_clean.csv,steam_reviews_rank_verified.csv,SAVED_OK,997,997,0,0
+steam_realtime_ccu_clean.csv,steam_realtime_ccu_verified.csv,SAVED_OK,635,635,0,5
+steam_price_history_clean.csv,steam_price_history_verified.csv,SAVED_OK,2072,2067,5,0
+nintendo_price_history_clean.csv,nintendo_price_history_verified.csv,SAVED_OK,1523,1523,0,13

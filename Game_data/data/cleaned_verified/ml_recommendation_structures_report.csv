@@ -1,0 +1,5 @@
+﻿structure_id,algorithm_name,csv_source,hybrid_weight,avg_score,owned_excluded
+ML_Structure_1,TruncatedSVD (Collaborative Matrix Factorization),steam_user_owned_games_verified.csv,35%,68.0,100%
+ML_Structure_2,Weighted TF-IDF + Cosine Similarity,steam_user_owned_games_verified.csv + master_price_predicted.csv,40%,80.23,100%
+ML_Structure_3,StandardScaler + K-Nearest Neighbors (KNN),master_price_predicted.csv,25%,73.2,100%
+Hybrid_Champion,User-Centric Hybrid Recommender (SVD + TF-IDF + KNN),All Verified CSV Tables,100%,61.66,100%

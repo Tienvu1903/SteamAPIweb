@@ -1,0 +1,133 @@
+================================================================================
+   FILE 03: 1_steam_global_crawler.py
+   (CÀO 6 BẢNG XẾP HẠNG CHÍNH THỨC STEAM STORE & BÓC TÁCH REGEX HTML)
+================================================================================
+
+I. MỤC ĐÍCH & Ý NGHĨA CỦA FILE
+================================================================================
+1. Tại sao cần thêm file này khi đã có SteamSpy?
+   - SteamSpy cập nhật có độ trễ, còn trang tìm kiếm chính thức của **Steam Store**
+     (`store.steampowered.com/search/results/`) phản ánh **giá khuyến mãi tức thời**,
+     hệ điều hành hỗ trợ (`Windows`, `macOS`, `Linux`) và thứ hạng bán chạy theo thời gian thực.
+   - Đặc biệt: Để huấn luyện AI phân biệt được đâu là game tốt nên gợi ý, đâu là game
+     rác cần tránh xa, ta bắt buộc phải có mẫu dữ liệu của những **game bị đánh giá thấp nhất**
+     (`PAID_LOWEST_RATED` và `FREE_LOWEST_RATED`).
+
+2. 6 Bảng xếp hạng chiến lược được quét trong file:
+   - Luồng 1 (`TOP_SELLER`)       : Game bán chạy nhất toàn cầu (`filter=topsellers`).
+   - Luồng 2 (`FREE_TOP_RATED`)   : Game miễn phí điểm cao nhất (`sort_by=Reviews_DESC`, `maxprice=free`).
+   - Luồng 3 (`PAID_TOP_RATED`)   : Game trả phí điểm cao nhất (`sort_by=Reviews_DESC`).
+   - Luồng 4 (`PAID_LOWEST_RATED`): Game trả phí bị chê nhiều nhất (`sort_by=Reviews_ASC`).
+   - Luồng 5 (`FREE_LOWEST_RATED`): Game miễn phí bị chê nhiều nhất (`sort_by=Reviews_ASC`, `maxprice=free`).
+   - Luồng 6 (`NEW_RELEASES`)     : Game mới phát hành (`sort_by=Released_DESC`).
+   *(Tất cả đều gắn tham số `category1=998` — đây là mã nội bộ của Valve để chỉ lọc lấy
+   **Game gốc hoàn chỉnh**, loại bỏ toàn bộ gói DLC, nhạc Soundtrack, Video và Phần mềm).*
+
+
+II. GIẢI THÍCH CHI TIẾT TỪNG HÀM & THUẬT TOÁN TRONG FILE
+================================================================================
+
+--------------------------------------------------------------------------------
+1. THUẬT TOÁN BÓC TÁCH HTML BẰNG BIỂU THỨC CHÍNH QUY (REGEX)
+--------------------------------------------------------------------------------
+a) Ý nghĩa:
+   - API tìm kiếm của Steam trả về một chuỗi JSON chứa đoạn mã giao diện HTML (`results_html`).
+   - File sử dụng các mẫu `re.compile` (Regular Expressions) để cắt chính xác từng thông tin
+     từ mã HTML mà không cần tải cả trang web nặng nề:
+     + `ROW_BLOCK_REGEX`: Bắt mã `data-ds-appid="(\d+)"` và toàn bộ khối thẻ `<a>...</a>` của từng game.
+     + `FINAL_PRICE_REGEX`: Bắt giá tiền cuối cùng tính bằng xu từ `data-price-final="(\d+)"`.
+     + `DISCOUNT_TEXT_REGEX`: Bắt con số phần trăm giảm giá từ chuỗi `-(\d+)%<`.
+     + `OS_FLAGS`: Kiểm tra sự xuất hiện của class CSS `platform_img win`, `mac`, `linux`.
+
+b) Dẫn chứng Code trong `1_steam_global_crawler.py`:
+```python
+ROW_BLOCK_REGEX = re.compile(r'<a[^>]+data-ds-appid="(\d+)"[^>]*>(.*?)</a>', re.DOTALL)
+TITLE_TEXT_REGEX = re.compile(r'<span class="title">(.*?)</span>', re.DOTALL)
+FINAL_PRICE_REGEX = re.compile(r'data-price-final="(\d+)"')
+DISCOUNT_TEXT_REGEX = re.compile(r'(?:discount_pct">|<span>)-(\d+)%<')
+
+def extract_supported_os(row_html: str) -> str:
+    """Bóc tách các hệ điều hành mà tựa game hỗ trợ (Windows, macOS, Linux)."""
+    matched_os = [label for label, pattern in OS_FLAGS if pattern.search(row_html)]
+    return ", ".join(matched_os) if matched_os else "Windows"
+```
+
+--------------------------------------------------------------------------------
+2. THUẬT TOÁN KHÔI PHỤC GIÁ GỐC TỪ GIÁ SALE — Hàm `_calc_base_price(...)`
+--------------------------------------------------------------------------------
+a) Vấn đề & Công thức toán học:
+   - Trong khối HTML tìm kiếm, Steam chỉ gắn thuộc tính `data-price-final` (giá sau khi
+     đã giảm) và nhãn `-%` giảm giá, chứ không ghi trực tiếp giá gốc.
+   - Gọi $Sale\_USD$ là giá đang bán, $Disc\_Pct$ là phần trăm giảm giá ($0 < Disc\_Pct < 100$).
+     Ta có phương trình:
+     $$Sale\_USD = Initial\_Price \times \left(1 - \frac{Disc\_Pct}{100}\right) = Initial\_Price \times \left(\frac{100 - Disc\_Pct}{100}\right)$$
+   - Suy ra công thức tính ngược lại Giá gốc ($Initial\_Price$):
+     $$Ratio = \frac{100 - Disc\_Pct}{100.0}$$
+     $$Initial\_Price = \text{round}\left(\frac{Sale\_USD}{Ratio}, 2\right)$$
+
+b) Dẫn chứng Code trong `1_steam_global_crawler.py`:
+```python
+def _calc_base_price(sale_usd: float, disc_pct: int) -> float:
+    """Tính giá gốc trước khi giảm giá mà không bị lỗi chia cho 0."""
+    if 0 < disc_pct < 100 and sale_usd > 0.0:
+        ratio = (100 - disc_pct) / 100.0
+        return round(sale_usd / ratio, 2)
+    return sale_usd
+```
+
+c) Ví dụ tính nhẩm cụ thể:
+   - Game Cyberpunk 2077 đang bán giá $Sale\_USD = \$29.99$, mức giảm $Disc\_Pct = 50\%$:
+     + $Ratio = (100 - 50) / 100.0 = 0.50$.
+     + $Initial\_Price = 29.99 / 0.50 = \$59.98$ (xấp xỉ mức giá gốc $\$59.99$).
+
+--------------------------------------------------------------------------------
+3. THUẬT TOÁN BÓC TÁCH TOOLTIP ĐÁNH GIÁ & GỌI API DỰ PHÒNG — Hàm `parse_review_tooltip(...)`
+--------------------------------------------------------------------------------
+a) Ý nghĩa:
+   - Trên mỗi dòng game của Steam có thuộc tính ẩn `data-tooltip-html` chứa câu tiếng Anh dạng:
+     `"Very Positive<br>89% of the 45,120 user reviews for this game are positive."`
+   - Hàm `parse_review_tooltip` cắt tại thẻ `<br>` để lấy nhãn `"Very Positive"`, sau đó dùng
+     Regex `r"(\d+)%\s+of\s+the\s+([\d,]+)"` để bắt số `89` (tỷ lệ %) và số `45,120` (tổng số review).
+   - Từ Tổng số review ($Total$) và Tỷ lệ % ($Pct$), ta tính ra số lượt khen và số lượt chê:
+     $$Positive = \text{round}\left(\frac{Total \times Pct}{100.0}\right)$$
+     $$Negative = \max(0, Total - Positive)$$
+   - **Cơ chế dự phòng (`query_exact_appreviews`):** Nếu game mới chưa hiện tooltip trên trang
+     tìm kiếm, code sẽ tự động gọi sang API `store.steampowered.com/appreviews/{appid}?json=1`
+     để lấy chính xác từng lượt vote.
+
+b) Dẫn chứng Code trong `1_steam_global_crawler.py`:
+```python
+def parse_review_tooltip(tooltip_raw: str) -> tuple[str, float, int]:
+    if not tooltip_raw:
+        return "Unrated", 0.0, 0
+    normalized = html.unescape(tooltip_raw).replace("&lt;br&gt;", "<br>")
+    parts = normalized.split("<br>")
+    summary_label = parts[0].strip() if parts else "Unrated"
+
+    pct_match = re.search(r"(\d+)%\s+of\s+the\s+([\d,]+)", normalized)
+    if pct_match:
+        pct_val = float(pct_match.group(1))
+        total_cnt = int(pct_match.group(2).replace(",", ""))
+        return summary_label, pct_val, total_cnt
+    return summary_label, 0.0, 0
+```
+
+--------------------------------------------------------------------------------
+4. THUẬT TOÁN ĐỔI NGÀY PHÁT HÀNH SANG NĂM, QUÝ, THÁNG — Hàm `parse_steam_release_period(...)`
+--------------------------------------------------------------------------------
+a) Công thức tính Quý ($Q_1 \dots Q_4$) từ Tháng ($Month \in [1..12]$):
+   $$q\_idx = \lfloor \frac{Month - 1}{3} \rfloor + 1$$
+   - Tháng 1, 2, 3: $(Month - 1) // 3 = 0 \rightarrow 0 + 1 = 1$ (`Q1`).
+   - Tháng 4, 5, 6: $(Month - 1) // 3 = 1 \rightarrow 1 + 1 = 2$ (`Q2`).
+   - Tháng 7, 8, 9: $(Month - 1) // 3 = 2 \rightarrow 2 + 1 = 3$ (`Q3`).
+   - Tháng 10, 11, 12: $(Month - 1) // 3 = 3 \rightarrow 3 + 1 = 4$ (`Q4`).
+
+
+III. CÂU HỎI VẤN ĐÁP THƯỜNG GẶP VỀ FILE 03
+================================================================================
+- **Câu hỏi:** *"Tại sao khi gọi Steam Search API lại phải truyền tham số `category1=998`?"*
+  $\rightarrow$ **Trả lời:** Trên Steam Store có hàng chục nghìn bản nhạc nền (Soundtracks),
+  gói mở rộng (DLC), phim tài liệu và phần mềm thiết kế. Mã `category1=998` là bộ lọc chuẩn
+  của Valve giúp chỉ lấy **Standard Game (Tựa game độc lập)**, giúp tập dữ liệu huấn luyện AI
+  không bị lẫn rác.
+================================================================================

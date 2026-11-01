@@ -1,0 +1,17 @@
+﻿feature_name,random_forest_importance_pct,gradient_boosting_importance_pct,combined_importance_pct
+historical_low_price,98.81,98.67,98.74
+current_price,0.39,0.6,0.49
+sale_cycle_pressure,0.31,0.41,0.36
+price_above_low_usd,0.16,0.13,0.15
+initial_price,0.11,0.03,0.07
+price_to_low_ratio,0.07,0.07,0.07
+days_since_historical_low,0.07,0.04,0.06
+discount_headroom_pct,0.03,0.01,0.02
+game_age_years,0.02,0.03,0.02
+max_historical_discount_pct,0.01,0.0,0.01
+price_volatility_index,0.0,0.01,0.01
+is_steam_platform,0.01,0.0,0.0
+is_nintendo_first_party,0.0,0.0,0.0
+is_free,0.0,0.0,0.0
+current_discount_pct,0.01,0.0,0.0
+sale_frequency_per_year,0.01,0.0,0.0

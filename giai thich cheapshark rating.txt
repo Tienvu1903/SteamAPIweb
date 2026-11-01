@@ -1,0 +1,116 @@
+================================================================================
+   FILE 04: 1_cheapshark_ratings_crawler.py
+   (TỔNG HỢP ĐÁNH GIÁ CHÉO METACRITIC + STEAM USER RATINGS & DEAL SCORE)
+================================================================================
+
+I. MỤC ĐÍCH & Ý NGHĨA CỦA FILE
+================================================================================
+1. Vấn đề thực tế khi chỉ dùng điểm đánh giá từ 1 nguồn:
+   - Nếu chỉ nhìn vào điểm người chơi trên Steam (`steam_rating_pct`), có nhiều game
+     nhỏ lẻ chỉ có vài chục người bạn của nhà phát triển vào khen $100\%$, hoặc ngược
+     lại có những game bom tấn bị người chơi giận dữ "bom review 1 sao" (Review Bombing)
+     chỉ vì lỗi máy chủ ngày đầu ra mắt.
+2. Giải pháp của file `1_cheapshark_ratings_crawler.py`:
+   - Kết nối vào **CheapShark Aggregator API** (`storeID=1` tương ứng với Steam) để lấy
+     đồng thời 3 chỉ số quý giá:
+     1) `metacritic_score` (Thang 0 - 100): Điểm trung bình của các tờ báo/chuyên gia phê bình game.
+     2) `steam_rating_pct` (Thang 0 - 100%): Điểm đánh giá của cộng đồng người chơi thực tế.
+     3) `deal_rating_score` (Thang 0.0 - 10.0): Điểm đánh giá độ hời của mức giá khuyến mãi hiện tại.
+   - Quét 4 chiều dữ liệu (Metacritic cao nhất, User Rating cao nhất, Game tệ nhất có
+     `desc=1` đảo chiều từ dưới lên, và Deal hot nhất) với mục tiêu lên tới 800 game.
+
+
+II. GIẢI THÍCH CHI TIẾT TỪNG HÀM & THUẬT TOÁN TRONG FILE
+================================================================================
+
+--------------------------------------------------------------------------------
+1. THUẬT TOÁN TÍNH ĐIỂM CHẤT LƯỢNG KẾT HỢP (`combined_score`)
+--------------------------------------------------------------------------------
+a) Ý nghĩa & Công thức toán học:
+   - Để dung hòa ý kiến của giới chuyên môn ($Metacritic$) và cộng đồng game thủ ($Steam\_Pct$),
+     thuật toán kiểm tra xem game đã có đủ cả 2 đầu điểm chưa:
+     + **Trường hợp 1:** Nếu có cả điểm Metacritic ($M > 0$) và điểm Steam ($S > 0$),
+       lấy trung bình cộng của hai nguồn:
+       $$Combined\_Score = \text{round}\left(\frac{M + S}{2.0}, 2\right)$$
+     + **Trường hợp 2:** Nếu game mới ra mắt chưa có báo chí chấm điểm ($M == 0$) hoặc
+       ngược lại, lấy giá trị lớn hơn hiện có để game không bị thiệt thòi:
+       $$Combined\_Score = \max(M, S)$$
+
+b) Dẫn chứng Code trong `1_cheapshark_ratings_crawler.py`:
+```python
+if metacritic_score > 0 and steam_rating_pct > 0:
+    combined_score = round((metacritic_score + steam_rating_pct) / 2.0, 2)
+else:
+    combined_score = float(max(metacritic_score, steam_rating_pct))
+```
+
+c) Ví dụ tính nhẩm cụ thể:
+   - **Ví dụ 1:** Game "Resident Evil 4" có $Metacritic = 93$, $Steam\_Pct = 97\%$:
+     $\rightarrow Combined\_Score = (93 + 97) / 2.0 = 95.0$ điểm.
+   - **Ví dụ 2:** Một game Indie mới ra mắt chưa có điểm Metacritic ($M = 0$), nhưng
+     người chơi trên Steam chấm $S = 88\%$:
+     $\rightarrow$ Vì $M == 0$, công thức nhảy xuống nhánh `else`: $Combined\_Score = \max(0, 88) = 88.0$ điểm.
+
+--------------------------------------------------------------------------------
+2. THUẬT TOÁN PHÂN HẠNG CHẤT LƯỢNG & TÍN HIỆU MUA — Hàm `evaluate_combined_quality(...)`
+--------------------------------------------------------------------------------
+a) Công thức phân loại 4 phân tầng chất lượng (`review_tier` và `signal`):
+   Đặt điểm hiệu dụng $Effective\_Score = S$ (nếu $S > 0$) ngược lại bằng $M$.
+   1) **`TOP_RATED_MASTERPIECE` (Tuyệt phẩm đỉnh cao $\rightarrow$ `STRONG_BUY`):**
+      Khi $Metacritic \ge 85$ **HOẶC** ($Steam\_Pct \ge 90\%$ và $Steam\_Count \ge 500$ lượt).
+   2) **`BEST_SELLER_HIGH_VALUE` (Game tốt giá hời $\rightarrow$ `BUY`):**
+      Khi không thuộc nhóm 1, nhưng có $Effective\_Score \ge 75$ **VÀ**
+      ($Deal\_Score \ge 8.0$ hoặc $Sale\_Price \le \$19.99$).
+   3) **`LOWEST_RATED_POOR` (Game chất lượng kém $\rightarrow$ `AVOID`):**
+      Khi $0 < Effective\_Score < 55$ **HOẶC** $0 < Metacritic < 55$.
+   4) **`MIXED_AVERAGE` (Mức trung bình $\rightarrow$ `HOLD`):**
+      Tất cả các trường hợp còn lại (điểm từ $55 \dots 74$, hoặc điểm $\ge 75$ nhưng giá đang đắt).
+
+b) Dẫn chứng Code trong `1_cheapshark_ratings_crawler.py`:
+```python
+def evaluate_combined_quality(
+    metacritic: int, steam_pct: int, steam_count: int, sale_price: float, deal_score: float
+) -> tuple[str, str]:
+    effective_score = steam_pct if steam_pct > 0 else metacritic
+    if metacritic >= 85 or (steam_pct >= 90 and steam_count >= 500):
+        return "TOP_RATED_MASTERPIECE", "STRONG_BUY"
+    if effective_score >= 75 and (deal_score >= 8.0 or sale_price <= 19.99):
+        return "BEST_SELLER_HIGH_VALUE", "BUY"
+    if 0 < effective_score < 55 or (0 < metacritic < 55):
+        return "LOWEST_RATED_POOR", "AVOID"
+    return "MIXED_AVERAGE", "HOLD"
+```
+
+--------------------------------------------------------------------------------
+3. THUẬT TOÁN ĐỔI UNIX TIMESTAMP SANG NGÀY THÁNG — Hàm `convert_unix_to_period(...)`
+--------------------------------------------------------------------------------
+a) Ý nghĩa:
+   - CheapShark trả về ngày phát hành dưới dạng **Unix Epoch Timestamp** (tổng số giây
+     tính từ 00:00:00 ngày 01/01/1970, ví dụ: `1677110400`).
+   - Hàm `datetime.fromtimestamp(ts_val)` đổi con số giây này thành ngày chuẩn `YYYY-MM-DD`,
+     tách lấy Năm (`year`), Tháng (`month`) và tính Quý `Q1..Q4`.
+
+b) Dẫn chứng Code trong `1_cheapshark_ratings_crawler.py`:
+```python
+def convert_unix_to_period(unix_ts: Any) -> tuple[str, int, str, int]:
+    try:
+        ts_val = int(unix_ts or 0)
+        if ts_val > 0:
+            dt_val = datetime.fromtimestamp(ts_val)
+            q_str = f"Q{(dt_val.month - 1) // 3 + 1}"
+            return dt_val.strftime("%Y-%m-%d"), dt_val.year, q_str, dt_val.month
+    except (ValueError, TypeError, OSError):
+        pass
+    now_dt = datetime.now()
+    return now_dt.strftime("%Y-%m-%d"), now_dt.year, f"Q{(now_dt.month - 1) // 3 + 1}", now_dt.month
+```
+
+
+III. CÂU HỎI VẤN ĐÁP THƯỜNG GẶP VỀ FILE 04
+================================================================================
+- **Câu hỏi:** *"Làm thế nào em lấy được danh sách các game bị đánh giá thấp nhất trên CheapShark?"*
+  $\rightarrow$ **Trả lời:** Trong danh sách `crawl_modes`, ở phân khúc thứ 3 em truyền tham số
+  `sortBy="Reviews"` kèm theo cờ đảo chiều `desc="1"` (tương đương sắp xếp tăng dần từ thấp
+  lên cao). Nhờ đó API trả về ngay các tựa game có điểm đánh giá thấp nhất để làm mẫu nhãn âm
+  (`AVOID`) cho mô hình học máy.
+================================================================================

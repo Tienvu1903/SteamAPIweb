@@ -1,0 +1,692 @@
+﻿user_id,persona_name,app_id,game_name,platform,genres,playtime_forever_hours,playtime_2weeks_hours,implicit_rating_score
+76561198010000001,Zane_SoulsLord_1,892970,Valheim,Steam PC,"Survival, Open World, Sandbox",207.2,21.8,9.94
+76561198010000001,Zane_SoulsLord_1,1145360,Hades,Steam PC,"Action, Roguelike, Indie",35.7,15.8,7.94
+76561198010000001,Zane_SoulsLord_1,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",54.2,0.0,8.41
+76561198010000001,Zane_SoulsLord_1,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",156.5,0.0,9.62
+76561198010000002,Teko_FPS_2,281990,Stellaris,Steam PC,"Strategy, Simulation, Sci-Fi",214.4,7.0,9.98
+76561198010000002,Teko_FPS_2,1145360,Hades,Steam PC,"Action, Roguelike, Indie",95.8,12.9,9.06
+76561198010000002,Teko_FPS_2,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",165.3,0.0,9.68
+76561198010000002,Teko_FPS_2,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",244.2,0.0,10.0
+76561198010000002,Teko_FPS_2,2358720,Black Myth: Wukong,Steam PC,"Action, RPG, Mythology",23.2,0.0,7.46
+76561198010000003,Kuro_Tactics_3,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",354.2,13.7,10.0
+76561198010000003,Kuro_Tactics_3,1086940,Baldur's Gate 3,Steam PC,"RPG, Adventure, Strategy",107.8,21.7,9.19
+76561198010000003,Kuro_Tactics_3,2358720,Black Myth: Wukong,Steam PC,"Action, RPG, Mythology",82.8,0.0,8.89
+76561198010000003,Kuro_Tactics_3,281990,Stellaris,Steam PC,"Strategy, Simulation, Sci-Fi",166.0,0.0,9.69
+76561198010000003,Kuro_Tactics_3,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",81.6,0.0,8.88
+76561198010000003,Kuro_Tactics_3,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",70.0,0.0,8.7
+76561198010000003,Kuro_Tactics_3,1091500,Cyberpunk 2077,Steam PC,"RPG, Open World, Sci-Fi",167.0,0.0,9.69
+76561198010000003,Kuro_Tactics_3,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",62.6,0.0,8.58
+76561198010000003,Kuro_Tactics_3,892970,Valheim,Steam PC,"Survival, Open World, Sandbox",121.2,0.0,9.33
+76561198010000003,Kuro_Tactics_3,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",140.4,0.0,9.49
+76561198010000004,Mochi_Cozy_4,1091500,Cyberpunk 2077,Steam PC,"RPG, Open World, Sci-Fi",137.0,11.5,9.47
+76561198010000004,Mochi_Cozy_4,281990,Stellaris,Steam PC,"Strategy, Simulation, Sci-Fi",113.8,14.1,9.25
+76561198010000004,Mochi_Cozy_4,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",73.4,0.0,8.76
+76561198010000004,Mochi_Cozy_4,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",8.9,0.0,6.44
+76561198010000004,Mochi_Cozy_4,1145360,Hades,Steam PC,"Action, Roguelike, Indie",132.2,0.0,9.43
+76561198010000005,VoidWalker_VN_5,1091500,Cyberpunk 2077,Steam PC,"RPG, Open World, Sci-Fi",238.0,10.3,10.0
+76561198010000005,VoidWalker_VN_5,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",198.2,23.0,9.89
+76561198010000005,VoidWalker_VN_5,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",225.5,0.0,10.0
+76561198010000005,VoidWalker_VN_5,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",161.6,0.0,9.65
+76561198010000005,VoidWalker_VN_5,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",51.6,0.0,8.36
+76561198010000005,VoidWalker_VN_5,1086940,Baldur's Gate 3,Steam PC,"RPG, Adventure, Strategy",239.5,0.0,10.0
+76561198010000005,VoidWalker_VN_5,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",18.9,0.0,7.24
+76561198010000005,VoidWalker_VN_5,2358720,Black Myth: Wukong,Steam PC,"Action, RPG, Mythology",84.4,0.0,8.91
+76561198010000005,VoidWalker_VN_5,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",80.5,0.0,8.86
+76561198010000006,Rogue_Neko_6,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",242.7,14.6,10.0
+76561198010000006,Rogue_Neko_6,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",171.8,21.4,9.72
+76561198010000006,Rogue_Neko_6,2358720,Black Myth: Wukong,Steam PC,"Action, RPG, Mythology",270.1,0.0,10.0
+76561198010000006,Rogue_Neko_6,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",67.6,0.0,8.66
+76561198010000007,ThichSinhTon_7,281990,Stellaris,Steam PC,"Strategy, Simulation, Sci-Fi",159.6,14.6,9.64
+76561198010000007,ThichSinhTon_7,1145360,Hades,Steam PC,"Action, Roguelike, Indie",300.4,3.7,10.0
+76561198010000007,ThichSinhTon_7,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",231.8,0.0,10.0
+76561198010000007,ThichSinhTon_7,1091500,Cyberpunk 2077,Steam PC,"RPG, Open World, Sci-Fi",158.3,0.0,9.63
+76561198010000007,ThichSinhTon_7,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",283.8,0.0,10.0
+76561198010000008,PixelMario_8,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",78.8,16.2,8.84
+76561198010000008,PixelMario_8,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",23.0,7.1,7.45
+76561198010000008,PixelMario_8,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",11.0,0.0,6.66
+76561198010000008,PixelMario_8,1145360,Hades,Steam PC,"Action, Roguelike, Indie",17.4,0.0,7.15
+76561198010000008,PixelMario_8,281990,Stellaris,Steam PC,"Strategy, Simulation, Sci-Fi",76.3,0.0,8.8
+76561198010000009,CyberSamurai_9,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",163.4,23.0,9.67
+76561198010000009,CyberSamurai_9,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",125.5,18.0,9.37
+76561198010000009,CyberSamurai_9,1091500,Cyberpunk 2077,Steam PC,"RPG, Open World, Sci-Fi",157.2,0.0,9.62
+76561198010000009,CyberSamurai_9,281990,Stellaris,Steam PC,"Strategy, Simulation, Sci-Fi",45.1,0.0,8.21
+76561198010000009,CyberSamurai_9,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",117.4,0.0,9.29
+76561198010000009,CyberSamurai_9,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",128.6,0.0,9.39
+76561198010000009,CyberSamurai_9,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",149.4,0.0,9.57
+76561198010000009,CyberSamurai_9,892970,Valheim,Steam PC,"Survival, Open World, Sandbox",66.4,0.0,8.64
+76561198010000009,CyberSamurai_9,2358720,Black Myth: Wukong,Steam PC,"Action, RPG, Mythology",123.9,0.0,9.35
+76561198010000009,CyberSamurai_9,1145360,Hades,Steam PC,"Action, Roguelike, Indie",109.8,0.0,9.21
+76561198010000010,GankAoLang_10,1091500,Cyberpunk 2077,Steam PC,"RPG, Open World, Sci-Fi",57.2,9.1,8.47
+76561198010000010,GankAoLang_10,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",33.1,6.8,7.86
+76561198010000010,GankAoLang_10,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",204.8,0.0,9.93
+76561198010000010,GankAoLang_10,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",79.0,0.0,8.84
+76561198010000011,Tycoon_Anony_11,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",97.8,18.3,9.08
+76561198010000011,Tycoon_Anony_11,1091500,Cyberpunk 2077,Steam PC,"RPG, Open World, Sci-Fi",155.9,10.8,9.61
+76561198010000011,Tycoon_Anony_11,2358720,Black Myth: Wukong,Steam PC,"Action, RPG, Mythology",75.7,0.0,8.79
+76561198010000011,Tycoon_Anony_11,892970,Valheim,Steam PC,"Survival, Open World, Sandbox",214.0,0.0,9.98
+76561198010000011,Tycoon_Anony_11,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",107.6,0.0,9.19
+76561198010000012,DarkGhost_99_12,2358720,Black Myth: Wukong,Steam PC,"Action, RPG, Mythology",192.7,22.5,9.86
+76561198010000012,DarkGhost_99_12,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",15.4,20.6,7.02
+76561198010000012,DarkGhost_99_12,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",26.6,0.0,7.62
+76561198010000012,DarkGhost_99_12,281990,Stellaris,Steam PC,"Strategy, Simulation, Sci-Fi",103.0,0.0,9.14
+76561198010000012,DarkGhost_99_12,1145360,Hades,Steam PC,"Action, Roguelike, Indie",41.8,0.0,8.12
+76561198010000012,DarkGhost_99_12,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",91.9,0.0,9.01
+76561198010000012,DarkGhost_99_12,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",92.0,0.0,9.01
+76561198010000013,WaifuEnjoyer_13,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",69.7,16.1,8.7
+76561198010000013,WaifuEnjoyer_13,1091500,Cyberpunk 2077,Steam PC,"RPG, Open World, Sci-Fi",121.5,4.3,9.33
+76561198010000013,WaifuEnjoyer_13,281990,Stellaris,Steam PC,"Strategy, Simulation, Sci-Fi",195.0,0.0,9.87
+76561198010000013,WaifuEnjoyer_13,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",166.8,0.0,9.69
+76561198010000014,Tryhard_VN_14,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",286.9,5.4,10.0
+76561198010000014,Tryhard_VN_14,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",202.7,18.6,9.91
+76561198010000014,Tryhard_VN_14,281990,Stellaris,Steam PC,"Strategy, Simulation, Sci-Fi",209.3,0.0,9.95
+76561198010000014,Tryhard_VN_14,1086940,Baldur's Gate 3,Steam PC,"RPG, Adventure, Strategy",33.9,0.0,7.89
+76561198010000014,Tryhard_VN_14,1091500,Cyberpunk 2077,Steam PC,"RPG, Open World, Sci-Fi",67.8,0.0,8.67
+76561198010000014,Tryhard_VN_14,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",241.0,0.0,10.0
+76561198010000014,Tryhard_VN_14,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",236.9,0.0,10.0
+76561198010000015,ZeldaSimp_15,1086940,Baldur's Gate 3,Steam PC,"RPG, Adventure, Strategy",83.4,22.1,8.9
+76561198010000015,ZeldaSimp_15,1091500,Cyberpunk 2077,Steam PC,"RPG, Open World, Sci-Fi",102.8,4.7,9.14
+76561198010000015,ZeldaSimp_15,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",77.2,0.0,8.81
+76561198010000015,ZeldaSimp_15,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",87.7,0.0,8.96
+76561198010000015,ZeldaSimp_15,281990,Stellaris,Steam PC,"Strategy, Simulation, Sci-Fi",110.7,0.0,9.22
+76561198010000016,Architect_01_16,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",210.4,9.2,9.96
+76561198010000016,Architect_01_16,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",85.0,16.5,8.92
+76561198010000016,Architect_01_16,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",102.0,0.0,9.13
+76561198010000016,Architect_01_16,1145360,Hades,Steam PC,"Action, Roguelike, Indie",118.9,0.0,9.3
+76561198010000016,Architect_01_16,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",201.6,0.0,9.91
+76561198010000016,Architect_01_16,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",242.6,0.0,10.0
+76561198010000016,Architect_01_16,1091500,Cyberpunk 2077,Steam PC,"RPG, Open World, Sci-Fi",254.1,0.0,10.0
+76561198010000016,Architect_01_16,2358720,Black Myth: Wukong,Steam PC,"Action, RPG, Mythology",130.9,0.0,9.41
+76561198010000016,Architect_01_16,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",46.9,0.0,8.25
+76561198010000016,Architect_01_16,892970,Valheim,Steam PC,"Survival, Open World, Sandbox",19.5,0.0,7.27
+76561198010000017,Speedrun_God_17,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",361.6,15.1,10.0
+76561198010000017,Speedrun_God_17,2358720,Black Myth: Wukong,Steam PC,"Action, RPG, Mythology",185.1,8.8,9.81
+76561198010000017,Speedrun_God_17,1086940,Baldur's Gate 3,Steam PC,"RPG, Adventure, Strategy",230.2,0.0,10.0
+76561198010000017,Speedrun_God_17,892970,Valheim,Steam PC,"Survival, Open World, Sandbox",240.0,0.0,10.0
+76561198010000017,Speedrun_God_17,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",142.9,0.0,9.51
+76561198010000017,Speedrun_God_17,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",242.5,0.0,10.0
+76561198010000018,AshenOne_VN_18,892970,Valheim,Steam PC,"Survival, Open World, Sandbox",27.1,21.1,7.64
+76561198010000018,AshenOne_VN_18,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",140.8,1.6,9.5
+76561198010000018,AshenOne_VN_18,281990,Stellaris,Steam PC,"Strategy, Simulation, Sci-Fi",233.9,0.0,10.0
+76561198010000018,AshenOne_VN_18,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",248.4,0.0,10.0
+76561198010000018,AshenOne_VN_18,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",186.7,0.0,9.82
+76561198010000019,DriftKing_99_19,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",59.5,16.9,8.52
+76561198010000019,DriftKing_99_19,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",204.5,21.2,9.92
+76561198010000019,DriftKing_99_19,2358720,Black Myth: Wukong,Steam PC,"Action, RPG, Mythology",172.8,0.0,9.73
+76561198010000019,DriftKing_99_19,1145360,Hades,Steam PC,"Action, Roguelike, Indie",225.2,0.0,10.0
+76561198010000019,DriftKing_99_19,892970,Valheim,Steam PC,"Survival, Open World, Sandbox",125.2,0.0,9.36
+76561198010000019,DriftKing_99_19,281990,Stellaris,Steam PC,"Strategy, Simulation, Sci-Fi",179.9,0.0,9.78
+76561198010000019,DriftKing_99_19,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",102.4,0.0,9.13
+76561198010000020,PartyAnimal_VN_20,2358720,Black Myth: Wukong,Steam PC,"Action, RPG, Mythology",178.3,17.1,9.77
+76561198010000020,PartyAnimal_VN_20,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",157.2,8.4,9.62
+76561198010000020,PartyAnimal_VN_20,1091500,Cyberpunk 2077,Steam PC,"RPG, Open World, Sci-Fi",12.8,0.0,6.82
+76561198010000020,PartyAnimal_VN_20,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",116.0,0.0,9.28
+76561198010000020,PartyAnimal_VN_20,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",48.3,0.0,8.28
+76561198010000020,PartyAnimal_VN_20,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",74.0,0.0,8.77
+76561198010000021,NoobMaster69_21,1086940,Baldur's Gate 3,Steam PC,"RPG, Adventure, Strategy",366.2,5.0,10.0
+76561198010000021,NoobMaster69_21,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",114.1,12.9,9.26
+76561198010000021,NoobMaster69_21,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",38.4,0.0,8.02
+76561198010000021,NoobMaster69_21,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",35.3,0.0,7.93
+76561198010000021,NoobMaster69_21,1091500,Cyberpunk 2077,Steam PC,"RPG, Open World, Sci-Fi",224.9,0.0,10.0
+76561198010000021,NoobMaster69_21,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",221.2,0.0,10.0
+76561198010000021,NoobMaster69_21,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",110.0,0.0,9.22
+76561198010000022,SleepyGamer_22,1086940,Baldur's Gate 3,Steam PC,"RPG, Adventure, Strategy",207.9,16.5,9.94
+76561198010000022,SleepyGamer_22,281990,Stellaris,Steam PC,"Strategy, Simulation, Sci-Fi",219.4,9.9,10.0
+76561198010000022,SleepyGamer_22,1091500,Cyberpunk 2077,Steam PC,"RPG, Open World, Sci-Fi",252.5,0.0,10.0
+76561198010000022,SleepyGamer_22,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",149.0,0.0,9.56
+76561198010000022,SleepyGamer_22,892970,Valheim,Steam PC,"Survival, Open World, Sandbox",290.7,0.0,10.0
+76561198010000022,SleepyGamer_22,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",283.8,0.0,10.0
+76561198010000022,SleepyGamer_22,1145360,Hades,Steam PC,"Action, Roguelike, Indie",273.4,0.0,10.0
+76561198010000022,SleepyGamer_22,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",275.7,0.0,10.0
+76561198010000023,AxeEffect_vn_23,1145360,Hades,Steam PC,"Action, Roguelike, Indie",59.6,4.3,8.52
+76561198010000023,AxeEffect_vn_23,1086940,Baldur's Gate 3,Steam PC,"RPG, Adventure, Strategy",121.7,4.0,9.33
+76561198010000023,AxeEffect_vn_23,1091500,Cyberpunk 2077,Steam PC,"RPG, Open World, Sci-Fi",113.7,0.0,9.25
+76561198010000023,AxeEffect_vn_23,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",19.2,0.0,7.26
+76561198010000024,SaltLord_24,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",75.4,18.8,8.79
+76561198010000024,SaltLord_24,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",177.6,22.6,9.76
+76561198010000024,SaltLord_24,1086940,Baldur's Gate 3,Steam PC,"RPG, Adventure, Strategy",92.4,0.0,9.02
+76561198010000024,SaltLord_24,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",196.8,0.0,9.88
+76561198010000024,SaltLord_24,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",31.6,0.0,7.81
+76561198010000024,SaltLord_24,2358720,Black Myth: Wukong,Steam PC,"Action, RPG, Mythology",222.4,0.0,10.0
+76561198010000024,SaltLord_24,1145360,Hades,Steam PC,"Action, Roguelike, Indie",56.7,0.0,8.46
+76561198010000025,GG_Ez_Clap_25,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",134.3,6.1,9.44
+76561198010000025,GG_Ez_Clap_25,281990,Stellaris,Steam PC,"Strategy, Simulation, Sci-Fi",144.1,1.2,9.52
+76561198010000025,GG_Ez_Clap_25,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",117.5,0.0,9.29
+76561198010000025,GG_Ez_Clap_25,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",107.0,0.0,9.18
+76561198010000025,GG_Ez_Clap_25,1145360,Hades,Steam PC,"Action, Roguelike, Indie",21.0,0.0,7.35
+76561198010000025,GG_Ez_Clap_25,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",99.0,0.0,9.1
+76561198010000026,BanhMiPate_26,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",205.3,16.5,9.93
+76561198010000026,BanhMiPate_26,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",62.7,20.0,8.58
+76561198010000026,BanhMiPate_26,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",124.5,0.0,9.36
+76561198010000026,BanhMiPate_26,1091500,Cyberpunk 2077,Steam PC,"RPG, Open World, Sci-Fi",122.1,0.0,9.33
+76561198010000026,BanhMiPate_26,1145360,Hades,Steam PC,"Action, Roguelike, Indie",50.6,0.0,8.34
+76561198010000026,BanhMiPate_26,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",57.2,0.0,8.47
+76561198010000026,BanhMiPate_26,2358720,Black Myth: Wukong,Steam PC,"Action, RPG, Mythology",83.4,0.0,8.9
+76561198010000026,BanhMiPate_26,892970,Valheim,Steam PC,"Survival, Open World, Sandbox",16.5,0.0,7.09
+76561198010000027,PhoBoTai_27,281990,Stellaris,Steam PC,"Strategy, Simulation, Sci-Fi",180.3,21.8,9.78
+76561198010000027,PhoBoTai_27,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",90.7,9.8,9.0
+76561198010000027,PhoBoTai_27,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",9.9,0.0,6.55
+76561198010000027,PhoBoTai_27,1086940,Baldur's Gate 3,Steam PC,"RPG, Adventure, Strategy",99.5,0.0,9.1
+76561198010000027,PhoBoTai_27,2358720,Black Myth: Wukong,Steam PC,"Action, RPG, Mythology",75.3,0.0,8.78
+76561198010000027,PhoBoTai_27,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",16.8,0.0,7.11
+76561198010000028,TraDaViaHe_28,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",46.2,22.4,8.23
+76561198010000028,TraDaViaHe_28,281990,Stellaris,Steam PC,"Strategy, Simulation, Sci-Fi",235.8,14.7,10.0
+76561198010000028,TraDaViaHe_28,892970,Valheim,Steam PC,"Survival, Open World, Sandbox",32.8,0.0,7.85
+76561198010000028,TraDaViaHe_28,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",35.0,0.0,7.92
+76561198010000028,TraDaViaHe_28,1091500,Cyberpunk 2077,Steam PC,"RPG, Open World, Sci-Fi",248.7,0.0,10.0
+76561198010000028,TraDaViaHe_28,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",45.5,0.0,8.22
+76561198010000028,TraDaViaHe_28,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",50.7,0.0,8.34
+76561198010000029,BunChaQue_29,1086940,Baldur's Gate 3,Steam PC,"RPG, Adventure, Strategy",258.4,19.6,10.0
+76561198010000029,BunChaQue_29,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",168.7,7.3,9.7
+76561198010000029,BunChaQue_29,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",76.5,0.0,8.8
+76561198010000029,BunChaQue_29,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",248.0,0.0,10.0
+76561198010000030,ComRangDuiGa_30,281990,Stellaris,Steam PC,"Strategy, Simulation, Sci-Fi",72.7,2.7,8.75
+76561198010000030,ComRangDuiGa_30,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",146.7,13.9,9.54
+76561198010000030,ComRangDuiGa_30,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",160.9,0.0,9.65
+76561198010000030,ComRangDuiGa_30,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",93.5,0.0,9.03
+76561198010000030,ComRangDuiGa_30,1091500,Cyberpunk 2077,Steam PC,"RPG, Open World, Sci-Fi",46.8,0.0,8.25
+76561198010000030,ComRangDuiGa_30,2358720,Black Myth: Wukong,Steam PC,"Action, RPG, Mythology",30.9,0.0,7.78
+76561198010000030,ComRangDuiGa_30,1086940,Baldur's Gate 3,Steam PC,"RPG, Adventure, Strategy",77.3,0.0,8.81
+76561198010000030,ComRangDuiGa_30,892970,Valheim,Steam PC,"Survival, Open World, Sandbox",120.8,0.0,9.32
+76561198010000030,ComRangDuiGa_30,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",9.8,0.0,6.54
+76561198010000030,ComRangDuiGa_30,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",73.6,0.0,8.76
+76561198010000031,ChillGuy_99_31,2358720,Black Myth: Wukong,Steam PC,"Action, RPG, Mythology",315.6,6.6,10.0
+76561198010000031,ChillGuy_99_31,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",187.8,5.9,9.83
+76561198010000031,ChillGuy_99_31,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",95.4,0.0,9.05
+76561198010000031,ChillGuy_99_31,892970,Valheim,Steam PC,"Survival, Open World, Sandbox",48.9,0.0,8.3
+76561198010000031,ChillGuy_99_31,1091500,Cyberpunk 2077,Steam PC,"RPG, Open World, Sci-Fi",113.2,0.0,9.25
+76561198010000031,ChillGuy_99_31,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",27.4,0.0,7.65
+76561198010000032,BadBoy_No1_32,1086940,Baldur's Gate 3,Steam PC,"RPG, Adventure, Strategy",356.6,8.7,10.0
+76561198010000032,BadBoy_No1_32,892970,Valheim,Steam PC,"Survival, Open World, Sandbox",56.9,4.3,8.47
+76561198010000032,BadBoy_No1_32,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",323.6,0.0,10.0
+76561198010000032,BadBoy_No1_32,1145360,Hades,Steam PC,"Action, Roguelike, Indie",112.4,0.0,9.24
+76561198010000032,BadBoy_No1_32,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",331.5,0.0,10.0
+76561198010000032,BadBoy_No1_32,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",126.3,0.0,9.37
+76561198010000032,BadBoy_No1_32,1091500,Cyberpunk 2077,Steam PC,"RPG, Open World, Sci-Fi",39.4,0.0,8.05
+76561198010000032,BadBoy_No1_32,2358720,Black Myth: Wukong,Steam PC,"Action, RPG, Mythology",120.6,0.0,9.32
+76561198010000032,BadBoy_No1_32,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",153.7,0.0,9.6
+76561198010000032,BadBoy_No1_32,281990,Stellaris,Steam PC,"Strategy, Simulation, Sci-Fi",55.6,0.0,8.44
+76561198010000033,LonelyWolf_33,1091500,Cyberpunk 2077,Steam PC,"RPG, Open World, Sci-Fi",361.1,12.1,10.0
+76561198010000033,LonelyWolf_33,892970,Valheim,Steam PC,"Survival, Open World, Sandbox",139.9,13.3,9.49
+76561198010000033,LonelyWolf_33,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",36.9,0.0,7.98
+76561198010000033,LonelyWolf_33,1145360,Hades,Steam PC,"Action, Roguelike, Indie",166.9,0.0,9.69
+76561198010000033,LonelyWolf_33,2358720,Black Myth: Wukong,Steam PC,"Action, RPG, Mythology",209.3,0.0,9.95
+76561198010000033,LonelyWolf_33,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",212.4,0.0,9.97
+76561198010000034,ShadowSniper_34,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",405.8,17.7,10.0
+76561198010000034,ShadowSniper_34,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",237.3,4.4,10.0
+76561198010000034,ShadowSniper_34,1086940,Baldur's Gate 3,Steam PC,"RPG, Adventure, Strategy",264.0,0.0,10.0
+76561198010000034,ShadowSniper_34,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",207.0,0.0,9.94
+76561198010000034,ShadowSniper_34,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",56.8,0.0,8.47
+76561198010000035,PhantomBlade_35,892970,Valheim,Steam PC,"Survival, Open World, Sandbox",95.4,8.7,9.05
+76561198010000035,PhantomBlade_35,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",137.9,20.7,9.47
+76561198010000035,PhantomBlade_35,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",228.8,0.0,10.0
+76561198010000035,PhantomBlade_35,1086940,Baldur's Gate 3,Steam PC,"RPG, Adventure, Strategy",38.5,0.0,8.03
+76561198010000035,PhantomBlade_35,281990,Stellaris,Steam PC,"Strategy, Simulation, Sci-Fi",121.5,0.0,9.33
+76561198010000035,PhantomBlade_35,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",219.5,0.0,10.0
+76561198010000035,PhantomBlade_35,1145360,Hades,Steam PC,"Action, Roguelike, Indie",160.6,0.0,9.65
+76561198010000035,PhantomBlade_35,1091500,Cyberpunk 2077,Steam PC,"RPG, Open World, Sci-Fi",222.3,0.0,10.0
+76561198010000035,PhantomBlade_35,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",159.4,0.0,9.64
+76561198010000036,NeonRider_36,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",191.1,22.4,9.85
+76561198010000036,NeonRider_36,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",126.7,22.9,9.38
+76561198010000036,NeonRider_36,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",113.1,0.0,9.25
+76561198010000036,NeonRider_36,892970,Valheim,Steam PC,"Survival, Open World, Sandbox",105.6,0.0,9.17
+76561198010000036,NeonRider_36,2358720,Black Myth: Wukong,Steam PC,"Action, RPG, Mythology",55.8,0.0,8.45
+76561198010000036,NeonRider_36,1086940,Baldur's Gate 3,Steam PC,"RPG, Adventure, Strategy",47.0,0.0,8.25
+76561198010000036,NeonRider_36,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",96.4,0.0,9.07
+76561198010000036,NeonRider_36,1145360,Hades,Steam PC,"Action, Roguelike, Indie",18.8,0.0,7.23
+76561198010000036,NeonRider_36,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",36.8,0.0,7.98
+76561198010000036,NeonRider_36,1091500,Cyberpunk 2077,Steam PC,"RPG, Open World, Sci-Fi",125.4,0.0,9.37
+76561198010000037,GlitchMatrix_37,1086940,Baldur's Gate 3,Steam PC,"RPG, Adventure, Strategy",140.4,9.3,9.49
+76561198010000037,GlitchMatrix_37,2358720,Black Myth: Wukong,Steam PC,"Action, RPG, Mythology",140.9,14.4,9.5
+76561198010000037,GlitchMatrix_37,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",289.2,0.0,10.0
+76561198010000037,GlitchMatrix_37,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",74.0,0.0,8.77
+76561198010000037,GlitchMatrix_37,1091500,Cyberpunk 2077,Steam PC,"RPG, Open World, Sci-Fi",60.8,0.0,8.54
+76561198010000037,GlitchMatrix_37,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",56.1,0.0,8.45
+76561198010000037,GlitchMatrix_37,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",231.7,0.0,10.0
+76561198010000038,QuantumJumper_38,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",151.1,19.6,9.58
+76561198010000038,QuantumJumper_38,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",115.4,21.8,9.27
+76561198010000038,QuantumJumper_38,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",60.1,0.0,8.53
+76561198010000038,QuantumJumper_38,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",133.7,0.0,9.44
+76561198010000038,QuantumJumper_38,281990,Stellaris,Steam PC,"Strategy, Simulation, Sci-Fi",141.0,0.0,9.5
+76561198010000039,CosmicWanderer_39,1091500,Cyberpunk 2077,Steam PC,"RPG, Open World, Sci-Fi",467.4,20.0,10.0
+76561198010000039,CosmicWanderer_39,281990,Stellaris,Steam PC,"Strategy, Simulation, Sci-Fi",169.4,17.7,9.71
+76561198010000039,CosmicWanderer_39,2358720,Black Myth: Wukong,Steam PC,"Action, RPG, Mythology",258.9,0.0,10.0
+76561198010000039,CosmicWanderer_39,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",115.8,0.0,9.27
+76561198010000039,CosmicWanderer_39,1145360,Hades,Steam PC,"Action, Roguelike, Indie",276.4,0.0,10.0
+76561198010000039,CosmicWanderer_39,1086940,Baldur's Gate 3,Steam PC,"RPG, Adventure, Strategy",343.2,0.0,10.0
+76561198010000039,CosmicWanderer_39,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",137.2,0.0,9.47
+76561198010000039,CosmicWanderer_39,892970,Valheim,Steam PC,"Survival, Open World, Sandbox",110.7,0.0,9.22
+76561198010000039,CosmicWanderer_39,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",215.2,0.0,9.98
+76561198010000039,CosmicWanderer_39,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",314.2,0.0,10.0
+76561198010000040,StellarKnight_40,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",97.7,8.5,9.08
+76561198010000040,StellarKnight_40,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",226.2,9.9,10.0
+76561198010000040,StellarKnight_40,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",74.1,0.0,8.77
+76561198010000040,StellarKnight_40,892970,Valheim,Steam PC,"Survival, Open World, Sandbox",31.0,0.0,7.79
+76561198010000041,DragonSlayer_41,1145360,Hades,Steam PC,"Action, Roguelike, Indie",48.4,19.8,8.28
+76561198010000041,DragonSlayer_41,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",161.4,12.3,9.65
+76561198010000041,DragonSlayer_41,892970,Valheim,Steam PC,"Survival, Open World, Sandbox",83.8,0.0,8.91
+76561198010000041,DragonSlayer_41,1086940,Baldur's Gate 3,Steam PC,"RPG, Adventure, Strategy",158.2,0.0,9.63
+76561198010000042,TitanFallout_42,1145360,Hades,Steam PC,"Action, Roguelike, Indie",81.3,22.3,8.87
+76561198010000042,TitanFallout_42,1091500,Cyberpunk 2077,Steam PC,"RPG, Open World, Sci-Fi",166.7,7.1,9.69
+76561198010000042,TitanFallout_42,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",174.6,0.0,9.74
+76561198010000042,TitanFallout_42,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",143.6,0.0,9.52
+76561198010000042,TitanFallout_42,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",137.7,0.0,9.47
+76561198010000042,TitanFallout_42,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",103.8,0.0,9.15
+76561198010000042,TitanFallout_42,1086940,Baldur's Gate 3,Steam PC,"RPG, Adventure, Strategy",74.4,0.0,8.77
+76561198010000042,TitanFallout_42,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",10.7,0.0,6.63
+76561198010000042,TitanFallout_42,2358720,Black Myth: Wukong,Steam PC,"Action, RPG, Mythology",69.7,0.0,8.7
+76561198010000042,TitanFallout_42,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",71.2,0.0,8.72
+76561198010000043,VortexGamer_43,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",200.9,2.4,9.9
+76561198010000043,VortexGamer_43,1091500,Cyberpunk 2077,Steam PC,"RPG, Open World, Sci-Fi",85.4,18.7,8.93
+76561198010000043,VortexGamer_43,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",62.1,0.0,8.57
+76561198010000043,VortexGamer_43,2358720,Black Myth: Wukong,Steam PC,"Action, RPG, Mythology",103.5,0.0,9.15
+76561198010000043,VortexGamer_43,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",115.1,0.0,9.27
+76561198010000043,VortexGamer_43,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",105.4,0.0,9.17
+76561198010000043,VortexGamer_43,1145360,Hades,Steam PC,"Action, Roguelike, Indie",76.1,0.0,8.8
+76561198010000043,VortexGamer_43,892970,Valheim,Steam PC,"Survival, Open World, Sandbox",100.2,0.0,9.11
+76561198010000043,VortexGamer_43,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",98.3,0.0,9.09
+76561198010000043,VortexGamer_43,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",56.4,0.0,8.46
+76561198010000044,ApexPredator_44,1091500,Cyberpunk 2077,Steam PC,"RPG, Open World, Sci-Fi",12.9,22.1,6.83
+76561198010000044,ApexPredator_44,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",9.9,12.4,6.55
+76561198010000044,ApexPredator_44,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",95.3,0.0,9.05
+76561198010000044,ApexPredator_44,1086940,Baldur's Gate 3,Steam PC,"RPG, Adventure, Strategy",81.5,0.0,8.87
+76561198010000044,ApexPredator_44,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",86.3,0.0,8.94
+76561198010000044,ApexPredator_44,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",17.3,0.0,7.14
+76561198010000044,ApexPredator_44,1145360,Hades,Steam PC,"Action, Roguelike, Indie",104.2,0.0,9.15
+76561198010000044,ApexPredator_44,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",80.0,0.0,8.85
+76561198010000044,ApexPredator_44,892970,Valheim,Steam PC,"Survival, Open World, Sandbox",113.1,0.0,9.25
+76561198010000044,ApexPredator_44,2358720,Black Myth: Wukong,Steam PC,"Action, RPG, Mythology",119.1,0.0,9.31
+76561198010000045,StormBringer_45,892970,Valheim,Steam PC,"Survival, Open World, Sandbox",97.7,10.3,9.08
+76561198010000045,StormBringer_45,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",102.3,16.4,9.13
+76561198010000045,StormBringer_45,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",312.0,0.0,10.0
+76561198010000045,StormBringer_45,1145360,Hades,Steam PC,"Action, Roguelike, Indie",95.8,0.0,9.06
+76561198010000045,StormBringer_45,2358720,Black Myth: Wukong,Steam PC,"Action, RPG, Mythology",258.3,0.0,10.0
+76561198010000045,StormBringer_45,1086940,Baldur's Gate 3,Steam PC,"RPG, Adventure, Strategy",127.3,0.0,9.38
+76561198010000045,StormBringer_45,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",232.4,0.0,10.0
+76561198010000045,StormBringer_45,281990,Stellaris,Steam PC,"Strategy, Simulation, Sci-Fi",43.0,0.0,8.15
+76561198010000045,StormBringer_45,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",202.6,0.0,9.91
+76561198010000046,FrostByte_VN_46,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",82.8,20.6,8.89
+76561198010000046,FrostByte_VN_46,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",68.5,2.2,8.68
+76561198010000046,FrostByte_VN_46,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",33.6,0.0,7.88
+76561198010000046,FrostByte_VN_46,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",200.9,0.0,9.9
+76561198010000046,FrostByte_VN_46,2358720,Black Myth: Wukong,Steam PC,"Action, RPG, Mythology",214.3,0.0,9.98
+76561198010000047,ThunderStrike_47,1145360,Hades,Steam PC,"Action, Roguelike, Indie",300.8,6.2,10.0
+76561198010000047,ThunderStrike_47,892970,Valheim,Steam PC,"Survival, Open World, Sandbox",328.0,1.7,10.0
+76561198010000047,ThunderStrike_47,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",210.8,0.0,9.96
+76561198010000047,ThunderStrike_47,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",325.0,0.0,10.0
+76561198010000047,ThunderStrike_47,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",263.9,0.0,10.0
+76561198010000047,ThunderStrike_47,2358720,Black Myth: Wukong,Steam PC,"Action, RPG, Mythology",218.1,0.0,10.0
+76561198010000048,BlazeRunner_48,1086940,Baldur's Gate 3,Steam PC,"RPG, Adventure, Strategy",377.3,15.5,10.0
+76561198010000048,BlazeRunner_48,1091500,Cyberpunk 2077,Steam PC,"RPG, Open World, Sci-Fi",176.0,20.5,9.75
+76561198010000048,BlazeRunner_48,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",140.4,0.0,9.49
+76561198010000048,BlazeRunner_48,1145360,Hades,Steam PC,"Action, Roguelike, Indie",79.3,0.0,8.84
+76561198010000048,BlazeRunner_48,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",195.8,0.0,9.87
+76561198010000049,VenomSnake_49,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",429.8,6.3,10.0
+76561198010000049,VenomSnake_49,1145360,Hades,Steam PC,"Action, Roguelike, Indie",107.4,18.7,9.19
+76561198010000049,VenomSnake_49,1086940,Baldur's Gate 3,Steam PC,"RPG, Adventure, Strategy",237.1,0.0,10.0
+76561198010000049,VenomSnake_49,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",265.4,0.0,10.0
+76561198010000049,VenomSnake_49,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",140.5,0.0,9.5
+76561198010000049,VenomSnake_49,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",75.9,0.0,8.79
+76561198010000049,VenomSnake_49,892970,Valheim,Steam PC,"Survival, Open World, Sandbox",154.8,0.0,9.61
+76561198010000049,VenomSnake_49,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",251.5,0.0,10.0
+76561198010000049,VenomSnake_49,281990,Stellaris,Steam PC,"Strategy, Simulation, Sci-Fi",284.9,0.0,10.0
+76561198010000049,VenomSnake_49,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",302.5,0.0,10.0
+76561198010000050,GhostProtocol_50,281990,Stellaris,Steam PC,"Strategy, Simulation, Sci-Fi",477.5,19.4,10.0
+76561198010000050,GhostProtocol_50,2358720,Black Myth: Wukong,Steam PC,"Action, RPG, Mythology",112.9,22.6,9.25
+76561198010000050,GhostProtocol_50,892970,Valheim,Steam PC,"Survival, Open World, Sandbox",104.6,0.0,9.16
+76561198010000050,GhostProtocol_50,1086940,Baldur's Gate 3,Steam PC,"RPG, Adventure, Strategy",280.8,0.0,10.0
+76561198010000050,GhostProtocol_50,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",86.0,0.0,8.94
+76561198010000050,GhostProtocol_50,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",291.1,0.0,10.0
+76561198010000051,CyberNinja_51,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",194.6,11.1,9.87
+76561198010000051,CyberNinja_51,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",55.0,5.3,8.43
+76561198010000051,CyberNinja_51,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",13.4,0.0,6.87
+76561198010000051,CyberNinja_51,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",14.1,0.0,6.92
+76561198010000051,CyberNinja_51,281990,Stellaris,Steam PC,"Strategy, Simulation, Sci-Fi",109.4,0.0,9.21
+76561198010000052,NeonSamurai_52,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",156.2,1.4,9.62
+76561198010000052,NeonSamurai_52,892970,Valheim,Steam PC,"Survival, Open World, Sandbox",71.9,23.3,8.73
+76561198010000052,NeonSamurai_52,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",53.3,0.0,8.39
+76561198010000052,NeonSamurai_52,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",39.3,0.0,8.05
+76561198010000052,NeonSamurai_52,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",47.0,0.0,8.25
+76561198010000052,NeonSamurai_52,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",69.2,0.0,8.69
+76561198010000052,NeonSamurai_52,1091500,Cyberpunk 2077,Steam PC,"RPG, Open World, Sci-Fi",103.0,0.0,9.14
+76561198010000052,NeonSamurai_52,281990,Stellaris,Steam PC,"Strategy, Simulation, Sci-Fi",86.2,0.0,8.94
+76561198010000052,NeonSamurai_52,2358720,Black Myth: Wukong,Steam PC,"Action, RPG, Mythology",43.7,0.0,8.17
+76561198010000052,NeonSamurai_52,1086940,Baldur's Gate 3,Steam PC,"RPG, Adventure, Strategy",48.1,0.0,8.28
+76561198010000053,PixelHero_53,1145360,Hades,Steam PC,"Action, Roguelike, Indie",288.2,14.8,10.0
+76561198010000053,PixelHero_53,281990,Stellaris,Steam PC,"Strategy, Simulation, Sci-Fi",39.6,14.1,8.06
+76561198010000053,PixelHero_53,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",152.9,0.0,9.59
+76561198010000053,PixelHero_53,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",18.7,0.0,7.23
+76561198010000053,PixelHero_53,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",220.2,0.0,10.0
+76561198010000053,PixelHero_53,2358720,Black Myth: Wukong,Steam PC,"Action, RPG, Mythology",73.8,0.0,8.76
+76561198010000053,PixelHero_53,1086940,Baldur's Gate 3,Steam PC,"RPG, Adventure, Strategy",139.1,0.0,9.48
+76561198010000053,PixelHero_53,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",137.4,0.0,9.47
+76561198010000053,PixelHero_53,892970,Valheim,Steam PC,"Survival, Open World, Sandbox",197.2,0.0,9.88
+76561198010000053,PixelHero_53,1091500,Cyberpunk 2077,Steam PC,"RPG, Open World, Sci-Fi",246.0,0.0,10.0
+76561198010000054,RetroGamer_54,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",445.2,18.1,10.0
+76561198010000054,RetroGamer_54,1091500,Cyberpunk 2077,Steam PC,"RPG, Open World, Sci-Fi",259.4,23.8,10.0
+76561198010000054,RetroGamer_54,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",226.2,0.0,10.0
+76561198010000054,RetroGamer_54,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",215.5,0.0,9.98
+76561198010000054,RetroGamer_54,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",250.3,0.0,10.0
+76561198010000054,RetroGamer_54,2358720,Black Myth: Wukong,Steam PC,"Action, RPG, Mythology",209.6,0.0,9.95
+76561198010000054,RetroGamer_54,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",307.8,0.0,10.0
+76561198010000054,RetroGamer_54,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",140.8,0.0,9.5
+76561198010000054,RetroGamer_54,281990,Stellaris,Steam PC,"Strategy, Simulation, Sci-Fi",129.4,0.0,9.4
+76561198010000055,ArcadeKing_55,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",217.1,3.6,9.99
+76561198010000055,ArcadeKing_55,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",38.5,19.1,8.03
+76561198010000055,ArcadeKing_55,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",57.6,0.0,8.48
+76561198010000055,ArcadeKing_55,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",64.4,0.0,8.61
+76561198010000056,ConsolePeasant_56,1145360,Hades,Steam PC,"Action, Roguelike, Indie",187.1,2.3,9.82
+76561198010000056,ConsolePeasant_56,2358720,Black Myth: Wukong,Steam PC,"Action, RPG, Mythology",63.4,13.8,8.59
+76561198010000056,ConsolePeasant_56,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",78.9,0.0,8.84
+76561198010000056,ConsolePeasant_56,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",57.6,0.0,8.48
+76561198010000056,ConsolePeasant_56,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",120.3,0.0,9.32
+76561198010000056,ConsolePeasant_56,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",46.2,0.0,8.23
+76561198010000056,ConsolePeasant_56,892970,Valheim,Steam PC,"Survival, Open World, Sandbox",153.2,0.0,9.59
+76561198010000056,ConsolePeasant_56,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",41.7,0.0,8.12
+76561198010000056,ConsolePeasant_56,281990,Stellaris,Steam PC,"Strategy, Simulation, Sci-Fi",122.7,0.0,9.34
+76561198010000057,PC_MasterRace_57,281990,Stellaris,Steam PC,"Strategy, Simulation, Sci-Fi",276.9,0.9,10.0
+76561198010000057,PC_MasterRace_57,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",20.1,5.5,7.31
+76561198010000057,PC_MasterRace_57,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",95.1,0.0,9.05
+76561198010000057,PC_MasterRace_57,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",50.0,0.0,8.32
+76561198010000057,PC_MasterRace_57,1145360,Hades,Steam PC,"Action, Roguelike, Indie",234.7,0.0,10.0
+76561198010000058,SteamDeck_Guy_58,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",132.7,2.6,9.43
+76561198010000058,SteamDeck_Guy_58,2358720,Black Myth: Wukong,Steam PC,"Action, RPG, Mythology",140.6,23.3,9.5
+76561198010000058,SteamDeck_Guy_58,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",50.9,0.0,8.34
+76561198010000058,SteamDeck_Guy_58,1145360,Hades,Steam PC,"Action, Roguelike, Indie",48.5,0.0,8.29
+76561198010000059,SwitchAddict_59,281990,Stellaris,Steam PC,"Strategy, Simulation, Sci-Fi",403.6,19.7,10.0
+76561198010000059,SwitchAddict_59,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",22.3,13.4,7.42
+76561198010000059,SwitchAddict_59,2358720,Black Myth: Wukong,Steam PC,"Action, RPG, Mythology",121.3,0.0,9.33
+76561198010000059,SwitchAddict_59,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",306.0,0.0,10.0
+76561198010000059,SwitchAddict_59,1091500,Cyberpunk 2077,Steam PC,"RPG, Open World, Sci-Fi",110.4,0.0,9.22
+76561198010000059,SwitchAddict_59,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",106.3,0.0,9.18
+76561198010000059,SwitchAddict_59,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",213.0,0.0,9.97
+76561198010000059,SwitchAddict_59,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",286.2,0.0,10.0
+76561198010000059,SwitchAddict_59,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",208.1,0.0,9.94
+76561198010000059,SwitchAddict_59,1145360,Hades,Steam PC,"Action, Roguelike, Indie",183.6,0.0,9.8
+76561198010000060,VR_Junkie_60,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",222.1,15.5,10.0
+76561198010000060,VR_Junkie_60,1091500,Cyberpunk 2077,Steam PC,"RPG, Open World, Sci-Fi",49.5,22.2,8.31
+76561198010000060,VR_Junkie_60,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",118.1,0.0,9.3
+76561198010000060,VR_Junkie_60,1086940,Baldur's Gate 3,Steam PC,"RPG, Adventure, Strategy",109.7,0.0,9.21
+76561198010000061,Lagged_VN_61,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",175.9,4.1,9.75
+76561198010000061,Lagged_VN_61,892970,Valheim,Steam PC,"Survival, Open World, Sandbox",146.7,4.2,9.54
+76561198010000061,Lagged_VN_61,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",126.4,0.0,9.37
+76561198010000061,Lagged_VN_61,1145360,Hades,Steam PC,"Action, Roguelike, Indie",9.3,0.0,6.48
+76561198010000061,Lagged_VN_61,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",111.4,0.0,9.23
+76561198010000061,Lagged_VN_61,1086940,Baldur's Gate 3,Steam PC,"RPG, Adventure, Strategy",51.8,0.0,8.36
+76561198010000061,Lagged_VN_61,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",62.4,0.0,8.57
+76561198010000061,Lagged_VN_61,1091500,Cyberpunk 2077,Steam PC,"RPG, Open World, Sci-Fi",134.4,0.0,9.44
+76561198010000061,Lagged_VN_61,2358720,Black Myth: Wukong,Steam PC,"Action, RPG, Mythology",64.5,0.0,8.61
+76561198010000062,Ping999ms_62,281990,Stellaris,Steam PC,"Strategy, Simulation, Sci-Fi",110.5,13.3,9.22
+76561198010000062,Ping999ms_62,1091500,Cyberpunk 2077,Steam PC,"RPG, Open World, Sci-Fi",72.9,5.4,8.75
+76561198010000062,Ping999ms_62,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",167.9,0.0,9.7
+76561198010000062,Ping999ms_62,1145360,Hades,Steam PC,"Action, Roguelike, Indie",20.4,0.0,7.32
+76561198010000062,Ping999ms_62,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",253.6,0.0,10.0
+76561198010000062,Ping999ms_62,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",183.5,0.0,9.8
+76561198010000063,DisconnectPro_63,1145360,Hades,Steam PC,"Action, Roguelike, Indie",95.8,22.3,9.06
+76561198010000063,DisconnectPro_63,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",110.1,13.7,9.22
+76561198010000063,DisconnectPro_63,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",143.3,0.0,9.52
+76561198010000063,DisconnectPro_63,1091500,Cyberpunk 2077,Steam PC,"RPG, Open World, Sci-Fi",165.0,0.0,9.68
+76561198010000063,DisconnectPro_63,2358720,Black Myth: Wukong,Steam PC,"Action, RPG, Mythology",91.0,0.0,9.0
+76561198010000063,DisconnectPro_63,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",108.6,0.0,9.2
+76561198010000063,DisconnectPro_63,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",23.4,0.0,7.47
+76561198010000063,DisconnectPro_63,892970,Valheim,Steam PC,"Survival, Open World, Sandbox",172.3,0.0,9.73
+76561198010000064,AFK_Master_64,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",397.3,4.0,10.0
+76561198010000064,AFK_Master_64,1091500,Cyberpunk 2077,Steam PC,"RPG, Open World, Sci-Fi",167.5,20.1,9.7
+76561198010000064,AFK_Master_64,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",296.5,0.0,10.0
+76561198010000064,AFK_Master_64,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",251.5,0.0,10.0
+76561198010000064,AFK_Master_64,281990,Stellaris,Steam PC,"Strategy, Simulation, Sci-Fi",288.0,0.0,10.0
+76561198010000064,AFK_Master_64,1145360,Hades,Steam PC,"Action, Roguelike, Indie",247.5,0.0,10.0
+76561198010000064,AFK_Master_64,1086940,Baldur's Gate 3,Steam PC,"RPG, Adventure, Strategy",297.4,0.0,10.0
+76561198010000065,IntingMachine_65,1145360,Hades,Steam PC,"Action, Roguelike, Indie",130.0,3.0,9.41
+76561198010000065,IntingMachine_65,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",84.1,0.7,8.91
+76561198010000065,IntingMachine_65,281990,Stellaris,Steam PC,"Strategy, Simulation, Sci-Fi",50.7,0.0,8.34
+76561198010000065,IntingMachine_65,1091500,Cyberpunk 2077,Steam PC,"RPG, Open World, Sci-Fi",39.9,0.0,8.07
+76561198010000065,IntingMachine_65,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",203.8,0.0,9.92
+76561198010000065,IntingMachine_65,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",96.6,0.0,9.07
+76561198010000065,IntingMachine_65,892970,Valheim,Steam PC,"Survival, Open World, Sandbox",119.4,0.0,9.31
+76561198010000066,CarryOrThrow_66,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",159.0,22.6,9.64
+76561198010000066,CarryOrThrow_66,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",51.8,9.3,8.36
+76561198010000066,CarryOrThrow_66,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",42.5,0.0,8.14
+76561198010000066,CarryOrThrow_66,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",28.2,0.0,7.68
+76561198010000066,CarryOrThrow_66,1091500,Cyberpunk 2077,Steam PC,"RPG, Open World, Sci-Fi",45.2,0.0,8.21
+76561198010000067,BaoTeam_VN_67,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",351.2,9.0,10.0
+76561198010000067,BaoTeam_VN_67,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",60.4,14.5,8.54
+76561198010000067,BaoTeam_VN_67,1091500,Cyberpunk 2077,Steam PC,"RPG, Open World, Sci-Fi",81.8,0.0,8.88
+76561198010000067,BaoTeam_VN_67,281990,Stellaris,Steam PC,"Strategy, Simulation, Sci-Fi",294.5,0.0,10.0
+76561198010000067,BaoTeam_VN_67,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",294.5,0.0,10.0
+76561198010000067,BaoTeam_VN_67,1145360,Hades,Steam PC,"Action, Roguelike, Indie",173.5,0.0,9.74
+76561198010000067,BaoTeam_VN_67,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",234.9,0.0,10.0
+76561198010000067,BaoTeam_VN_67,892970,Valheim,Steam PC,"Survival, Open World, Sandbox",246.5,0.0,10.0
+76561198010000068,TopGankFailed_68,2358720,Black Myth: Wukong,Steam PC,"Action, RPG, Mythology",230.2,1.8,10.0
+76561198010000068,TopGankFailed_68,281990,Stellaris,Steam PC,"Strategy, Simulation, Sci-Fi",190.1,5.3,9.84
+76561198010000068,TopGankFailed_68,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",56.2,0.0,8.45
+76561198010000068,TopGankFailed_68,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",28.1,0.0,7.68
+76561198010000069,SmurfAccount_69,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",387.1,1.2,10.0
+76561198010000069,SmurfAccount_69,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",149.3,16.7,9.56
+76561198010000069,SmurfAccount_69,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",139.8,0.0,9.49
+76561198010000069,SmurfAccount_69,281990,Stellaris,Steam PC,"Strategy, Simulation, Sci-Fi",83.7,0.0,8.9
+76561198010000069,SmurfAccount_69,1091500,Cyberpunk 2077,Steam PC,"RPG, Open World, Sci-Fi",75.2,0.0,8.78
+76561198010000069,SmurfAccount_69,892970,Valheim,Steam PC,"Survival, Open World, Sandbox",219.2,0.0,10.0
+76561198010000069,SmurfAccount_69,1145360,Hades,Steam PC,"Action, Roguelike, Indie",218.2,0.0,10.0
+76561198010000070,HardStuck_Iron_70,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",168.7,2.4,9.7
+76561198010000070,HardStuck_Iron_70,892970,Valheim,Steam PC,"Survival, Open World, Sandbox",39.6,14.3,8.06
+76561198010000070,HardStuck_Iron_70,2358720,Black Myth: Wukong,Steam PC,"Action, RPG, Mythology",11.5,0.0,6.7
+76561198010000070,HardStuck_Iron_70,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",72.6,0.0,8.74
+76561198010000070,HardStuck_Iron_70,1086940,Baldur's Gate 3,Steam PC,"RPG, Adventure, Strategy",51.6,0.0,8.36
+76561198010000070,HardStuck_Iron_70,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",33.5,0.0,7.87
+76561198010000070,HardStuck_Iron_70,281990,Stellaris,Steam PC,"Strategy, Simulation, Sci-Fi",14.4,0.0,6.94
+76561198010000070,HardStuck_Iron_70,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",10.3,0.0,6.59
+76561198010000070,HardStuck_Iron_70,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",32.2,0.0,7.83
+76561198010000070,HardStuck_Iron_70,1091500,Cyberpunk 2077,Steam PC,"RPG, Open World, Sci-Fi",141.8,0.0,9.51
+76561198010000071,Challenger_0_71,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",179.8,2.4,9.78
+76561198010000071,Challenger_0_71,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",66.4,3.7,8.64
+76561198010000071,Challenger_0_71,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",152.5,0.0,9.59
+76561198010000071,Challenger_0_71,1086940,Baldur's Gate 3,Steam PC,"RPG, Adventure, Strategy",87.5,0.0,8.96
+76561198010000071,Challenger_0_71,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",110.3,0.0,9.22
+76561198010000071,Challenger_0_71,1091500,Cyberpunk 2077,Steam PC,"RPG, Open World, Sci-Fi",126.7,0.0,9.38
+76561198010000071,Challenger_0_71,281990,Stellaris,Steam PC,"Strategy, Simulation, Sci-Fi",81.6,0.0,8.88
+76561198010000071,Challenger_0_71,1145360,Hades,Steam PC,"Action, Roguelike, Indie",198.4,0.0,9.89
+76561198010000071,Challenger_0_71,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",154.0,0.0,9.6
+76561198010000071,Challenger_0_71,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",134.1,0.0,9.44
+76561198010000072,UnrankedGod_72,892970,Valheim,Steam PC,"Survival, Open World, Sandbox",111.1,11.3,9.23
+76561198010000072,UnrankedGod_72,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",150.0,16.1,9.57
+76561198010000072,UnrankedGod_72,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",40.6,0.0,8.09
+76561198010000072,UnrankedGod_72,2358720,Black Myth: Wukong,Steam PC,"Action, RPG, Mythology",108.1,0.0,9.2
+76561198010000072,UnrankedGod_72,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",10.0,0.0,6.56
+76561198010000072,UnrankedGod_72,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",117.1,0.0,9.29
+76561198010000072,UnrankedGod_72,281990,Stellaris,Steam PC,"Strategy, Simulation, Sci-Fi",53.9,0.0,8.41
+76561198010000072,UnrankedGod_72,1145360,Hades,Steam PC,"Action, Roguelike, Indie",107.5,0.0,9.19
+76561198010000072,UnrankedGod_72,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",147.9,0.0,9.55
+76561198010000072,UnrankedGod_72,1091500,Cyberpunk 2077,Steam PC,"RPG, Open World, Sci-Fi",152.8,0.0,9.59
+76561198010000073,MetaAbuser_73,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",150.0,12.3,9.57
+76561198010000073,MetaAbuser_73,281990,Stellaris,Steam PC,"Strategy, Simulation, Sci-Fi",152.6,17.5,9.59
+76561198010000073,MetaAbuser_73,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",47.0,0.0,8.25
+76561198010000073,MetaAbuser_73,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",200.5,0.0,9.9
+76561198010000073,MetaAbuser_73,1091500,Cyberpunk 2077,Steam PC,"RPG, Open World, Sci-Fi",37.8,0.0,8.01
+76561198010000073,MetaAbuser_73,2358720,Black Myth: Wukong,Steam PC,"Action, RPG, Mythology",159.3,0.0,9.64
+76561198010000073,MetaAbuser_73,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",248.1,0.0,10.0
+76561198010000073,MetaAbuser_73,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",56.3,0.0,8.46
+76561198010000073,MetaAbuser_73,1145360,Hades,Steam PC,"Action, Roguelike, Indie",205.8,0.0,9.93
+76561198010000073,MetaAbuser_73,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",110.8,0.0,9.22
+76561198010000074,OneTrickPony_74,892970,Valheim,Steam PC,"Survival, Open World, Sandbox",144.5,22.0,9.53
+76561198010000074,OneTrickPony_74,2358720,Black Myth: Wukong,Steam PC,"Action, RPG, Mythology",158.7,12.0,9.63
+76561198010000074,OneTrickPony_74,281990,Stellaris,Steam PC,"Strategy, Simulation, Sci-Fi",27.5,0.0,7.65
+76561198010000074,OneTrickPony_74,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",70.1,0.0,8.7
+76561198010000074,OneTrickPony_74,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",133.6,0.0,9.44
+76561198010000074,OneTrickPony_74,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",102.7,0.0,9.14
+76561198010000074,OneTrickPony_74,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",40.5,0.0,8.08
+76561198010000075,TrashCan_Gamer_75,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",537.5,16.6,10.0
+76561198010000075,TrashCan_Gamer_75,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",107.0,10.3,9.18
+76561198010000075,TrashCan_Gamer_75,1086940,Baldur's Gate 3,Steam PC,"RPG, Adventure, Strategy",54.4,0.0,8.42
+76561198010000075,TrashCan_Gamer_75,892970,Valheim,Steam PC,"Survival, Open World, Sandbox",133.4,0.0,9.44
+76561198010000075,TrashCan_Gamer_75,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",280.5,0.0,10.0
+76561198010000075,TrashCan_Gamer_75,2358720,Black Myth: Wukong,Steam PC,"Action, RPG, Mythology",149.4,0.0,9.57
+76561198010000075,TrashCan_Gamer_75,1091500,Cyberpunk 2077,Steam PC,"RPG, Open World, Sci-Fi",281.2,0.0,10.0
+76561198010000076,GachaAddict_76,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",208.9,22.8,9.95
+76561198010000076,GachaAddict_76,1086940,Baldur's Gate 3,Steam PC,"RPG, Adventure, Strategy",130.7,18.3,9.41
+76561198010000076,GachaAddict_76,1145360,Hades,Steam PC,"Action, Roguelike, Indie",81.6,0.0,8.88
+76561198010000076,GachaAddict_76,2358720,Black Myth: Wukong,Steam PC,"Action, RPG, Mythology",156.6,0.0,9.62
+76561198010000076,GachaAddict_76,892970,Valheim,Steam PC,"Survival, Open World, Sandbox",102.2,0.0,9.13
+76561198010000076,GachaAddict_76,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",143.5,0.0,9.52
+76561198010000076,GachaAddict_76,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",58.9,0.0,8.51
+76561198010000076,GachaAddict_76,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",142.4,0.0,9.51
+76561198010000076,GachaAddict_76,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",54.2,0.0,8.41
+76561198010000077,WhaleSpender_77,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",221.8,23.0,10.0
+76561198010000077,WhaleSpender_77,281990,Stellaris,Steam PC,"Strategy, Simulation, Sci-Fi",177.4,22.7,9.76
+76561198010000077,WhaleSpender_77,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",188.3,0.0,9.83
+76561198010000077,WhaleSpender_77,2358720,Black Myth: Wukong,Steam PC,"Action, RPG, Mythology",185.2,0.0,9.81
+76561198010000077,WhaleSpender_77,1145360,Hades,Steam PC,"Action, Roguelike, Indie",200.2,0.0,9.9
+76561198010000077,WhaleSpender_77,1086940,Baldur's Gate 3,Steam PC,"RPG, Adventure, Strategy",194.7,0.0,9.87
+76561198010000077,WhaleSpender_77,1091500,Cyberpunk 2077,Steam PC,"RPG, Open World, Sci-Fi",79.4,0.0,8.85
+76561198010000078,F2P_Broke_78,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",51.1,21.1,8.35
+76561198010000078,F2P_Broke_78,892970,Valheim,Steam PC,"Survival, Open World, Sandbox",109.5,22.2,9.21
+76561198010000078,F2P_Broke_78,2358720,Black Myth: Wukong,Steam PC,"Action, RPG, Mythology",56.8,0.0,8.47
+76561198010000078,F2P_Broke_78,1086940,Baldur's Gate 3,Steam PC,"RPG, Adventure, Strategy",136.6,0.0,9.46
+76561198010000078,F2P_Broke_78,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",33.9,0.0,7.89
+76561198010000078,F2P_Broke_78,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",110.5,0.0,9.22
+76561198010000078,F2P_Broke_78,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",139.5,0.0,9.49
+76561198010000078,F2P_Broke_78,281990,Stellaris,Steam PC,"Strategy, Simulation, Sci-Fi",85.9,0.0,8.93
+76561198010000079,RNG_esus_79,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",164.1,5.6,9.67
+76561198010000079,RNG_esus_79,1145360,Hades,Steam PC,"Action, Roguelike, Indie",95.4,12.4,9.05
+76561198010000079,RNG_esus_79,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",82.2,0.0,8.88
+76561198010000079,RNG_esus_79,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",10.2,0.0,6.58
+76561198010000079,RNG_esus_79,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",45.7,0.0,8.22
+76561198010000079,RNG_esus_79,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",47.4,0.0,8.26
+76561198010000080,CriticalMiss_80,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",78.3,4.0,8.83
+76561198010000080,CriticalMiss_80,2358720,Black Myth: Wukong,Steam PC,"Action, RPG, Mythology",40.7,10.0,8.09
+76561198010000080,CriticalMiss_80,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",37.3,0.0,7.99
+76561198010000080,CriticalMiss_80,1086940,Baldur's Gate 3,Steam PC,"RPG, Adventure, Strategy",40.5,0.0,8.08
+76561198010000080,CriticalMiss_80,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",109.3,0.0,9.21
+76561198010000080,CriticalMiss_80,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",54.5,0.0,8.42
+76561198010000080,CriticalMiss_80,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",57.0,0.0,8.47
+76561198010000081,HealPls_Bro_81,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",486.1,4.8,10.0
+76561198010000081,HealPls_Bro_81,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",52.6,21.7,8.38
+76561198010000081,HealPls_Bro_81,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",113.2,0.0,9.25
+76561198010000081,HealPls_Bro_81,892970,Valheim,Steam PC,"Survival, Open World, Sandbox",309.8,0.0,10.0
+76561198010000081,HealPls_Bro_81,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",247.7,0.0,10.0
+76561198010000081,HealPls_Bro_81,1145360,Hades,Steam PC,"Action, Roguelike, Indie",85.6,0.0,8.93
+76561198010000082,TankGap_Diff_82,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",199.4,17.3,9.9
+76561198010000082,TankGap_Diff_82,1086940,Baldur's Gate 3,Steam PC,"RPG, Adventure, Strategy",257.4,7.7,10.0
+76561198010000082,TankGap_Diff_82,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",136.8,0.0,9.46
+76561198010000082,TankGap_Diff_82,281990,Stellaris,Steam PC,"Strategy, Simulation, Sci-Fi",249.2,0.0,10.0
+76561198010000082,TankGap_Diff_82,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",81.5,0.0,8.87
+76561198010000082,TankGap_Diff_82,892970,Valheim,Steam PC,"Survival, Open World, Sandbox",195.9,0.0,9.88
+76561198010000083,JgDiff_Always_83,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",497.2,17.3,10.0
+76561198010000083,JgDiff_Always_83,2358720,Black Myth: Wukong,Steam PC,"Action, RPG, Mythology",89.5,16.8,8.98
+76561198010000083,JgDiff_Always_83,281990,Stellaris,Steam PC,"Strategy, Simulation, Sci-Fi",208.0,0.0,9.94
+76561198010000083,JgDiff_Always_83,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",285.8,0.0,10.0
+76561198010000083,JgDiff_Always_83,1145360,Hades,Steam PC,"Action, Roguelike, Indie",240.6,0.0,10.0
+76561198010000084,BotLane_Feed_84,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",145.5,20.7,9.54
+76561198010000084,BotLane_Feed_84,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",34.7,11.4,7.91
+76561198010000084,BotLane_Feed_84,281990,Stellaris,Steam PC,"Strategy, Simulation, Sci-Fi",221.1,0.0,10.0
+76561198010000084,BotLane_Feed_84,1145360,Hades,Steam PC,"Action, Roguelike, Indie",77.7,0.0,8.82
+76561198010000084,BotLane_Feed_84,892970,Valheim,Steam PC,"Survival, Open World, Sandbox",162.1,0.0,9.66
+76561198010000084,BotLane_Feed_84,2358720,Black Myth: Wukong,Steam PC,"Action, RPG, Mythology",125.6,0.0,9.37
+76561198010000084,BotLane_Feed_84,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",290.1,0.0,10.0
+76561198010000084,BotLane_Feed_84,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",33.5,0.0,7.87
+76561198010000085,TopLane_Island_85,892970,Valheim,Steam PC,"Survival, Open World, Sandbox",143.3,22.9,9.52
+76561198010000085,TopLane_Island_85,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",112.3,21.5,9.24
+76561198010000085,TopLane_Island_85,1086940,Baldur's Gate 3,Steam PC,"RPG, Adventure, Strategy",10.6,0.0,6.62
+76561198010000085,TopLane_Island_85,281990,Stellaris,Steam PC,"Strategy, Simulation, Sci-Fi",115.4,0.0,9.27
+76561198010000085,TopLane_Island_85,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",87.9,0.0,8.96
+76561198010000086,MidOrFeed_VN_86,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",164.6,15.5,9.68
+76561198010000086,MidOrFeed_VN_86,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",149.1,13.6,9.56
+76561198010000086,MidOrFeed_VN_86,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",142.4,0.0,9.51
+76561198010000086,MidOrFeed_VN_86,281990,Stellaris,Steam PC,"Strategy, Simulation, Sci-Fi",102.0,0.0,9.13
+76561198010000086,MidOrFeed_VN_86,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",72.4,0.0,8.74
+76561198010000086,MidOrFeed_VN_86,1091500,Cyberpunk 2077,Steam PC,"RPG, Open World, Sci-Fi",108.7,0.0,9.2
+76561198010000086,MidOrFeed_VN_86,892970,Valheim,Steam PC,"Survival, Open World, Sandbox",70.2,0.0,8.71
+76561198010000086,MidOrFeed_VN_86,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",35.7,0.0,7.94
+76561198010000086,MidOrFeed_VN_86,1086940,Baldur's Gate 3,Steam PC,"RPG, Adventure, Strategy",16.0,0.0,7.06
+76561198010000086,MidOrFeed_VN_86,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",141.0,0.0,9.5
+76561198010000087,SupportGap_87,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",250.7,9.7,10.0
+76561198010000087,SupportGap_87,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",171.4,2.9,9.72
+76561198010000087,SupportGap_87,1086940,Baldur's Gate 3,Steam PC,"RPG, Adventure, Strategy",16.4,0.0,7.08
+76561198010000087,SupportGap_87,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",35.8,0.0,7.95
+76561198010000087,SupportGap_87,1091500,Cyberpunk 2077,Steam PC,"RPG, Open World, Sci-Fi",200.0,0.0,9.9
+76561198010000088,VisionScore_0_88,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",34.5,11.1,7.9
+76561198010000088,VisionScore_0_88,2358720,Black Myth: Wukong,Steam PC,"Action, RPG, Mythology",10.4,20.4,6.6
+76561198010000088,VisionScore_0_88,1091500,Cyberpunk 2077,Steam PC,"RPG, Open World, Sci-Fi",55.2,0.0,8.43
+76561198010000088,VisionScore_0_88,892970,Valheim,Steam PC,"Survival, Open World, Sandbox",85.8,0.0,8.93
+76561198010000088,VisionScore_0_88,281990,Stellaris,Steam PC,"Strategy, Simulation, Sci-Fi",51.7,0.0,8.36
+76561198010000088,VisionScore_0_88,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",25.4,0.0,7.56
+76561198010000088,VisionScore_0_88,1086940,Baldur's Gate 3,Steam PC,"RPG, Adventure, Strategy",179.7,0.0,9.78
+76561198010000088,VisionScore_0_88,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",110.2,0.0,9.22
+76561198010000088,VisionScore_0_88,1145360,Hades,Steam PC,"Action, Roguelike, Indie",91.3,0.0,9.0
+76561198010000089,SmiteTooEarly_89,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",44.6,9.6,8.19
+76561198010000089,SmiteTooEarly_89,892970,Valheim,Steam PC,"Survival, Open World, Sandbox",129.2,19.3,9.4
+76561198010000089,SmiteTooEarly_89,1091500,Cyberpunk 2077,Steam PC,"RPG, Open World, Sci-Fi",86.5,0.0,8.94
+76561198010000089,SmiteTooEarly_89,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",195.3,0.0,9.87
+76561198010000089,SmiteTooEarly_89,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",158.5,0.0,9.63
+76561198010000090,FlashInPlace_90,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",463.3,11.2,10.0
+76561198010000090,FlashInPlace_90,1086940,Baldur's Gate 3,Steam PC,"RPG, Adventure, Strategy",83.5,5.8,8.9
+76561198010000090,FlashInPlace_90,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",109.4,0.0,9.21
+76561198010000090,FlashInPlace_90,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",128.6,0.0,9.39
+76561198010000090,FlashInPlace_90,281990,Stellaris,Steam PC,"Strategy, Simulation, Sci-Fi",39.2,0.0,8.05
+76561198010000090,FlashInPlace_90,2358720,Black Myth: Wukong,Steam PC,"Action, RPG, Mythology",120.5,0.0,9.32
+76561198010000090,FlashInPlace_90,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",33.1,0.0,7.86
+76561198010000090,FlashInPlace_90,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",34.9,0.0,7.92
+76561198010000091,PressR_Win_91,281990,Stellaris,Steam PC,"Strategy, Simulation, Sci-Fi",376.9,21.2,10.0
+76561198010000091,PressR_Win_91,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",320.8,10.2,10.0
+76561198010000091,PressR_Win_91,2358720,Black Myth: Wukong,Steam PC,"Action, RPG, Mythology",306.2,0.0,10.0
+76561198010000091,PressR_Win_91,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",261.4,0.0,10.0
+76561198010000092,ButtonMender_92,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",177.0,1.1,9.76
+76561198010000092,ButtonMender_92,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",59.2,9.6,8.51
+76561198010000092,ButtonMender_92,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",45.9,0.0,8.23
+76561198010000092,ButtonMender_92,1145360,Hades,Steam PC,"Action, Roguelike, Indie",125.2,0.0,9.36
+76561198010000093,ComboBreaker_93,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",200.1,11.6,9.9
+76561198010000093,ComboBreaker_93,1086940,Baldur's Gate 3,Steam PC,"RPG, Adventure, Strategy",17.5,5.2,7.16
+76561198010000093,ComboBreaker_93,2358720,Black Myth: Wukong,Steam PC,"Action, RPG, Mythology",50.3,0.0,8.33
+76561198010000093,ComboBreaker_93,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",136.4,0.0,9.46
+76561198010000093,ComboBreaker_93,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",30.8,0.0,7.78
+76561198010000093,ComboBreaker_93,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",24.7,0.0,7.53
+76561198010000093,ComboBreaker_93,281990,Stellaris,Steam PC,"Strategy, Simulation, Sci-Fi",113.8,0.0,9.25
+76561198010000093,ComboBreaker_93,1145360,Hades,Steam PC,"Action, Roguelike, Indie",23.2,0.0,7.46
+76561198010000094,RageQuit_Pro_94,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",245.7,17.4,10.0
+76561198010000094,RageQuit_Pro_94,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",101.6,14.6,9.13
+76561198010000094,RageQuit_Pro_94,1145360,Hades,Steam PC,"Action, Roguelike, Indie",24.3,0.0,7.52
+76561198010000094,RageQuit_Pro_94,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",107.5,0.0,9.19
+76561198010000094,RageQuit_Pro_94,892970,Valheim,Steam PC,"Survival, Open World, Sandbox",99.6,0.0,9.1
+76561198010000094,RageQuit_Pro_94,1086940,Baldur's Gate 3,Steam PC,"RPG, Adventure, Strategy",206.9,0.0,9.94
+76561198010000094,RageQuit_Pro_94,1091500,Cyberpunk 2077,Steam PC,"RPG, Open World, Sci-Fi",194.0,0.0,9.86
+76561198010000094,RageQuit_Pro_94,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",210.6,0.0,9.96
+76561198010000094,RageQuit_Pro_94,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",266.2,0.0,10.0
+76561198010000095,ControllerBroken_95,892970,Valheim,Steam PC,"Survival, Open World, Sandbox",485.3,12.9,10.0
+76561198010000095,ControllerBroken_95,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",171.5,5.0,9.72
+76561198010000095,ControllerBroken_95,2358720,Black Myth: Wukong,Steam PC,"Action, RPG, Mythology",273.6,0.0,10.0
+76561198010000095,ControllerBroken_95,281990,Stellaris,Steam PC,"Strategy, Simulation, Sci-Fi",317.4,0.0,10.0
+76561198010000096,KeyboardSmash_96,1086940,Baldur's Gate 3,Steam PC,"RPG, Adventure, Strategy",87.7,17.7,8.96
+76561198010000096,KeyboardSmash_96,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",128.6,21.1,9.39
+76561198010000096,KeyboardSmash_96,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",34.2,0.0,7.9
+76561198010000096,KeyboardSmash_96,1091500,Cyberpunk 2077,Steam PC,"RPG, Open World, Sci-Fi",218.6,0.0,10.0
+76561198010000096,KeyboardSmash_96,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",277.6,0.0,10.0
+76561198010000096,KeyboardSmash_96,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",208.8,0.0,9.95
+76561198010000096,KeyboardSmash_96,1145360,Hades,Steam PC,"Action, Roguelike, Indie",115.8,0.0,9.27
+76561198010000096,KeyboardSmash_96,892970,Valheim,Steam PC,"Survival, Open World, Sandbox",282.3,0.0,10.0
+76561198010000097,Headshot_Only_97,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",187.3,23.1,9.82
+76561198010000097,Headshot_Only_97,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",209.3,2.8,9.95
+76561198010000097,Headshot_Only_97,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",191.4,0.0,9.85
+76561198010000097,Headshot_Only_97,281990,Stellaris,Steam PC,"Strategy, Simulation, Sci-Fi",326.9,0.0,10.0
+76561198010000097,Headshot_Only_97,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",305.5,0.0,10.0
+76561198010000097,Headshot_Only_97,892970,Valheim,Steam PC,"Survival, Open World, Sandbox",113.1,0.0,9.25
+76561198010000097,Headshot_Only_97,2358720,Black Myth: Wukong,Steam PC,"Action, RPG, Mythology",94.6,0.0,9.04
+76561198010000097,Headshot_Only_97,1091500,Cyberpunk 2077,Steam PC,"RPG, Open World, Sci-Fi",100.5,0.0,9.11
+76561198010000098,BodyShot_Noob_98,2358720,Black Myth: Wukong,Steam PC,"Action, RPG, Mythology",72.9,20.2,8.75
+76561198010000098,BodyShot_Noob_98,1086940,Baldur's Gate 3,Steam PC,"RPG, Adventure, Strategy",80.1,4.1,8.86
+76561198010000098,BodyShot_Noob_98,730,Counter-Strike 2,Steam PC,"Action, FPS, Shooter",111.3,0.0,9.23
+76561198010000098,BodyShot_Noob_98,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",17.8,0.0,7.17
+76561198010000099,CampSpawn_VN_99,1145360,Hades,Steam PC,"Action, Roguelike, Indie",136.4,23.9,9.46
+76561198010000099,CampSpawn_VN_99,2379780,Balatro,Nintendo Switch,"Indie, Roguelike, Strategy",27.4,7.4,7.65
+76561198010000099,CampSpawn_VN_99,1086940,Baldur's Gate 3,Steam PC,"RPG, Adventure, Strategy",19.7,0.0,7.28
+76561198010000099,CampSpawn_VN_99,553850,HELLDIVERS 2,Steam PC,"Action, Shooter, Co-op",118.8,0.0,9.3
+76561198010000099,CampSpawn_VN_99,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",39.5,0.0,8.06
+76561198010000099,CampSpawn_VN_99,892970,Valheim,Steam PC,"Survival, Open World, Sandbox",34.5,0.0,7.9
+76561198010000099,CampSpawn_VN_99,1091500,Cyberpunk 2077,Steam PC,"RPG, Open World, Sci-Fi",68.1,0.0,8.67
+76561198010000100,SneakyBeaky_100,413150,Stardew Valley,Nintendo Switch,"Indie, Simulation, RPG",359.2,20.5,10.0
+76561198010000100,SneakyBeaky_100,1086940,Baldur's Gate 3,Steam PC,"RPG, Adventure, Strategy",73.6,19.1,8.76
+76561198010000100,SneakyBeaky_100,281990,Stellaris,Steam PC,"Strategy, Simulation, Sci-Fi",149.8,0.0,9.57
+76561198010000100,SneakyBeaky_100,892970,Valheim,Steam PC,"Survival, Open World, Sandbox",105.7,0.0,9.17
+76561198010000100,SneakyBeaky_100,1145360,Hades,Steam PC,"Action, Roguelike, Indie",208.5,0.0,9.95
+76561198010000100,SneakyBeaky_100,1091500,Cyberpunk 2077,Steam PC,"RPG, Open World, Sci-Fi",77.5,0.0,8.82
+76561198010000100,SneakyBeaky_100,1245620,Elden Ring,Steam PC,"Action, RPG, Souls-like",119.4,0.0,9.31
+76561198010000100,SneakyBeaky_100,2358720,Black Myth: Wukong,Steam PC,"Action, RPG, Mythology",287.4,0.0,10.0
+76561198010000100,SneakyBeaky_100,292030,The Witcher 3: Wild Hunt,Steam PC,"RPG, Open World, Adventure",162.9,0.0,9.66

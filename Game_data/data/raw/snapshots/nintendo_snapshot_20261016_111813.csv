@@ -1,0 +1,1001 @@
+﻿timestamp,date,hour,app_id,name,platform,developer,publisher,price,initial_price,discount,is_free,release_date,players_max,size_mb,cloud_save,has_dlc,age_rating,popularity_score,genres,signal
+2026-10-16 11:17:58,2026-10-16,11,1174775,Skylanders Imaginators,Nintendo Switch,Toys for Bob,Activision,0.0,0.0,0,1,03/03/2017,2,0.0,1,0,PEGI 7,80.0,"Action, Adventure",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,1742943,Quantum League ®,Nintendo Switch,Nimble Giant Entertainment,Nimble Giant Entertainment,0.0,0.0,0,1,2050-12-31,4,0.0,0,0,TBD,80.0,First-Person Shooter,STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,1440702,Dragon: Marked for Death,Nintendo Switch,INTI CREATES,INTI CREATES,0.0,0.0,0,1,2019-12-31,4,0.0,0,0,TBD,80.0,"Action, Rpg",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,2266881,Endless Dungeon,Nintendo Switch,SEGA,SEGA,0.0,0.0,0,1,2023-12-31,1,0.0,0,0,PEGI 12 Provisional,80.0,Action,STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,2339325,DECAPOLICE,Nintendo Switch,LEVEL-5,LEVEL-5,0.0,0.0,0,1,2026-12-31,1,0.0,0,0,TBD,80.0,"Action, Adventure",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,1436858,Samurai Gunn 2,Nintendo Switch,Teknopants,Double Fine Presents,0.0,0.0,0,1,2050-12-31,4,0.0,1,0,TBD,80.0,"Action, Adventure, Fighting",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,1436983,Bullet Age,Nintendo Switch,Liv Games & Halfbot,Liv Games,0.0,0.0,0,1,2050-12-31,2,0.0,1,0,TBD,80.0,"Action, Platformer",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,1823604,She Dreams Elsewhere,Nintendo Switch,Studio Zevere,Studio Zevere,0.0,0.0,0,1,2050-12-31,1,0.0,0,0,PEGI 16,80.0,"Adventure, Rpg",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,2045653,Dying Light 2 Stay Human - Cloud Version,Nintendo Switch,Techland,Techland,0.0,0.0,0,1,2022-02-04,4,0.0,0,0,PEGI 18,80.0,"Action, Rpg",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,2069863,American Hero,Nintendo Switch,Ziggurat,Ziggurat,17.27,17.27,0,0,2021-11-11,1,0.0,1,0,PEGI 16,80.0,"Action, Adventure, Other",BUY
+2026-10-16 11:17:58,2026-10-16,11,2557083,Valley Peaks,Nintendo Switch,Those Awesome Guys,Those Awesome Guys,0.0,0.0,0,1,2025-12-31,1,0.0,0,0,PEGI 3,80.0,"Adventure, Platformer, Puzzle",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,2990608,25 in 1 Family Games Mega Collection,Nintendo Switch,Nintendo,Nintendo,0.0,0.0,0,1,2025-12-24,1,0.0,0,0,Unknown,80.0,"Action, Adventure",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,1638708,Ring Fit Adventure,Nintendo Switch,Nintendo,Nintendo,0.0,0.0,0,1,18/10/2019,1,0.0,0,0,PEGI 7,61.0,"Health & Fitness, Lifestyle",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,2799387,Enter the Gungeon 2,Nintendo Switch,Devolver Digital,Devolver Digital,0.0,0.0,0,1,2050-12-31,1,0.0,0,0,PEGI 12,80.0,"Action, Adventure",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,2258338,Cannon Fodder and Green Game Bundle,Nintendo Switch,Draw Distance,Draw Distance,13.81,13.81,0,0,2022-08-24,1,0.0,0,0,PEGI 12,80.0,"Action, Arcade, Platformer, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,2064654,Arcade Archives MAPPY,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2021-10-21,2,0.0,1,0,PEGI 3,80.0,"Action, Arcade",BUY
+2026-10-16 11:17:58,2026-10-16,11,2678906,Telebbit,Nintendo Switch,HYPER REAL,HYPER REAL,10.01,11.12,10,0,2024-10-24,1,0.0,1,0,PEGI 16,80.0,"Action, Arcade, Platformer",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,2837177,Lunara: Planet IX,Nintendo Switch,GAME NACIONAL,GAME NACIONAL,11.51,11.51,0,0,2025-05-31,1,0.0,1,0,PEGI 7,80.0,"Adventure, Other, Simulation",BUY
+2026-10-16 11:17:58,2026-10-16,11,2840376,Covenant of Solitude,Nintendo Switch,KEMCO,KEMCO,20.72,23.03,10,0,2025-06-05,1,0.0,1,1,PEGI 12,80.0,"Adventure, Rpg, Simulation, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,2684855,Heaven Impact,Nintendo Switch,NOSTRA GAMES,NOSTRA GAMES,0.0,0.0,0,1,2024-11-28,1,0.0,1,0,PEGI 12,80.0,Action,STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,2775758,Gun Shop Dealer Simulator,Nintendo Switch,TrueMotion Interactive,TrueMotion Interactive,11.51,11.51,0,0,2025-04-01,1,0.0,1,0,PEGI 3,80.0,Simulation,BUY
+2026-10-16 11:17:58,2026-10-16,11,2837215,Rolly Rails,Nintendo Switch,Entity3,Entity3,1.27,1.27,0,0,2025-05-24,1,0.0,1,0,PEGI 3,80.0,"Action, Arcade, Platformer, Racing",BUY
+2026-10-16 11:17:58,2026-10-16,11,2884694,Toree Saturn,Nintendo Switch,Diplodocus Games,Diplodocus Games,5.75,5.75,0,0,2025-08-08,1,0.0,1,0,PEGI 3,80.0,"Action, Adventure, Arcade, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,2890569,Bunny Girls,Nintendo Switch,AGE,AGE,3.57,3.57,0,0,2025-08-13,1,0.0,1,0,PEGI 3,80.0,"Board Game, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,2837202,Vasilisa and Baba Yaga,Nintendo Switch,Games Harbor,Games Harbor,16.12,16.12,0,0,2025-05-31,1,0.0,1,0,PEGI 7,80.0,"Adventure, Other, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,2874684,Mortal Glory 2,Nintendo Switch,Redbeak Games,Redbeak Games,10.23,12.79,20,0,2025-08-08,1,0.0,1,1,PEGI 7,80.0,"Adventure, Rpg, Simulation, Strategy",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,2273167,The Battle of Polytopia,Nintendo Switch,Midjiwan,Midjiwan,17.91,17.91,0,0,2022-10-12,9,0.0,1,1,PEGI 7,80.0,"Adventure, Board Game, Simulation, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,2814376,Pixel Game Maker Series GIRI Jump Extreme,Nintendo Switch,Gotcha Gotcha Games,Gotcha Gotcha Games,5.17,5.75,10,0,2025-05-01,1,0.0,1,0,PEGI 7,80.0,"Action, Adventure, Arcade, Sports",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,2339757,Professor Layton and the New World of Steam,Nintendo Switch,LEVEL5,LEVEL5,0.0,0.0,0,1,2026-12-10,1,0.0,0,0,TBD,80.0,"Action, Adventure",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,2890741,Dragon Knights Chronicle,Nintendo Switch,TROOOZE,TROOOZE,28.15,28.15,0,0,2025-08-07,1,0.0,1,0,PEGI 7,80.0,"Action, Rpg, Simulation, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,2834792,Ganja Cartel: Warfare Shooter Simulator,Nintendo Switch,Eclipse Interactive,Eclipse Interactive,6.98,6.98,0,0,2025-05-01,1,0.0,1,0,PEGI 12,80.0,"Action, Shooter, Simulation, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,2699859,Shawley - Zoo of Wonders,Nintendo Switch,EpiXR Games,EpiXR Games,3.44,17.27,80,0,2025-01-30,1,0.0,1,0,PEGI 7,80.0,"Action, Adventure, Other, Platformer",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,2890617,Anime Girls: Summer Vacay,Nintendo Switch,Pakotime,Pakotime,3.83,11.51,67,0,2025-08-06,1,0.0,1,0,PEGI 16,80.0,"Action, Other, Puzzle, Utility",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,2736849,Cycle Chaser H-5,Nintendo Switch,Ratalaika Games,Ratalaika Games,7.67,7.67,0,0,2025-01-24,1,0.0,1,0,PEGI 12,80.0,"Action, Arcade, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,2886705,A Dream About Parking Lots,Nintendo Switch,Take IT Studio!,Take IT Studio!,4.6,5.75,20,0,2025-07-31,1,0.0,1,0,PEGI 3,80.0,"Action, Arcade, Simulation",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000860,Levels+ : Addictive Puzzle Game,Nintendo Switch,flow,flow,3.19,6.39,50,0,2017-07-13,1,0.0,0,0,PEGI 3,80.0,"Board Game, Puzzle",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000502,Cave Story+,Nintendo Switch,Nicalis,Nicalis,34.55,34.55,0,0,2017-07-20,2,0.0,0,0,PEGI 12,80.0,"Action, Adventure, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000231,ACA NEOGEO SAMURAI SHODOWN,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2017-07-20,2,0.0,0,0,PEGI 12,80.0,"Arcade, Fighting",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000593,BOOST BEAST,Nintendo Switch,ARC SYSTEM WORKS,ARC SYSTEM WORKS,11.51,11.51,0,0,2017-07-20,1,0.0,1,0,PEGI 3,80.0,Puzzle,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000001186,ACA NEOGEO SUPER SIDEKICKS,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2017-07-27,2,0.0,0,0,PEGI 3,80.0,"Arcade, Football, Sports",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000524,Qbics Paint,Nintendo Switch,Abylight,Abylight,5.75,5.75,0,0,2017-07-27,1,0.0,0,0,PEGI 3,80.0,"Education, Lifestyle, Utility",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000172,Infinite Minigolf,Nintendo Switch,Zen Studios,Zen Studios,17.27,17.27,0,0,2017-07-27,8,0.0,1,1,PEGI 3,80.0,"Golf, Party, Sports",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000967,Ultra Hyperball,Nintendo Switch,SPRINGLOADED,SPRINGLOADED,11.51,11.51,0,0,2017-07-28,4,0.0,0,0,PEGI 3,80.0,"Action, Arcade, Party, Sports",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000509,PAC-MAN VS. Free Multiplayer-only Ver.,Nintendo Switch,Bandai Namco Entertainment,Bandai Namco Entertainment,0.0,0.0,0,1,2017-07-28,4,0.0,1,0,PEGI 12,80.0,Arcade,STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000771,Retro City Rampage DX,Nintendo Switch,Vblank Entertainment,Vblank Entertainment,3.32,16.63,80,0,2017-08-03,1,0.0,0,0,PEGI 12,80.0,"Action, Adventure, Arcade, Shooter",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000489,Use Your Words,Nintendo Switch,"Smiling Buddha Games, LLC","Smiling Buddha Games, LLC",15.09,15.09,0,0,2017-08-03,6,0.0,0,0,PEGI 16,80.0,"Board Game, Party",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000829,Puzzle Adventure Blockle,Nintendo Switch,INTENSE,INTENSE,7.67,7.67,0,0,2017-08-03,1,0.0,0,0,PEGI 12,80.0,"Adventure, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000001306,GUNBARICH for Nintendo Switch™,Nintendo Switch,City Connection,City Connection,7.67,7.67,0,0,2017-08-03,1,0.0,1,0,PEGI 3,80.0,"Action, Arcade, Puzzle, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000754,Rocket Fist,Nintendo Switch,Bitten Toast Games,Bitten Toast Games,11.51,11.51,0,0,2017-08-10,4,0.0,0,0,PEGI 7,80.0,"Action, Arcade, Fighting, Party",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000601,IRONCAST,Nintendo Switch,Dreadbit,Ripstone Publishing,6.64,16.63,60,0,2017-08-10,1,0.0,0,0,PEGI 12,80.0,"Puzzle, Strategy",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000371,ACA NEOGEO AERO FIGHTERS 2,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2017-08-03,2,0.0,0,0,PEGI 7,80.0,"Arcade, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000526,Slime-san,Nintendo Switch,Headup Games,Headup Games,2.56,12.8,80,0,2017-08-03,2,0.0,1,0,PEGI 3,80.0,"Action, Adventure, Platformer",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000001409,STRIKERS1945 for Nintendo Switch,Nintendo Switch,City Connection,City Connection,8.95,8.95,0,0,2017-08-02,2,0.0,1,0,PEGI 3,80.0,"Arcade, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000001373,Phantom Trigger,Nintendo Switch,tinyBuild Games,tinyBuild Games,17.27,17.27,0,0,2017-08-10,2,0.0,0,0,PEGI 12,80.0,"Action, Adventure",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000495,The Binding of Isaac: Afterbirth+,Nintendo Switch,Nicalis,Nicalis,46.07,46.07,0,0,2017-09-07,4,0.0,1,1,PEGI 16,80.0,"Action, Adventure",HOLD
+2026-10-16 11:17:58,2026-10-16,11,70010000001601,ACA NEOGEO THE KING OF FIGHTERS 2000,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2017-08-10,2,0.0,0,0,PEGI 12,80.0,"Arcade, Fighting",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000868,Severed,Nintendo Switch,DrinkBox Studios,DrinkBox Studios,4.31,17.27,75,0,2017-08-08,1,0.0,1,0,PEGI 12,80.0,"Action, Adventure, Rpg",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000374,ACA NEOGEO MAGICIAN LORD,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2017-08-17,2,0.0,0,0,PEGI 7,80.0,"Action, Arcade",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000714,forma.8,Nintendo Switch,MixedBag,MixedBag,11.51,11.51,0,0,2017-08-24,1,0.0,0,0,PEGI 7,80.0,"Action, Adventure",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000680,The Jackbox Party Pack,Nintendo Switch,Jackbox Games,Jackbox Games,24.31,24.31,0,0,2017-08-17,1,0.0,0,0,PEGI 12,80.0,Party,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000676,The Jackbox Party Pack 2,Nintendo Switch,Jackbox Games,Jackbox Games,24.31,24.31,0,0,2017-08-17,1,0.0,0,0,PEGI 12,80.0,Party,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000001384,Piczle Lines DX,Nintendo Switch,Rainy Frog,Rainy Frog,17.91,17.91,0,0,2017-08-24,1,0.0,1,0,PEGI 3,80.0,"Action, Arcade, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000001606,Astro Bears Party,Nintendo Switch,QubicGames,QubicGames,0.0,0.0,0,1,2017-09-28,4,0.0,1,0,PEGI 3,80.0,Party,STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000001521,Away: Journey to the Unexpected,Nintendo Switch,Plug In Digital,Plug In Digital,19.19,19.19,0,0,2019-02-07,1,0.0,1,0,PEGI 7,80.0,"Action, Adventure, First-Person Shooter, Rpg",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000687,Nine Parchments,Nintendo Switch,Frozenbyte,Frozenbyte,23.03,23.03,0,0,2017-12-05,4,0.0,1,0,PEGI 12,80.0,Rpg,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000001111,LEGO® Worlds,Nintendo Switch,TT Games,WB Games,31.99,31.99,0,0,2017-09-08,2,0.0,1,1,PEGI 7,80.0,Adventure,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000002736,Fe,Nintendo Switch,Zoink!,Electronic Arts,23.03,23.03,0,0,2018-02-16,1,0.0,0,0,PEGI 7,80.0,Adventure,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000377,ACA NEOGEO PUZZLED,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2017-08-24,2,0.0,0,0,PEGI 3,80.0,"Arcade, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000013434,Monster Boy and the Cursed Kingdom,Nintendo Switch,Game Atelier,FDG Entertainment,11.19,44.79,75,0,2018-12-04,1,0.0,1,0,PEGI 7,80.0,"Action, Adventure, Platformer, Rpg",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000001575,Yoku's Island Express,Nintendo Switch,Villa Gorilla,Team17,20.47,20.47,0,0,2018-05-29,1,0.0,1,0,PEGI 7,80.0,"Adventure, Arcade, Platformer, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000001315,Unbox: Newbie's Adventure,Nintendo Switch,Prospect Games,Silver Lining,31.99,31.99,0,0,2017-10-10,4,0.0,0,0,PEGI 3,80.0,Platformer,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000001198,ACA NEOGEO ZED BLADE,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2017-08-31,2,0.0,0,0,PEGI 7,80.0,"Arcade, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000644,Azure Striker GUNVOLT: STRIKER PACK,Nintendo Switch,Inti Creates,Inti Creates,40.31,40.31,0,0,2017-08-31,1,0.0,1,0,PEGI 12,80.0,Action,HOLD
+2026-10-16 11:17:58,2026-10-16,11,70010000001326,Sky Ride,Nintendo Switch,MUTAN,MUTAN,8.05,8.05,0,0,2017-08-28,1,0.0,0,0,PEGI 12,80.0,"Action, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000393,League of Evil,Nintendo Switch,Ratalaika Games,Ratalaika Games,9.2,9.2,0,0,2017-08-31,1,0.0,0,0,PEGI 7,80.0,"Action, Arcade, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000905,Lichtspeer: Double Speer Edition,Nintendo Switch,Crunching Koalas,Crunching Koalas,11.51,11.51,0,0,2017-09-07,2,0.0,1,0,PEGI 16,80.0,"Action, Arcade, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000874,The Bridge,Nintendo Switch,The Quantum Astrophysicists Guild,The Quantum Astrophysicists Guild,2.29,11.51,80,0,2017-09-07,1,0.0,0,0,PEGI 3,80.0,"Adventure, Platformer, Puzzle",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000386,ACA NEOGEO BLUE'S JOURNEY,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2017-09-07,2,0.0,0,0,PEGI 3,80.0,"Action, Arcade",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000001476,Double Dragon 4,Nintendo Switch,ARC SYSTEM WORKS,ARC SYSTEM WORKS,11.0,11.0,0,0,2017-09-07,2,0.0,1,0,PEGI 12,80.0,"Action, Fighting",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000001245,NeuroVoider,Nintendo Switch,Plug In Digital,Plug In Digital,16.63,16.63,0,0,2017-09-07,4,0.0,1,0,PEGI 7,80.0,"Action, Arcade, Rpg, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000001301,Quest of Dungeons,Nintendo Switch,Upfall Studios,Upfall Studios,10.23,10.23,0,0,2017-09-14,1,0.0,0,0,PEGI 12,80.0,"Action, Adventure, Rpg, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000001142,DRAGON BALL XENOVERSE 2 for Nintendo Switch,Nintendo Switch,Bandai Namco Entertainment,Bandai Namco Entertainment,5.75,23.03,75,0,2017-09-22,6,0.0,1,1,PEGI 12,80.0,"Action, Adventure, Fighting, Rpg",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000971,Semispheres,Nintendo Switch,Vivid Helix,Vivid Helix,11.51,11.51,0,0,2017-09-14,2,0.0,0,0,PEGI 3,80.0,"Puzzle, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000720,Beach Buggy Racing,Nintendo Switch,Vector Unit,Vector Unit,12.79,12.79,0,0,2017-09-14,4,0.0,0,0,PEGI 3,80.0,"Action, Racing",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000001681,36 Fragments of Midnight,Nintendo Switch,Ratalaika Games,Ratalaika Games,3.83,3.83,0,0,2017-09-14,1,0.0,0,0,PEGI 3,80.0,"Platformer, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000001101,Kingdom: New Lands,Nintendo Switch,Raw Fury,Raw Fury,17.27,17.27,0,0,2017-09-14,1,0.0,1,0,PEGI 7,80.0,"Adventure, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000001133,PAN-PAN A tiny big adventure,Nintendo Switch,CIRCLE Ent.,CIRCLE Ent.,6.39,6.39,0,0,2017-09-14,1,0.0,0,0,PEGI 3,80.0,"Adventure, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000413,Conga Master Party!,Nintendo Switch,Undercoders,Undercoders,3.06,10.23,70,0,2017-09-28,4,0.0,0,1,PEGI 3,80.0,"Arcade, Party",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000001195,ACA NEOGEO SPIN MASTER,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2017-09-14,2,0.0,0,0,PEGI 3,80.0,"Action, Arcade",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000001617,OCTOPATH TRAVELER,Nintendo Switch,Square Enix,SQUARE ENIX,63.99,63.99,0,0,2018-07-13,1,0.0,1,0,PEGI 12,80.0,"Adventure, Rpg",AVOID
+2026-10-16 11:17:58,2026-10-16,11,70010000001280,L.A. Noire,Nintendo Switch,ROCKSTAR GAMES,ROCKSTAR GAMES,57.59,57.59,0,0,2017-11-14,1,0.0,1,0,PEGI 18,80.0,"Action, Adventure",HOLD
+2026-10-16 11:17:58,2026-10-16,11,70010000001366,DOOM,Nintendo Switch,id Software,Bethesda,21.75,21.75,0,0,2017-11-10,12,0.0,1,0,PEGI 18,80.0,"Action, First-Person Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000005064,Wolfenstein II: The New Colossus,Nintendo Switch,MachineGames,Bethesda,44.79,44.79,0,0,2018-06-29,1,0.0,0,0,PEGI 18,80.0,"Action, First-Person Shooter",HOLD
+2026-10-16 11:17:58,2026-10-16,11,70010000000952,Robonauts,Nintendo Switch,QubicGames,QubicGames,1.78,4.47,60,0,2017-09-15,2,0.0,1,0,PEGI 7,80.0,"Action, Arcade, Shooter",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000916,Arcade Archives Mario Bros.,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2017-09-27,2,0.0,0,0,PEGI 3,80.0,Arcade,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000605,Morphies Law,Nintendo Switch,Cosmoscope,Cosmoscope,20.47,20.47,0,0,2018-08-20,8,0.0,0,0,PEGI 7,80.0,"Action, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000493,Thimbleweed Park,Nintendo Switch,Terrible Toybox,Terrible Toybox,19.19,19.19,0,0,2017-09-21,1,0.0,0,0,PEGI 12,80.0,"Adventure, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000002021,Arena of Valor,Nintendo Switch,Tencent Games,Tencent Games,0.0,0.0,0,1,2018-09-25,10,0.0,1,0,PEGI 12,80.0,Action,STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000005923,Dragon Quest Builders,Nintendo Switch,Square Enix,Nintendo,51.19,51.19,0,0,2018-02-09,1,0.0,1,0,PEGI 7,61.0,"Action, Adventure",HOLD
+2026-10-16 11:17:58,2026-10-16,11,70010000000383,ACA NEOGEO ART OF FIGHTING,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2017-09-21,2,0.0,0,0,PEGI 12,80.0,"Arcade, Fighting",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000877,PICROSS S,Nintendo Switch,JUPITER,JUPITER,9.2,9.2,0,0,2017-09-28,2,0.0,1,0,PEGI 3,80.0,Puzzle,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000001721,Binaries,Nintendo Switch,Ant Workshop,Ant Workshop,12.79,12.79,0,0,2017-09-28,1,0.0,0,0,PEGI 3,80.0,"Arcade, Platformer, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000541,INVERSUS Deluxe,Nintendo Switch,Hypersect,Hypersect,14.07,14.07,0,0,2017-09-28,4,0.0,1,0,PEGI 3,80.0,"Action, Arcade, Party, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000001473,Brave Dungeon + Dark Witch's Story:COMBAT,Nintendo Switch,INSIDE SYSTEM,INSIDE SYSTEM,10.36,10.36,0,0,2017-09-28,2,0.0,1,0,PEGI 12,80.0,"Adventure, Rpg",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000001530,The LEGO® NINJAGO® Movie Videogame,Nintendo Switch,WB Games,WB Games,63.99,63.99,0,0,2017-10-20,4,0.0,0,0,PEGI 7,80.0,Action,AVOID
+2026-10-16 11:17:58,2026-10-16,11,70010000001567,DEEMO,Nintendo Switch,Flyhigh Works,Flyhigh Works,34.55,34.55,0,0,2017-09-28,1,0.0,1,1,PEGI 3,80.0,Music,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000001431,BUTCHER,Nintendo Switch,Crunching Koalas,Crunching Koalas,11.51,11.51,0,0,2017-09-28,1,0.0,1,0,PEGI 16,80.0,"Action, Arcade, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000001189,ACA NEOGEO BURNING FIGHT,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2017-09-28,2,0.0,0,0,PEGI 12,80.0,"Action, Arcade",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000002241,Pankapu,Nintendo Switch,Plug In Digital,Plug In Digital,14.07,14.07,0,0,2017-09-28,1,0.0,1,0,PEGI 7,80.0,"Action, Adventure, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000775,Golf Story,Nintendo Switch,Sidebar Games,Sidebar Games,17.27,17.27,0,0,2017-09-28,2,0.0,1,0,PEGI 3,80.0,"Adventure, Golf, Rpg, Sports",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000001045,Sparkle 2,Nintendo Switch,10tons,10tons,8.95,8.95,0,0,2017-09-28,1,0.0,0,0,PEGI 3,80.0,"Action, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000966,One Piece: Unlimited World Red - Deluxe Edition,Nintendo Switch,Bandai Namco Entertainment,Bandai Namco Entertainment,70.39,70.39,0,0,2017-09-29,2,0.0,0,0,PEGI 12,80.0,"Action, Adventure",AVOID
+2026-10-16 11:17:58,2026-10-16,11,70010000002272,Earth Atlantis,Nintendo Switch,Headup Games,Headup Games,1.72,17.27,90,0,2017-10-05,1,0.0,0,0,PEGI 3,80.0,"Action, Adventure, Shooter",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000001375,Lovers in a Dangerous Spacetime,Nintendo Switch,Asteroid Base,Asteroid Base,15.35,15.35,0,0,2017-10-03,4,0.0,1,0,PEGI 7,80.0,"Action, Party, Simulation",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000001802,Stardew Valley,Nintendo Switch,ConcernedApe,ConcernedApe,14.07,14.07,0,0,2017-10-05,4,0.0,1,0,PEGI 12,80.0,"Rpg, Simulation",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000871,Tumblestone,Nintendo Switch,The Quantum Astrophysicists Guild,The Quantum Astrophysicists Guild,3.06,15.35,80,0,2017-10-05,4,0.0,0,0,PEGI 3,80.0,"Arcade, Party, Puzzle, Strategy",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000465,Ninja Shodown,Nintendo Switch,Bitmap Bureau,Bitmap Bureau,12.79,12.79,0,0,2017-10-05,4,0.0,0,0,PEGI 12,80.0,"Action, Arcade, Fighting, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000001350,Tower Of Babel,Nintendo Switch,FuriouSoftPhoenix,FuriouSoftPhoenix,7.13,7.13,0,0,2017-10-05,1,0.0,1,0,PEGI 3,80.0,"Action, Adventure, Arcade, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000820,Axiom Verge,Nintendo Switch,Thomas Happ Games,Thomas Happ Games,19.19,19.19,0,0,2017-10-05,1,0.0,1,0,PEGI 12,80.0,"Action, Adventure",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000002261,Völgarr the Viking,Nintendo Switch,Crazy Viking,Crazy Viking,11.51,11.51,0,0,2017-10-05,1,0.0,0,0,PEGI 16,80.0,"Action, Adventure, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000001192,ACA NEOGEO METAL SLUG X,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2017-10-05,2,0.0,0,0,PEGI 12,80.0,"Action, Arcade",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000001612,Oxenfree,Nintendo Switch,Night School,Night School,11.51,11.51,0,0,2017-10-05,1,0.0,1,0,PEGI 12,80.0,Adventure,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000796,Spelunker Party!,Nintendo Switch,SQUARE ENIX,SQUARE ENIX,31.99,31.99,0,0,2017-10-19,4,0.0,0,0,PEGI 7,80.0,"Action, Adventure, Party, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000003073,ACA NEOGEO THE KING OF FIGHTERS '95,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2017-10-12,2,0.0,0,0,PEGI 12,80.0,"Arcade, Fighting",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000001842,Squareboy vs Bullies: Arena Edition,Nintendo Switch,Ratalaika Games,Ratalaika Games,5.75,5.75,0,0,2017-10-12,2,0.0,0,0,PEGI 3,80.0,"Action, Arcade, Fighting",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000001152,Tiny Barbarian DX,Nintendo Switch,Nicalis,Nicalis,34.55,34.55,0,0,2017-10-10,2,0.0,0,0,PEGI 7,80.0,"Action, Adventure, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000001212,88 Heroes - 98 Heroes Edition,Nintendo Switch,Reef Entertainment,Reef Entertainment,38.39,38.39,0,0,2017-10-12,1,0.0,0,0,PEGI 7,80.0,"Action, Arcade, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000001047,Neon Chrome,Nintendo Switch,10tons,10tons,16.63,16.63,0,0,2017-10-12,4,0.0,0,1,PEGI 16,80.0,"Action, Rpg, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000001201,The Flame in the Flood: Complete Edition,Nintendo Switch,CD PROJEKT RED,CD PROJEKT RED,19.19,19.19,0,0,2017-10-12,1,0.0,0,0,PEGI 16,80.0,Adventure,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000001318,Wulverblade,Nintendo Switch,Fully Illustrated,Fully Illustrated,19.19,19.19,0,0,2017-10-12,2,0.0,1,0,PEGI 16,80.0,"Action, Arcade",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000802,Yono and the Celestial Elephants,Nintendo Switch,Plug In Digital,Plug In Digital,23.03,23.03,0,0,2017-10-12,1,0.0,1,0,PEGI 3,80.0,"Action, Adventure, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000696,Touhou Kobuto V: Burst Battle,Nintendo Switch,NIS America,NIS America,38.39,38.39,0,0,2017-10-13,2,0.0,1,1,PEGI 12,80.0,"Action, Fighting, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000001627,Revenant Saga,Nintendo Switch,KEMCO,KEMCO,14.96,14.96,0,0,2017-10-19,1,0.0,1,0,PEGI 7,80.0,"Adventure, Rpg, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000001741,Don't Knock Twice,Nintendo Switch,Wales Interactive,Wales Interactive,12.79,12.79,0,0,2017-10-17,1,0.0,0,0,PEGI 16,80.0,"Action, Adventure",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000315,The Count Lucanor,Nintendo Switch,Silver Lining,Silver Lining,15.35,15.35,0,0,2017-10-18,1,0.0,0,0,PEGI 12,80.0,"Adventure, Rpg",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000691,RIVE: Ultimate Edition,Nintendo Switch,Two Tribes Publishing,Two Tribes Publishing,17.27,17.27,0,0,2017-11-17,2,0.0,1,0,PEGI 12,80.0,"Action, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000003207,Hollow Knight,Nintendo Switch,Team Cherry,Team Cherry,14.07,14.07,0,0,2018-06-12,1,0.0,1,0,PEGI 7,80.0,"Action, Adventure, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000024,1-2-Switch,Nintendo Switch,Nintendo,Nintendo,51.19,51.19,0,0,2017-03-03,2,0.0,0,0,PEGI 7,61.0,Party,HOLD
+2026-10-16 11:17:58,2026-10-16,11,70010000000152,ARMS,Nintendo Switch,Nintendo,Nintendo,63.99,63.99,0,0,2017-06-16,4,0.0,1,0,PEGI 12,61.0,Fighting,AVOID
+2026-10-16 11:17:58,2026-10-16,11,70010000000126,Mario Kart 8 Deluxe,Nintendo Switch,Nintendo,Nintendo,28.79,92.77,0,0,2017-04-28,12,0.0,1,0,PEGI 3,61.0,"Party, Racing",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000151,Splatoon 2,Nintendo Switch,Nintendo,Nintendo,63.99,87.01,0,0,2017-07-21,8,0.0,0,0,PEGI 7,61.0,Shooter,AVOID
+2026-10-16 11:17:58,2026-10-16,11,70010000000038,"Snipperclips – Cut it out, together!",Nintendo Switch,Nintendo,Nintendo,23.03,23.03,0,0,2017-03-03,4,0.0,1,0,PEGI 3,61.0,"Action, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000127,Super Mario Odyssey,Nintendo Switch,Nintendo,Nintendo,63.99,63.99,0,0,2017-10-27,2,0.0,1,0,PEGI 7,61.0,"Action, Adventure, Platformer",AVOID
+2026-10-16 11:17:58,2026-10-16,11,70010000000023,The Legend of Zelda: Breath of the Wild,Nintendo Switch,Nintendo,Nintendo,76.79,99.81,0,0,2017-03-03,1,0.0,1,0,PEGI 12,61.0,"Action, Adventure",AVOID
+2026-10-16 11:17:58,2026-10-16,11,70010000000189,Disgaea 5 Complete,Nintendo Switch,"Nippon Ichi Software, Inc.",NIS America,44.79,44.79,0,0,2017-05-25,1,0.0,0,0,PEGI 12,80.0,Strategy,HOLD
+2026-10-16 11:17:58,2026-10-16,11,70010000000149,FAST RMX,Nintendo Switch,Shin'en Multimedia,Shin’en Multimedia,21.75,21.75,0,0,2017-03-03,8,0.0,1,0,PEGI 3,80.0,Racing,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000182,HAS-BEEN HEROES,Nintendo Switch,Frozenbyte,GameTrust Games,25.59,25.59,0,0,2017-04-04,1,0.0,0,0,PEGI 7,80.0,"Action, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000118,Super Bomberman R,Nintendo Switch,Konami Digital Entertainment,KONAMI,38.39,38.39,0,0,2017-03-03,8,0.0,1,0,PEGI 7,80.0,"Action, Party, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000810,Sonic Mania,Nintendo Switch,Christian Whitehead/Headcannon/PagodaWest Games/Tantalus Media,SEGA,20.47,20.47,0,0,2017-08-15,2,0.0,0,1,PEGI 3,80.0,"Action, Adventure, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000184,ULTRA STREET FIGHTER II: The Final Challengers,Nintendo Switch,CAPCOM Europe,CAPCOM Europe,22.39,44.79,50,0,2017-05-26,2,0.0,1,0,PEGI 12,80.0,Fighting,STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000599,Fire Emblem Warriors,Nintendo Switch,KOEI TECMO GAMES,Nintendo,63.99,63.99,0,0,2017-10-20,2,0.0,1,0,PEGI 12,61.0,Action,AVOID
+2026-10-16 11:17:58,2026-10-16,11,70010000007605,Fire Emblem: Three Houses,Nintendo Switch,Nintendo,Nintendo,63.99,63.99,0,0,2019-07-26,1,0.0,1,0,PEGI 12,61.0,"Rpg, Strategy",AVOID
+2026-10-16 11:17:58,2026-10-16,11,70010000000075,I am Setsuna,Nintendo Switch,Tokyo RPG Factory,SQUARE ENIX,38.39,38.39,0,0,2017-03-03,1,0.0,0,0,PEGI 7,80.0,Rpg,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000001015,Rayman Legends: Definitive Edition,Nintendo Switch,Ubisoft Montpellier,Ubisoft,38.39,38.39,0,0,2017-09-12,4,0.0,0,0,PEGI 7,80.0,Platformer,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000175,Puyo Puyo™ Tetris®,Nintendo Switch,SEGA,SEGA,44.79,44.79,0,0,2017-04-27,4,0.0,0,0,PEGI 3,80.0,Puzzle,HOLD
+2026-10-16 11:17:58,2026-10-16,11,70010000000244,LEGO® CITY Undercover,Nintendo Switch,TT Games,WB Games,63.99,63.99,0,0,2017-04-07,2,0.0,0,0,PEGI 7,80.0,"Action, Adventure",AVOID
+2026-10-16 11:17:58,2026-10-16,11,70010000003087,The Elder Scrolls V: Skyrim®,Nintendo Switch,Bethesda,Bethesda,57.59,67.83,0,0,2017-11-17,1,0.0,1,1,PEGI 18,80.0,"Action, Rpg",HOLD
+2026-10-16 11:17:58,2026-10-16,11,70010000001783,RiME,Nintendo Switch,Grey Box,Grey Box,38.39,38.39,0,0,2017-11-17,1,0.0,0,0,PEGI 7,80.0,"Adventure, Platformer, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000114,Shovel Knight: Treasure Trove,Nintendo Switch,Yacht Club Games,Yacht Club Games,46.07,46.07,0,0,2017-03-03,2,0.0,1,0,PEGI 7,80.0,"Action, Adventure, Platformer",HOLD
+2026-10-16 11:17:58,2026-10-16,11,70010000000119,Shovel Knight: Specter of Torment,Nintendo Switch,Yacht Club Games,Yacht Club Games,11.51,11.51,0,0,2017-03-03,1,0.0,0,0,PEGI 7,80.0,"Action, Adventure, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000069,ACA NEOGEO THE KING OF FIGHTERS '98,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2017-03-03,2,0.0,0,0,PEGI 12,80.0,"Arcade, Fighting",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000071,ACA NEOGEO SHOCK TROOPERS,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2017-03-03,2,0.0,0,0,PEGI 16,80.0,"Action, Arcade",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000073,ACA NEOGEO METAL SLUG 3,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2017-03-03,2,0.0,0,0,PEGI 12,80.0,"Action, Arcade",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000077,ACA NEOGEO WAKU WAKU 7,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2017-03-03,2,0.0,0,0,PEGI 7,80.0,"Arcade, Fighting",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000082,ACA NEOGEO WORLD HEROES PERFECT,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2017-03-03,2,0.0,0,0,PEGI 7,80.0,"Arcade, Fighting",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000157,VOEZ,Nintendo Switch,Flyhigh Works,Flyhigh Works,24.31,24.31,0,0,2017-03-03,1,0.0,1,0,PEGI 3,80.0,Music,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000124,Vroom in the night sky,Nintendo Switch,POISOFT,POISOFT,10.23,10.23,0,0,2017-03-03,1,0.0,0,0,PEGI 3,80.0,"Action, Racing",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000170,New Frontier Days ~Founding Pioneers~,Nintendo Switch,ARC SYSTEM WORKS,ARC SYSTEM WORKS,11.51,11.51,0,0,2017-03-03,1,0.0,0,0,PEGI 3,80.0,Simulation,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000167,Othello,Nintendo Switch,ARC SYSTEM WORKS,ARC SYSTEM WORKS,5.75,5.75,0,0,2017-03-03,2,0.0,0,0,PEGI 3,80.0,Board Game,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000040,Blaster Master Zero,Nintendo Switch,Inti Creates,Inti Creates,11.51,11.51,0,0,2017-03-09,2,0.0,0,1,PEGI 7,80.0,"Action, Adventure, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000084,ACA NEOGEO NAM-1975,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2017-03-09,2,0.0,0,0,PEGI 12,80.0,"Action, Arcade",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000005426,Runner3,Nintendo Switch,Choice Provisions,Gaijin Games,17.92,17.92,0,0,2018-05-22,1,0.0,1,0,PEGI 7,80.0,"Action, Arcade, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000002612,SteamWorld Dig 2,Nintendo Switch,Thunderful,Thunderful,19.19,19.19,0,0,2017-09-21,1,0.0,1,0,PEGI 7,80.0,"Action, Adventure, Platformer, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000003266,Yooka-Laylee,Nintendo Switch,Playtonic Games,Playtonic Friends,23.03,23.03,0,0,2017-12-14,4,0.0,1,0,PEGI 7,80.0,"Adventure, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000128,Snake Pass,Nintendo Switch,Sumo Digital,Secret Mode,4.08,20.47,80,0,2017-03-29,1,0.0,1,0,PEGI 3,80.0,"Action, Adventure, Platformer, Puzzle",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000013547,Wargroove,Nintendo Switch,Chucklefish,Chucklefish,20.47,20.47,0,0,2019-02-01,4,0.0,1,1,PEGI 7,80.0,Strategy,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000164,TumbleSeed,Nintendo Switch,Team TumbleSeed,aeiowu,15.35,15.35,0,0,2017-05-02,2,0.0,0,0,PEGI 7,80.0,"Action, Adventure",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000080,ACA NEOGEO THE KING OF FIGHTERS '94,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2017-03-16,2,0.0,0,0,PEGI 12,80.0,"Arcade, Fighting",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000882,Overcooked: Special Edition,Nintendo Switch,Ghost Town Games,Team17,23.03,23.03,0,0,2017-07-27,4,0.0,0,0,PEGI 3,80.0,"Arcade, Cooking, Party",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000001063,The Escapists 2,Nintendo Switch,Team17,Team17,25.59,25.59,0,0,2018-01-11,4,0.0,1,1,PEGI 7,80.0,"Rpg, Simulation, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000006441,Celeste,Nintendo Switch,Matt Makes Games Inc.,Maddy Makes Games,5.75,23.03,75,0,2018-01-25,1,0.0,1,0,PEGI 7,80.0,"Adventure, Platformer",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000019861,Shakedown: Hawaii,Nintendo Switch,Vblank Entertainment,Vblank Entertainment,3.44,23.03,85,0,2019-05-07,1,0.0,1,0,PEGI 16,80.0,"Action, Arcade, Shooter",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000009902,Flipping Death,Nintendo Switch,Zoink Games,Zoink Games,23.03,23.03,0,0,2018-08-07,1,0.0,1,0,PEGI 12,80.0,"Adventure, Platformer, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000203,ACA NEOGEO BIG TOURNAMENT GOLF,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2017-03-23,2,0.0,1,0,PEGI 3,80.0,"Arcade, Golf",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000168,World of Goo,Nintendo Switch,Tomorrow Corporation,Tomorrow Corporation,15.35,15.35,0,0,2017-03-23,2,0.0,1,0,PEGI 3,80.0,"Puzzle, Simulation, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000161,Little Inferno,Nintendo Switch,Tomorrow Corporation,Tomorrow Corporation,15.35,15.35,0,0,2017-03-23,2,0.0,1,1,PEGI 12,80.0,"Puzzle, Simulation",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000155,Human Resource Machine,Nintendo Switch,Tomorrow Corporation,Tomorrow Corporation,15.35,15.35,0,0,2017-03-23,1,0.0,1,0,PEGI 3,80.0,Puzzle,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000215,ACA NEOGEO METAL SLUG,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2017-03-30,2,0.0,0,0,PEGI 12,80.0,"Action, Arcade",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000223,ACA NEOGEO ALPHA MISSION II,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2017-04-06,2,0.0,0,0,PEGI 7,80.0,"Arcade, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000262,Graceful Explosion Machine,Nintendo Switch,Vertex Pop Inc.,Vertex Pop Inc.,7.67,15.35,50,0,2017-04-06,1,0.0,1,0,PEGI 3,80.0,"Action, Arcade, Shooter",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000087,ACA NEOGEO SAMURAI SHODOWN IV,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2017-04-13,2,0.0,0,0,PEGI 12,80.0,"Arcade, Fighting",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000342,Mr. Shifty,Nintendo Switch,tinyBuild Games,tinyBuild Games,17.27,17.27,0,0,2017-04-13,1,0.0,0,0,PEGI 16,80.0,"Action, Adventure",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000115,Minecraft: Nintendo Switch Edition,Nintendo Switch,Mojang,Mojang,0.0,0.0,0,1,2017-05-12,8,0.0,0,1,PEGI 7,80.0,"Action, Adventure",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000174,The Jackbox Party Pack 3,Nintendo Switch,Jackbox Games,Jackbox Games,25.64,25.64,0,0,2017-04-13,8,0.0,0,0,PEGI 12,80.0,Party,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000206,Wonder Boy: The Dragon's Trap,Nintendo Switch,Dotemu,Dotemu,23.03,23.03,0,0,2017-04-18,1,0.0,0,0,PEGI 3,80.0,"Action, Adventure, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000228,ACA NEOGEO FATAL FURY,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2017-04-20,2,0.0,0,0,PEGI 12,80.0,"Arcade, Fighting",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000701,Fate/EXTELLA: The Umbral Star,Nintendo Switch,Marvelous,Marvelous Europe,46.07,46.07,0,0,2017-07-21,1,0.0,1,0,PEGI 12,80.0,"Action, Fighting",HOLD
+2026-10-16 11:17:58,2026-10-16,11,70010000000994,NAMCO MUSEUM™,Nintendo Switch,BANDAI NAMCO Studios Inc.,Bandai Namco Entertainment,6.13,38.39,84,0,2017-07-28,4,0.0,1,0,PEGI 12,80.0,Arcade,STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000001517,Battle Chasers: Nightwar,Nintendo Switch,Airship Syndicate,THQ Nordic,44.79,44.79,0,0,2018-05-15,1,0.0,0,0,PEGI 16,80.0,"Action, Rpg",HOLD
+2026-10-16 11:17:58,2026-10-16,11,70010000001455,Sine Mora EX,Nintendo Switch,THQ Nordic Mobile,THQ Nordic Mobile,31.99,31.99,0,0,2017-10-10,2,0.0,1,0,PEGI 16,80.0,Shooter,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000283,ACA NEOGEO OVER TOP,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2017-04-27,2,0.0,0,0,PEGI 3,80.0,"Arcade, Racing",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000397,KAMIKO,Nintendo Switch,Flyhigh Works,Flyhigh Works,5.75,5.75,0,0,2017-04-27,1,0.0,0,0,PEGI 3,80.0,"Action, Arcade",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000404,ACA NEOGEO BLAZING STAR,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2017-05-02,2,0.0,0,0,PEGI 3,80.0,"Arcade, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000226,ACA NEOGEO GAROU: MARK OF THE WOLVES,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2017-05-11,2,0.0,0,0,PEGI 12,80.0,"Arcade, Fighting",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000485,Dark Witch Music Episode: Rudymical,Nintendo Switch,Flyhigh Works,Flyhigh Works,8.95,8.95,0,0,2017-05-11,2,0.0,0,0,PEGI 3,80.0,"Action, Music",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000322,Thumper,Nintendo Switch,Drool LLC,Drool LLC,6.13,20.47,70,0,2017-05-18,1,0.0,1,0,PEGI 7,80.0,"Action, Arcade, Music",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000344,ACA NEOGEO GALAXY FIGHT: UNIVERSAL WARRIORS,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2017-05-18,2,0.0,0,0,PEGI 12,80.0,"Arcade, Fighting",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000407,ACA NEOGEO THE KING OF FIGHTERS '99,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2017-05-25,2,0.0,0,0,PEGI 12,80.0,"Arcade, Fighting",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000302,Astro Duel Deluxe,Nintendo Switch,Wild Rooster,Wild Rooster,11.51,11.51,0,0,2017-05-30,6,0.0,1,0,PEGI 7,80.0,"Arcade, Party, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000350,ACA NEOGEO LAST RESORT,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2017-06-01,2,0.0,0,0,PEGI 7,80.0,"Arcade, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000724,Shantae: Half-Genie Hero,Nintendo Switch,WayForward,WayForward,20.47,20.47,0,0,2017-06-08,1,0.0,1,1,PEGI 12,80.0,"Action, Adventure, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000426,GoNNER,Nintendo Switch,Raw Fury,Raw Fury,11.51,11.51,0,0,2017-06-29,1,0.0,1,0,PEGI 7,80.0,"Arcade, Platformer, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000713,ACA NEOGEO SHOCK TROOPERS 2nd Squad,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2017-06-08,2,0.0,0,0,PEGI 12,80.0,"Action, Arcade",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000001041,Pokkén Tournament DX,Nintendo Switch,BANDAI NAMCO Entertainment,Nintendo,63.99,63.99,0,0,2017-09-22,2,0.0,0,0,PEGI 7,61.0,Fighting,AVOID
+2026-10-16 11:17:58,2026-10-16,11,70010000000359,ACA NEOGEO SENGOKU,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2017-06-15,2,0.0,0,0,PEGI 12,80.0,"Action, Arcade",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000641,MIGHTY GUNVOLT BURST,Nintendo Switch,Inti Creates,Inti Creates,11.51,11.51,0,0,2017-06-15,1,0.0,0,1,PEGI 3,80.0,Action,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000733,Yoshi's Crafted World,Nintendo Switch,Good-Feel,Nintendo,63.99,63.99,0,0,2019-03-29,2,0.0,1,0,PEGI 3,61.0,"Action, Platformer",AVOID
+2026-10-16 11:17:58,2026-10-16,11,70010000000818,Mario + Rabbids® Kingdom Battle,Nintendo Switch,Ubisoft Paris / Ubisoft Milan / Ubisoft Montpellier / Ubisoft Bucharest,Ubisoft,38.39,38.39,0,0,2017-08-29,2,0.0,1,0,PEGI 7,80.0,"Adventure, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000706,Xenoblade Chronicles 2,Nintendo Switch,MONOLITHSOFT,Nintendo,63.99,98.53,0,0,2017-12-01,1,0.0,1,0,PEGI 12,61.0,Rpg,AVOID
+2026-10-16 11:17:58,2026-10-16,11,70010000006927,Kirby Star Allies,Nintendo Switch,"HAL Laboratory, Inc",Nintendo,63.99,63.99,0,0,2018-03-16,4,0.0,1,0,PEGI 7,61.0,"Action, Adventure, Platformer",AVOID
+2026-10-16 11:17:58,2026-10-16,11,70010000000458,Rocket League®,Nintendo Switch,Epic Games,Epic Games,0.0,0.0,0,1,2017-11-14,8,0.0,1,0,PEGI 3,80.0,"Action, Racing, Sports",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000858,Sonic Forces™,Nintendo Switch,SEGA,SEGA,44.79,44.79,0,0,2017-11-07,1,0.0,0,1,PEGI 7,80.0,"Action, Adventure, Platformer",HOLD
+2026-10-16 11:17:58,2026-10-16,11,70010000000241,Oceanhorn - Monster of Uncharted Seas,Nintendo Switch,FDG Entertainment,FDG Entertainment,4.31,17.27,75,0,2017-06-22,1,0.0,0,0,PEGI 7,80.0,"Action, Adventure, Rpg",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000841,ACA NEOGEO FATAL FURY 2,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2017-06-22,2,0.0,0,0,PEGI 12,80.0,"Arcade, Fighting",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000362,ACA NEOGEO MAGICAL DROP II,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2017-06-29,2,0.0,0,0,PEGI 12,80.0,"Arcade, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000704,Flip Wars,Nintendo Switch,Over Fence Co. Ltd.,Nintendo,11.51,11.51,0,0,2017-07-06,4,0.0,1,0,PEGI 3,61.0,"Action, Party",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000844,Vaccine,Nintendo Switch,Rainy Frog,Rainy Frog,11.51,11.51,0,0,2017-07-06,1,0.0,0,0,PEGI 16,80.0,"Action, Adventure",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000001057,ACA NEOGEO METAL SLUG 2,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2017-07-06,2,0.0,0,0,PEGI 12,80.0,"Action, Arcade",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000314,I and Me,Nintendo Switch,Ratalaika Games,Ratalaika Games,11.51,11.51,0,0,2017-07-06,1,0.0,0,0,PEGI 3,80.0,"Platformer, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000596,Shephy,Nintendo Switch,ARC SYSTEM WORKS,ARC SYSTEM WORKS,6.39,6.39,0,0,2017-07-06,1,0.0,0,0,PEGI 12,80.0,"Board Game, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000001091,IMPLOSION,Nintendo Switch,Flyhigh Works,Flyhigh Works,13.81,13.81,0,0,2017-07-05,1,0.0,0,0,PEGI 12,80.0,Action,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000996,Bulb Boy,Nintendo Switch,Bulbware,Bulbware,9.2,9.2,0,0,2017-07-13,1,0.0,0,0,PEGI 12,80.0,"Adventure, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000380,ACA NEOGEO FATAL FURY SPECIAL,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2017-07-13,2,0.0,0,0,PEGI 12,80.0,"Arcade, Fighting",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000766,Death Squared,Nintendo Switch,SMG Studio,SMG Studio,15.35,15.35,0,0,2017-07-13,4,0.0,1,0,PEGI 3,80.0,"Party, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000989,De Mambo,Nintendo Switch,The Dangerous Kitchen,The Dangerous Kitchen,12.79,12.79,0,0,2017-07-13,4,0.0,0,0,PEGI 3,80.0,"Action, Fighting",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000009755,Magic Nations,Nintendo Switch,PrimeBit Games,PrimeBit Games,17.27,17.27,0,0,2019-01-21,2,0.0,1,0,PEGI 12,80.0,"Board Game, Puzzle, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000013986,The Raven Remastered,Nintendo Switch,THQ Nordic,THQ Nordic,34.55,34.55,0,0,2019-01-22,1,0.0,0,0,PEGI 16,80.0,Adventure,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000011846,GetAmped Mobile,Nintendo Switch,CyberStep,CyberStep,0.0,0.0,0,1,2019-01-17,4,0.0,1,0,PEGI 7,80.0,"Action, Fighting",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000013912,My Memory of Us,Nintendo Switch,Crunching Koalas,Crunching Koalas,17.27,17.27,0,0,2019-01-24,1,0.0,1,0,PEGI 7,80.0,"Action, Adventure, Platformer, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016133,Fight of Gods,Nintendo Switch,Digital Crafter,Digital Crafter,14.45,14.45,0,0,2019-01-18,2,0.0,1,0,PEGI 12,80.0,"Arcade, Fighting",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015805,Piczle Colors,Nintendo Switch,Rainy Frog,Rainy Frog,12.8,12.8,0,0,2019-01-31,1,0.0,1,0,PEGI 3,80.0,Puzzle,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000010429,ACA NEOGEO NINJA MASTER'S,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2019-01-17,2,0.0,1,0,PEGI 12,80.0,"Arcade, Fighting",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000012036,Zombie Night Terror,Nintendo Switch,Plug In Digital,Plug In Digital,17.27,17.27,0,0,2019-01-31,1,0.0,1,0,PEGI 16,80.0,"Action, Puzzle, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015886,Asdivine Hearts II,Nintendo Switch,KEMCO,KEMCO,14.96,14.96,0,0,2019-01-24,1,0.0,1,1,PEGI 12,80.0,"Adventure, Rpg, Simulation, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015922,Achtung! Cthulhu Tactics,Nintendo Switch,Ripstone Publishing,Ripstone Publishing,12.79,25.59,50,0,2019-01-24,1,0.0,1,0,PEGI 16,80.0,"Adventure, Rpg, Strategy",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000004773,Atari Flashback Classics,Nintendo Switch,Atari,Atari,13.81,46.07,70,0,2019-01-24,4,0.0,1,0,PEGI 12,80.0,Arcade,STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000011802,RIOT - Civil Unrest,Nintendo Switch,Silver Lining,Silver Lining,19.19,19.19,0,0,2019-02-07,4,0.0,1,0,PEGI 16,80.0,"Simulation, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000013566,When Ski Lifts Go Wrong,Nintendo Switch,Curve Digital,Curve Digital,19.19,19.19,0,0,2019-01-23,1,0.0,1,0,PEGI 7,80.0,"Puzzle, Simulation, Sports",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016533,Fishing Universe Simulator,Nintendo Switch,Forever Entertainment,Forever Entertainment,11.51,11.51,0,0,2019-01-24,1,0.0,1,0,PEGI 3,80.0,"Simulation, Sports",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015605,UTOPIA 9 - A Volatile Vacation,Nintendo Switch,YABAI.GAMES,YABAI.GAMES,11.51,11.51,0,0,2019-01-19,2,0.0,1,0,PEGI 12,80.0,"Action, Adventure, Rpg, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000011163,Cursed Castilla,Nintendo Switch,Abylight,Abylight,16.12,16.12,0,0,2019-01-24,1,0.0,1,0,PEGI 12,80.0,"Action, Adventure, Arcade, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016200,Bad Dream: Coma,Nintendo Switch,Forever Entertainment,Forever Entertainment,11.51,11.51,0,0,2019-01-24,1,0.0,1,0,PEGI 16,80.0,Adventure,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015621,Unruly Heroes,Nintendo Switch,Magic Design Studios,Magic Design Studios,23.03,23.03,0,0,2019-01-23,4,0.0,1,0,PEGI 7,80.0,"Action, Fighting, Platformer, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000012607,Xenon Racer,Nintendo Switch,3DClouds,3DClouds,25.59,25.59,0,0,2019-03-26,8,0.0,1,0,PEGI 3,80.0,"Arcade, Racing",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014759,Paladin,Nintendo Switch,Pumpkin Games,Pumpkin Games,10.23,10.23,0,0,2019-01-18,1,0.0,1,0,PEGI 3,80.0,"Arcade, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000010104,Heroes Trials,Nintendo Switch,Ratalaika Games,Ratalaika Games,1.52,7.67,80,0,2019-01-25,1,0.0,1,0,PEGI 7,80.0,"Action, Adventure, Rpg",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014788,Sleep Tight,Nintendo Switch,KitBash3D,KitBash3D,14.77,14.77,0,0,2019-01-24,1,0.0,1,0,PEGI 3,80.0,"Action, Arcade, Shooter, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000012893,Ancient Rush 2,Nintendo Switch,Lion Castle,Lion Castle,5.75,5.75,0,0,2022-01-18,1,0.0,1,0,PEGI 3,80.0,"Adventure, Arcade, Rpg",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015045,Goat Simulator: The GOATY,Nintendo Switch,Coffee Stain,Coffee Stain,34.55,34.55,0,0,2019-01-23,2,0.0,1,0,PEGI 12,80.0,"Action, Adventure, Simulation",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017875,SteamWorld Quest: Hand of Gilgamech,Nintendo Switch,Image & Form International AB,Thunderful,28.79,28.79,0,0,2019-04-25,1,0.0,1,0,PEGI 12,80.0,"Adventure, Rpg",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014614,Swords & Soldiers,Nintendo Switch,Two Tribes Publishing,Two Tribes Publishing,8.69,8.69,0,0,2019-01-25,2,0.0,1,0,PEGI 7,80.0,"Action, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015327,CrossCode,Nintendo Switch,Deck 13,Deck 13,23.03,23.03,0,0,2020-07-08,1,0.0,1,1,PEGI 12,80.0,Rpg,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000028842,INMOST,Nintendo Switch,Hidden Layer Games,Chucklefish,15.35,15.35,0,0,2020-08-21,1,0.0,1,0,PEGI 12,80.0,Platformer,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000013725,Double Kick Heroes,Nintendo Switch,Headbang Club,Plug In Digital,25.33,25.33,0,0,2020-08-13,1,0.0,1,0,PEGI 16,80.0,"Music, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000013003,Forager,Nintendo Switch,HopFrog,Balor Games,23.03,23.03,0,0,2019-07-30,1,0.0,1,0,PEGI 3,80.0,Adventure,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016545,My Arctic Farm 2018,Nintendo Switch,Plug In Digital,Plug In Digital,11.51,11.51,0,0,2019-02-21,1,0.0,1,0,PEGI 3,80.0,Simulation,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015503,Gabbuchi,Nintendo Switch,h.a.n.d.,h.a.n.d.,8.05,8.05,0,0,2019-01-31,1,0.0,1,0,PEGI 3,80.0,"Action, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000013969,The Path of Motus,Nintendo Switch,Michael Hicks,Michael Hicks,13.81,13.81,0,0,2019-02-05,1,0.0,1,0,PEGI 3,80.0,"Action, Adventure, Platformer, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015764,Thea: The Awakening,Nintendo Switch,Monster Couch,Monster Couch,20.47,20.47,0,0,2019-02-01,2,0.0,1,0,PEGI 12,80.0,"Adventure, Board Game, Rpg, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016596,Stray Cat Doors,Nintendo Switch,PULSMO,PULSMO,2.61,2.61,0,0,2019-01-31,1,0.0,1,0,PEGI 3,80.0,"Adventure, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017140,Zombie Panic in Wonderland DX,Nintendo Switch,Akaoni Studio,Akaoni Studio,10.36,10.36,0,0,2019-01-25,2,0.0,1,0,PEGI 12,80.0,"Action, Arcade, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016059,Akihabara CRASH! 123STAGE+1,Nintendo Switch,DORASU,DORASU,8.05,8.05,0,0,2019-01-24,1,0.0,1,1,PEGI 3,80.0,"Action, Puzzle, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000006290,Arcade Archives BOMB JACK,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2019-01-24,2,0.0,1,0,PEGI 3,80.0,"Action, Arcade",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016604,Balance Blox,Nintendo Switch,EntwicklerX,EntwicklerX,1.72,3.44,50,0,2019-01-24,1,0.0,1,0,PEGI 3,80.0,"Arcade, Puzzle",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016114,Forgotten Tales - Day of the Dead,Nintendo Switch,Joindots,Joindots,16.63,16.63,0,0,2019-01-24,1,0.0,1,0,PEGI 3,80.0,"Adventure, Board Game, Puzzle, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014741,Monkey Wall,Nintendo Switch,COSEN,COSEN,4.6,4.6,0,0,2019-01-24,1,0.0,1,0,PEGI 3,80.0,"Action, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016639,Perry Pig Jump,Nintendo Switch,EntwicklerX,EntwicklerX,1.72,3.44,50,0,2019-01-24,1,0.0,1,0,PEGI 3,80.0,"Arcade, Platformer",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016460,LOVE,Nintendo Switch,Mokuzai Studio,Mokuzai Studio,2.93,2.93,0,0,2019-02-14,1,0.0,1,0,PEGI 3,80.0,"Action, Adventure, Arcade, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000010457,Fishing Star World Tour,Nintendo Switch,WRIGHT FLYER STUDIOS,WRIGHT FLYER STUDIOS,28.79,28.79,0,0,2019-01-30,1,0.0,1,0,PEGI 3,80.0,"Action, Sports",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015715,Bleep Bloop,Nintendo Switch,Zerouno Games,Zerouno Games,5.11,5.11,0,0,2019-01-31,2,0.0,1,0,PEGI 3,80.0,Puzzle,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016550,BOMBFEST,Nintendo Switch,Whitethorn Games,Whitethorn Games,13.17,13.17,0,0,2019-01-31,4,0.0,1,0,PEGI 3,80.0,"Action, Party",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014737,Downwell,Nintendo Switch,Devolver Digital,Devolver Digital,2.29,3.44,33,0,2019-01-31,1,0.0,1,0,PEGI 7,80.0,"Action, Adventure, Arcade, Shooter",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014612,New Star Manager,Nintendo Switch,FiveAcesPublishing,FiveAcesPublishing,19.19,19.19,0,0,2019-01-31,1,0.0,1,0,PEGI 3,80.0,"Rpg, Simulation, Sports, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000010808,Evoland Legendary Edition,Nintendo Switch,Shiro Games,Shiro Games,23.03,23.03,0,0,2019-02-07,1,0.0,1,0,PEGI 12,80.0,"Action, Adventure, Rpg",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000012481,Sphinx and the Cursed Mummy,Nintendo Switch,THQ Nordic,THQ Nordic,34.55,34.55,0,0,2019-01-29,1,0.0,1,0,PEGI 12,80.0,"Action, Adventure",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015360,Tokyo School Life,Nintendo Switch,PQube,PQube,16.63,16.63,0,0,2019-02-14,1,0.0,1,0,PEGI 12,80.0,"Adventure, Other",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000013519,Defense Grid 2,Nintendo Switch,Hidden Path Entertainment,Hidden Path Entertainment,19.19,19.19,0,0,2019-02-07,2,0.0,1,0,PEGI 12,80.0,Strategy,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016272,Food Truck Tycoon,Nintendo Switch,Baltoro Games,Baltoro Games,2.29,2.29,0,0,2019-02-08,1,0.0,1,1,PEGI 3,80.0,"Puzzle, Simulation, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000013891,Ape Out,Nintendo Switch,Devolver Digital,Devolver Digital,2.24,17.27,87,0,2019-02-28,1,0.0,1,0,PEGI 16,80.0,"Action, Adventure, Arcade",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014774,NEKOPARA Vol.2,Nintendo Switch,CFK,CFK,5.06,12.66,60,0,2019-02-14,1,0.0,1,0,PEGI 16,80.0,Adventure,STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016297,Doom & Destiny,Nintendo Switch,Heartbit Games,Heartbit Games,13.43,13.43,0,0,2019-02-08,1,0.0,1,0,PEGI 12,80.0,Rpg,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015564,Hyperide,Nintendo Switch,Kool2Play,Kool2Play,2.29,2.29,0,0,2019-01-30,1,0.0,1,0,PEGI 3,80.0,Arcade,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000002724,Eggggg - The platform puker,Nintendo Switch,Hyper Games,Hyper Games,16.63,16.63,0,0,2019-01-31,1,0.0,1,0,PEGI 3,80.0,"Action, Adventure, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000007301,Halcyon 6: Starbase Commander,Nintendo Switch,"Smiling Buddha Games, LLC","Smiling Buddha Games, LLC",19.19,19.19,0,0,2019-01-31,1,0.0,1,0,PEGI 12,80.0,"Rpg, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014769,planetarian,Nintendo Switch,PROTOTYPE,PROTOTYPE,11.51,11.51,0,0,2019-01-31,1,0.0,1,0,PEGI 12,80.0,"Adventure, Other",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000013564,Hell Warders,Nintendo Switch,PQube,PQube,14.07,14.07,0,0,2019-02-21,4,0.0,1,0,PEGI 16,80.0,"Action, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016001,Estiman,Nintendo Switch,Kool2Play,Kool2Play,2.29,2.29,0,0,2019-02-07,1,0.0,1,0,PEGI 3,80.0,Arcade,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016855,Magic Scroll Tactics,Nintendo Switch,Mediascape,Mediascape,11.51,11.51,0,0,2019-02-06,1,0.0,1,0,PEGI 7,80.0,"Rpg, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016341,Avenger Bird,Nintendo Switch,Ultimate Games,Ultimate Games,2.29,2.29,0,0,2019-02-05,1,0.0,1,0,PEGI 3,80.0,"Adventure, Arcade, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000012126,The Liar Princess and the Blind Prince,Nintendo Switch,NIS America,NIS America,25.59,25.59,0,0,2019-02-12,1,0.0,1,0,PEGI 16,80.0,"Adventure, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000013240,The Stillness of the Wind,Nintendo Switch,Fellow Traveller,Fellow Traveller,1.91,12.79,85,0,2019-02-07,1,0.0,1,0,PEGI 12,80.0,Adventure,STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014881,City of Brass,Nintendo Switch,Uppercut Games,Uppercut Games,17.27,17.27,0,0,2019-02-08,1,0.0,1,0,PEGI 12,80.0,"Action, First-Person Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000018532,TETRIS 99,Nintendo Switch,Arika,Nintendo,0.0,0.0,0,1,2019-02-14,99,0.0,1,0,PEGI 3,61.0,Puzzle,STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017109,Dragon Marked for Death: Advanced Attackers,Nintendo Switch,Inti Creates,Inti Creates,17.27,17.27,0,0,2019-01-31,4,0.0,1,1,PEGI 16,80.0,"Action, Rpg",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000001450,Dragon Marked for Death: Frontline Fighters,Nintendo Switch,Inti Creates,Inti Creates,17.27,17.27,0,0,2019-01-31,4,0.0,1,1,PEGI 16,80.0,"Action, Rpg",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015802,AGARTHA-S,Nintendo Switch,mebius.,mebius.,9.2,9.2,0,0,2019-01-31,1,0.0,1,0,PEGI 7,80.0,"Action, Adventure, Puzzle, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017454,Arcade Archives MOON CRESTA,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2019-01-31,2,0.0,1,0,PEGI 3,80.0,"Arcade, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000013164,Farm Together,Nintendo Switch,Milkstone Studios,Milkstone Studios,23.03,23.03,0,0,2019-02-01,8,0.0,1,1,PEGI 3,80.0,"Lifestyle, Simulation",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015841,FREECELL BATTLE KING,Nintendo Switch,MAKING,MAKING,8.05,8.05,0,0,2019-01-31,2,0.0,1,0,PEGI 3,80.0,"Board Game, Party, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015857,Robothorium,Nintendo Switch,Forever Entertainment,Forever Entertainment,17.91,17.91,0,0,2019-01-31,1,0.0,1,0,PEGI 16,80.0,"Adventure, Rpg, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015576,Shanky: The Vegan`s Nightmare,Nintendo Switch,Kirkidexi,Kirkidexi,6.9,6.9,0,0,2019-02-01,1,0.0,1,0,PEGI 12,80.0,"Action, Adventure, Arcade, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014785,Spoiler Alert,Nintendo Switch,Megafuzz,Megafuzz,6.39,6.39,0,0,2019-02-01,1,0.0,1,0,PEGI 3,80.0,"Arcade, Platformer, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000003092,Tangledeep,Nintendo Switch,Impact Gameworks,Impact Gameworks,20.21,20.21,0,0,2019-01-31,1,0.0,1,1,PEGI 7,80.0,"Adventure, Rpg, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014247,TORIDAMA: Brave Challenge,Nintendo Switch,G-MODE,G-MODE,5.88,5.88,0,0,2019-01-31,2,0.0,1,0,PEGI 7,80.0,Party,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016737,Merchants of Kaidan,Nintendo Switch,Forever Entertainment,Forever Entertainment,11.51,11.51,0,0,2019-01-31,1,0.0,1,0,PEGI 12,80.0,"Rpg, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015209,Glass Masquerade,Nintendo Switch,Digerati,Digerati,13.81,13.81,0,0,2019-02-08,1,0.0,1,0,PEGI 3,80.0,Puzzle,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000012437,X-Morph: Defense,Nintendo Switch,EXOR Studios,EXOR Studios,23.03,23.03,0,0,2019-02-21,1,0.0,1,1,PEGI 12,80.0,"Action, Shooter, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000013414,Iron Crypticle,Nintendo Switch,Tikipod,Tikipod,9.59,9.59,0,0,2019-02-13,4,0.0,1,0,PEGI 7,80.0,"Action, Arcade, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000013981,The Book of Unwritten Tales 2,Nintendo Switch,THQ Nordic,THQ Nordic,34.55,34.55,0,0,2019-02-05,1,0.0,0,0,PEGI 12,80.0,Adventure,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000012029,Reverie: Sweet As Edition,Nintendo Switch,Rainbite,Rainbite,15.35,15.35,0,0,2019-02-06,1,0.0,1,0,PEGI 7,80.0,"Action, Adventure, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000011654,Pumped BMX Pro,Nintendo Switch,Curve Digital,Curve Digital,19.19,19.19,0,0,2019-02-07,1,0.0,1,0,PEGI 3,80.0,"Arcade, Sports",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000013181,The King's Bird,Nintendo Switch,Serenity Forge,Serenity Forge,23.03,23.03,0,0,2019-02-12,1,0.0,1,0,PEGI 3,80.0,"Action, Adventure, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000012108,Stunt Kite Party,Nintendo Switch,THQ Nordic Mobile,THQ Nordic Mobile,11.51,11.51,0,0,2019-02-08,4,0.0,1,0,PEGI 3,80.0,"Action, Party, Sports",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015951,Pocket Academy,Nintendo Switch,Kairosoft,Kairosoft,13.81,13.81,0,0,2019-02-07,1,0.0,1,0,PEGI 3,80.0,"Simulation, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000011256,Mercury Race,Nintendo Switch,FrontView Studio,FrontView Studio,10.23,10.23,0,0,2019-02-07,2,0.0,1,0,PEGI 7,80.0,"Action, Arcade, Racing, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016454,Odallus: The Dark Call,Nintendo Switch,JoyMasher,JoyMasher,13.81,13.81,0,0,2019-02-08,1,0.0,1,0,PEGI 12,80.0,"Action, Adventure, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015701,Sky Gamblers - Afterburner,Nintendo Switch,Atypical Games,Atypical Games,19.57,19.57,0,0,2019-02-06,14,0.0,1,0,PEGI 7,80.0,"Action, Arcade, Simulation",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000010789,Solstice Chronicles: MIA,Nintendo Switch,CIRCLE Ent.,CIRCLE Ent.,17.52,17.52,0,0,2019-02-07,2,0.0,1,0,PEGI 16,80.0,"Action, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016193,V.O.I.D.,Nintendo Switch,JanduSoft,JanduSoft,4.6,4.6,0,0,2019-02-28,1,0.0,0,0,PEGI 3,80.0,"Action, Adventure, Arcade, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016173,Oniken: Unstoppable Edition,Nintendo Switch,JoyMasher,JoyMasher,11.51,11.51,0,0,2019-02-08,1,0.0,1,0,PEGI 12,80.0,"Action, Arcade, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000013427,Shred! 2 - ft Sam Pilgrim,Nintendo Switch,ASBO Interactive,ASBO Interactive,12.79,12.79,0,0,2019-03-01,1,0.0,1,0,PEGI 3,80.0,"Arcade, Sports",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000012428,Aragami - Shadow Edition,Nintendo Switch,Silver Lining,Silver Lining,31.99,31.99,0,0,2019-02-21,2,0.0,1,0,PEGI 16,80.0,"Action, Adventure, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014328,Observer,Nintendo Switch,Bloober Team,Bloober Team,34.55,34.55,0,0,2019-02-07,1,0.0,1,0,PEGI 16,80.0,"Adventure, Other",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000013299,World Tree Marché,Nintendo Switch,Flyhigh Works,Flyhigh Works,13.68,13.68,0,0,2019-02-28,1,0.0,1,0,PEGI 3,80.0,"Puzzle, Simulation",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014453,Monument Builders Rushmore,Nintendo Switch,Microids,Microids,8.05,8.05,0,0,2019-03-07,1,0.0,1,0,PEGI 3,80.0,Strategy,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015566,Unravel Two,Nintendo Switch,Electronic Arts,Electronic Arts,23.03,23.03,0,0,2019-03-22,2,0.0,1,0,PEGI 7,80.0,"Adventure, Platformer, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016290,Hard West,Nintendo Switch,Forever Entertainment,Forever Entertainment,23.03,23.03,0,0,2019-03-07,1,0.0,1,0,PEGI 18,80.0,"Adventure, Rpg",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000018221,Sushi Time!,Nintendo Switch,Baltoro Games,Baltoro Games,1.78,1.78,0,0,2019-03-22,1,0.0,1,1,PEGI 3,80.0,"Puzzle, Simulation",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017147,Moero Chronicle™ Hyper,Nintendo Switch,Idea Factory,Idea Factory,23.03,23.03,0,0,2019-04-26,1,0.0,1,0,PEGI 16,80.0,"Adventure, Rpg",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014949,Fate/EXTELLA LINK,Nintendo Switch,Marvelous Europe,Marvelous Europe,57.59,57.59,0,0,2019-03-22,8,0.0,1,1,PEGI 12,80.0,Action,HOLD
+2026-10-16 11:17:58,2026-10-16,11,70010000016349,Blood Waves,Nintendo Switch,Sometimes You,Sometimes You,4.6,11.51,60,0,2019-03-15,1,0.0,1,0,PEGI 18,80.0,"Action, Shooter",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000011849,Paperbound Brawlers,Nintendo Switch,Dissident Logic,Dissident Logic,11.51,11.51,0,0,2019-03-08,4,0.0,1,0,PEGI 7,80.0,"Action, Party",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000011785,The Caligula Effect: Overdose,Nintendo Switch,NIS America,NIS America,57.59,57.59,0,0,2019-03-15,1,0.0,1,1,PEGI 12,80.0,Rpg,HOLD
+2026-10-16 11:17:58,2026-10-16,11,70010000012648,Beat Cop,Nintendo Switch,11 bit studios,11 bit studios,17.27,17.27,0,0,2019-03-05,1,0.0,1,0,PEGI 18,80.0,"Adventure, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016138,Mahjong Stories: Vampire Romance,Nintendo Switch,JetDogs,JetDogs,5.76,5.76,0,0,2019-03-06,1,0.0,1,0,PEGI 12,80.0,"Puzzle, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017499,Motorsport Manager for Nintendo Switch™,Nintendo Switch,Curve Digital,Curve Digital,15.35,15.35,0,0,2019-03-14,1,0.0,1,0,PEGI 12,80.0,"Racing, Simulation, Sports, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000003859,She Remembered Caterpillars,Nintendo Switch,Ysbryd Games,Ysbryd Games,11.51,11.51,0,0,2019-03-28,1,0.0,1,0,PEGI 3,80.0,Puzzle,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017502,Homo Machina,Nintendo Switch,ARTE Experience,ARTE Experience,11.51,11.51,0,0,2019-04-25,1,0.0,1,0,PEGI 3,80.0,"Adventure, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000018609,Twist & Match,Nintendo Switch,Sanuk Games,Sanuk Games,3.44,3.44,0,0,2019-03-14,1,0.0,1,0,PEGI 3,80.0,"Arcade, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014772,Azure Saga: Pathfinder DELUXE Edition,Nintendo Switch,Toge Productions,Toge Productions,10.36,10.36,0,0,2019-03-21,1,0.0,1,0,PEGI 7,80.0,"Adventure, Rpg",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014816,Arcade Archives IKARI WARRIORS,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2019-03-07,2,0.0,1,0,PEGI 7,80.0,"Action, Arcade, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017911,Freecell Solitaire,Nintendo Switch,Vertical Reach,Vertical Reach,5.11,5.11,0,0,2019-03-07,1,0.0,1,0,PEGI 3,80.0,"Board Game, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000001146,Dusty Raging Fist,Nintendo Switch,PD Design Studio,PD Design Studio,10.36,10.36,0,0,2019-03-14,3,0.0,1,0,PEGI 7,80.0,"Action, Arcade, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000018024,Quest for the Golden Duck,Nintendo Switch,Bigosaur,Bigosaur,6.39,6.39,0,0,2019-03-08,4,0.0,1,0,PEGI 3,80.0,"Action, Arcade, Party",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000018283,Little Shopping,Nintendo Switch,Ultimate Games,Ultimate Games,1.52,1.52,0,0,2019-03-12,1,0.0,0,0,PEGI 3,80.0,Simulation,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016665,Golf Peaks,Nintendo Switch,Afterburn,Afterburn,5.75,5.75,0,0,2019-03-14,1,0.0,1,0,PEGI 3,80.0,"Puzzle, Sports",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016959,Bonds of the Skies,Nintendo Switch,KEMCO,KEMCO,7.48,14.96,50,0,2019-03-14,1,0.0,1,1,PEGI 12,80.0,"Adventure, Rpg, Strategy",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016347,The Red Strings Club,Nintendo Switch,Devolver Digital,Devolver Digital,17.27,17.27,0,0,2019-03-14,1,0.0,1,0,PEGI 18,80.0,Adventure,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017332,Dungeons & Aliens,Nintendo Switch,Kool2Play,Kool2Play,4.6,4.6,0,0,2019-03-15,1,0.0,1,0,PEGI 3,80.0,"Adventure, Arcade",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000009923,Claybook,Nintendo Switch,Second Order,Second Order,17.27,17.27,0,0,2019-03-12,1,0.0,1,0,PEGI 3,80.0,"Platformer, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016642,Bargain Hunter,Nintendo Switch,Silver Cow Studio,Silver Cow Studio,12.15,12.15,0,0,2019-03-15,1,0.0,1,0,PEGI 3,80.0,"Simulation, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016482,Alien Cruise,Nintendo Switch,CottonGame,CottonGame,11.12,11.12,0,0,2019-03-14,2,0.0,1,0,PEGI 7,80.0,"Action, Adventure, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016345,Neon Caves,Nintendo Switch,Force of Habit,Force of Habit,4.47,4.47,0,0,2019-03-26,1,0.0,1,0,PEGI 3,80.0,"Action, Arcade, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014988,My Jurassic Farm 2018,Nintendo Switch,Plug In Digital,Plug In Digital,11.51,11.51,0,0,2019-03-14,1,0.0,1,0,PEGI 3,80.0,Simulation,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000012358,Windscape,Nintendo Switch,Headup Games,Headup Games,2.04,20.47,90,0,2019-03-27,1,0.0,1,0,PEGI 7,80.0,"Action, Adventure, Puzzle, Rpg",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017837,Bad Dream: Fever,Nintendo Switch,Forever Entertainment,Forever Entertainment,11.51,11.51,0,0,2019-03-14,1,0.0,1,0,PEGI 12,80.0,Adventure,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000018285,Teddy The Wanderer: Mountain Hike,Nintendo Switch,Forever Entertainment,Forever Entertainment,11.51,11.51,0,0,2019-03-14,1,0.0,1,0,PEGI 3,80.0,Adventure,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014734,Our World Is Ended.,Nintendo Switch,PQube,PQube,51.19,51.19,0,0,2019-04-18,1,0.0,1,0,PEGI 16,80.0,Adventure,HOLD
+2026-10-16 11:17:58,2026-10-16,11,70010000016343,The Mystery of Woolley Mountain,Nintendo Switch,Huey Games,Huey Games,12.79,12.79,0,0,2019-04-10,1,0.0,1,0,PEGI 7,80.0,"Adventure, Puzzle, Rpg",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000018383,Assault On Metaltron,Nintendo Switch,Forever Entertainment,Forever Entertainment,7.67,7.67,0,0,2019-03-18,2,0.0,1,0,PEGI 7,80.0,"Action, Arcade, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017595,SpellKeeper,Nintendo Switch,Silesia Games,Silesia Games,6.39,6.39,0,0,2019-04-02,1,0.0,1,0,PEGI 3,80.0,Puzzle,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016140,SYMMETRY,Nintendo Switch,IMGN.PRO,IMGN.PRO,11.51,11.51,0,0,2019-03-19,1,0.0,1,0,PEGI 12,80.0,"Adventure, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000018206,Not Not - A Brain Buster,Nintendo Switch,naptime.games,naptime.games,1.14,2.29,50,0,2019-03-15,4,0.0,1,0,PEGI 3,80.0,"Party, Puzzle",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000009787,Dragon's Dogma: Dark Arisen,Nintendo Switch,CAPCOM,CAPCOM,31.99,31.99,0,0,2019-04-23,1,0.0,1,0,PEGI 18,80.0,"Action, Rpg",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017788,Elevator...to the Moon! Turbo Champion's Edition,Nintendo Switch,Arcade Distillery,Arcade Distillery,15.6,15.6,0,0,2019-03-15,1,0.0,1,0,PEGI 12,80.0,"Adventure, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000005085,RICO,Nintendo Switch,Thunderful Games,Thunderful Games,23.03,23.03,0,0,2019-03-14,2,0.0,1,1,PEGI 16,80.0,"Action, Arcade, First-Person Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000018485,Hook,Nintendo Switch,Rainbow Train,Rainbow Train,2.55,2.55,0,0,2019-03-14,1,0.0,1,0,PEGI 3,80.0,Puzzle,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000002462,Arcade Archives ELEVATOR ACTION,Nintendo Switch,HAMSTER,HAMSTER,5.63,8.05,30,0,2019-03-14,2,0.0,1,0,PEGI 3,80.0,"Action, Arcade",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015087,Lyrica,Nintendo Switch,COSEN,COSEN,21.88,21.88,0,0,2019-03-28,1,0.0,1,0,PEGI 3,80.0,Music,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016179,Grand Prix Story,Nintendo Switch,Kairosoft,Kairosoft,14.96,14.96,0,0,2019-03-21,1,0.0,1,0,PEGI 3,80.0,"Racing, Simulation, Sports",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000013103,Ultrawings,Nintendo Switch,Bit Planet Games,Bit Planet Games,19.19,19.19,0,0,2019-03-28,1,0.0,1,0,PEGI 3,80.0,"Adventure, Simulation",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016804,Reptilian Rebellion,Nintendo Switch,FrontView Studio,FrontView Studio,3.83,3.83,0,0,2019-03-21,1,0.0,1,0,PEGI 7,80.0,"Action, Arcade, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016421,Witch & Hero,Nintendo Switch,Flyhigh Works,Flyhigh Works,5.75,5.75,0,0,2019-03-21,2,0.0,1,0,PEGI 7,80.0,"Action, Adventure",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016278,Super Phantom Cat: Remake,Nintendo Switch,VEEWO GAMES,VEEWO GAMES,11.51,11.51,0,0,2019-03-21,1,0.0,1,1,PEGI 3,80.0,"Action, Adventure, Platformer, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014433,StarDrone,Nintendo Switch,Fortell Games,Fortell Games,9.72,9.72,0,0,2019-03-21,1,0.0,1,0,PEGI 3,80.0,Arcade,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016363,Block-a-Pix Deluxe,Nintendo Switch,Lightwood Games,Lightwood Games,8.95,8.95,0,0,2019-03-21,1,0.0,1,1,PEGI 3,80.0,Puzzle,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014909,Air Conflicts: Pacific Carriers,Nintendo Switch,Games Farm,Games Farm,19.19,19.19,0,0,2019-03-22,8,0.0,1,0,PEGI 16,80.0,"Action, Arcade, Simulation",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014907,Air Conflicts: Secret Wars,Nintendo Switch,Games Farm,Games Farm,19.19,19.19,0,0,2019-03-22,8,0.0,1,0,PEGI 12,80.0,"Action, Arcade, Simulation",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000013582,Inventioneers,Nintendo Switch,Filimundus,Filimundus,11.51,11.51,0,0,2019-03-25,4,0.0,1,0,PEGI 3,80.0,Puzzle,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015226,Vaporum,Nintendo Switch,Silver Lining,Silver Lining,25.59,25.59,0,0,2019-04-11,1,0.0,1,0,PEGI 12,80.0,"Adventure, Rpg",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000003216,Croixleur Sigma,Nintendo Switch,PLAYISM,PLAYISM,17.27,17.27,0,0,2019-03-28,2,0.0,1,0,PEGI 12,80.0,Action,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017338,Turok,Nintendo Switch,Atari,Atari,3.02,20.21,85,0,2019-03-18,1,0.0,1,0,PEGI 16,80.0,"Action, Adventure, First-Person Shooter",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016338,Super Kickers League Ultimate,Nintendo Switch,Xaloc Studios,Xaloc Studios,17.27,17.27,0,0,2019-03-19,6,0.0,1,0,PEGI 3,80.0,"Arcade, Sports",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000001070,Peasant Knight,Nintendo Switch,Ratalaika Games,Ratalaika Games,3.83,3.83,0,0,2019-03-22,4,0.0,1,0,PEGI 3,80.0,"Action, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017448,Blaster Master Zero 2,Nintendo Switch,Inti Creates,Inti Creates,11.51,11.51,0,0,2019-03-20,1,0.0,1,1,PEGI 7,80.0,"Action, Adventure",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015954,Nuclear Throne,Nintendo Switch,Vlambeer,Vlambeer,14.07,14.07,0,0,2019-03-20,2,0.0,1,0,PEGI 7,80.0,"Action, Adventure, Arcade, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016329,Cuphead,Nintendo Switch,StudioMDHR,StudioMDHR,21.75,29.43,0,0,2019-04-18,2,0.0,1,1,PEGI 7,80.0,"Action, Arcade, Platformer, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017134,Katana ZERO,Nintendo Switch,Devolver Digital,Devolver Digital,17.27,17.27,0,0,2019-04-18,1,0.0,1,0,PEGI 16,80.0,"Action, Arcade, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000004650,My Time at Portia,Nintendo Switch,Focus Entertainment,Focus Entertainment,31.99,31.99,0,0,2019-04-16,1,0.0,1,1,PEGI 7,80.0,"Adventure, Rpg, Simulation",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000018767,OMG Zombies!,Nintendo Switch,Ghostlight,Ghostlight,5.11,5.11,0,0,2019-03-26,1,0.0,1,0,PEGI 16,80.0,"Arcade, Shooter, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000018543,The Red Lantern,Nintendo Switch,Kepler Interactive,Kepler Interactive,25.59,25.59,0,0,2020-10-22,1,0.0,1,0,PEGI 16,80.0,"Adventure, Simulation",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000012123,My Friend Pedro,Nintendo Switch,Deadtoast,Devolver Digital,23.03,23.03,0,0,2019-06-20,1,0.0,1,0,PEGI 16,80.0,"Action, Adventure, Arcade, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000020157,Cadence of Hyrule – Crypt of the NecroDancer Featuring The Legend of Zelda,Nintendo Switch,Brace Yourself Games,Nintendo,28.79,28.79,0,0,2019-06-13,2,0.0,1,1,PEGI 7,61.0,"Adventure, Music",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000011859,Gems of War,Nintendo Switch,505 Games,505 Games,0.0,0.0,0,1,2019-03-26,1,0.0,0,0,PEGI 7,80.0,"Puzzle, Rpg",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000005096,Impossible Mission,Nintendo Switch,System 3 Software,System 3 Software,12.79,12.79,0,0,2019-03-20,1,0.0,1,0,PEGI 7,80.0,"Action, Arcade, Platformer, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000011243,Pitfall Planet,Nintendo Switch,Abstraction,Abstraction,15.35,15.35,0,0,2019-04-04,2,0.0,1,0,PEGI 3,80.0,"Adventure, Platformer, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016585,JUNK PLANET,Nintendo Switch,Happinet Corporation,Happinet Corporation,14.07,14.07,0,0,2019-03-21,2,0.0,1,0,PEGI 7,80.0,"Action, Adventure, Simulation",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015965,Switch 'N' Shoot,Nintendo Switch,Matthew Glanville,Matthew Glanville,4.47,4.47,0,0,2019-04-10,1,0.0,1,0,PEGI 3,80.0,"Action, Arcade, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000009088,ACA NEOGEO BASEBALL STARS 2,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2019-03-21,2,0.0,1,0,PEGI 7,80.0,"Arcade, Sports",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000004605,James Pond Codename: RoboCod,Nintendo Switch,System 3 Software,System 3 Software,12.79,12.79,0,0,2019-03-21,1,0.0,1,0,PEGI 3,80.0,"Action, Arcade, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015054,Among the Sleep - Enhanced Edition,Nintendo Switch,Soedesco,Soedesco,23.03,23.03,0,0,2019-05-29,1,0.0,1,0,PEGI 12,80.0,"Action, Adventure, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015471,Snow Battle Princess Sayuki,Nintendo Switch,NGJ,NGJ,17.27,17.27,0,0,2019-03-28,2,0.0,1,0,PEGI 7,80.0,"Action, Arcade, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000018857,Event Horizon,Nintendo Switch,Drageus Games,Drageus Games,1.14,6.9,83,0,2019-03-29,1,0.0,1,0,PEGI 7,80.0,"Action, Rpg",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000018534,Street Basketball,Nintendo Switch,Baltoro Minis,Baltoro Minis,2.8,7.03,60,0,2019-04-12,2,0.0,1,1,PEGI 3,80.0,"Action, Sports",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016390,Monster Slayers,Nintendo Switch,Digerati,Digerati,17.27,17.27,0,0,2019-04-05,1,0.0,1,0,PEGI 12,80.0,"Adventure, Rpg",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000007841,GOKEN,Nintendo Switch,GIANTY,GIANTY,10.23,10.23,0,0,2019-03-28,1,0.0,1,0,PEGI 12,80.0,"Action, Adventure, Rpg",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000010223,SEGA AGES Gain Ground,Nintendo Switch,SEGA,SEGA,7.67,7.67,0,0,2019-03-28,3,0.0,1,0,PEGI 7,80.0,"Action, Arcade, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000010220,SEGA AGES Alex Kidd in Miracle World,Nintendo Switch,SEGA,SEGA,7.67,7.67,0,0,2019-03-28,1,0.0,1,0,PEGI 7,80.0,"Adventure, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000018076,Mortal Kombat 11,Nintendo Switch,WB Games,WB Games,51.19,51.19,0,0,2019-04-23,8,0.0,1,1,PEGI 18,80.0,Fighting,HOLD
+2026-10-16 11:17:58,2026-10-16,11,70010000011452,President F.net,Nintendo Switch,Flyhigh Works,Flyhigh Works,5.75,5.75,0,0,2019-03-25,4,0.0,1,0,PEGI 3,80.0,Puzzle,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015157,Revertia,Nintendo Switch,PLiCy,PLiCy,5.11,5.11,0,0,2018-12-20,1,0.0,1,0,PEGI 3,80.0,"Action, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015363,Viviette,Nintendo Switch,DYA GAMES,DYA GAMES,6.39,12.79,50,0,2018-12-20,1,0.0,1,0,PEGI 16,80.0,"Action, Adventure, Puzzle",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000001364,Super Treasure Arena,Nintendo Switch,Headup Games,Headup Games,1.14,10.23,89,0,2018-12-24,4,0.0,1,0,PEGI 3,80.0,"Action, Arcade, Party",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000006201,Dynamite Fishing - World Games,Nintendo Switch,THQ Nordic Mobile,THQ Nordic Mobile,11.51,11.51,0,0,2018-12-21,2,0.0,1,0,PEGI 7,80.0,"Action, Arcade, Sports",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000012624,RAZED,Nintendo Switch,PQube,PQube,11.89,11.89,0,0,2018-12-19,1,0.0,1,0,PEGI 3,80.0,"Platformer, Racing",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000002123,The Keep,Nintendo Switch,Cinemax,Cinemax,20.47,20.47,0,0,2018-12-24,1,0.0,1,0,PEGI 12,80.0,Rpg,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014124,Sheltered,Nintendo Switch,Team17,Team17,16.63,16.63,0,0,2018-12-18,1,0.0,1,0,PEGI 12,80.0,"Rpg, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000011026,Jewel Fever 2,Nintendo Switch,Sprakelsoft,Sprakelsoft,4.6,4.6,0,0,2018-12-21,1,0.0,1,0,PEGI 3,80.0,Puzzle,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000013075,Tetraminos,Nintendo Switch,Nacon,Nacon,11.51,11.51,0,0,2018-12-24,4,0.0,1,0,PEGI 3,80.0,"Arcade, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014813,Arcade Archives DONKEY KONG JR.,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2018-12-21,2,0.0,1,0,PEGI 3,80.0,"Action, Arcade",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014819,ACA NEOGEO PUZZLE BOBBLE,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2018-12-20,2,0.0,1,0,PEGI 3,80.0,"Action, Arcade, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015230,Job the Leprechaun,Nintendo Switch,FrontView Studio,FrontView Studio,3.83,3.83,0,0,2018-12-27,1,0.0,1,0,PEGI 7,80.0,"Adventure, Platformer, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015373,DYNASTY WARRIORS 8: Xtreme Legends Definitive Edition,Nintendo Switch,KOEI TECMO EUROPE,KOEI TECMO EUROPE,44.79,44.79,0,0,2018-12-27,2,0.0,1,0,PEGI 16,80.0,Action,HOLD
+2026-10-16 11:17:58,2026-10-16,11,70010000015942,Mech Rage,Nintendo Switch,Drageus Games,Drageus Games,1.14,11.51,90,0,2018-12-23,1,0.0,1,0,PEGI 7,80.0,"Action, Arcade, Shooter",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015669,Venture Towns,Nintendo Switch,Kairosoft,Kairosoft,13.81,13.81,0,0,2018-12-27,1,0.0,1,0,PEGI 3,80.0,"Rpg, Simulation, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015173,Diggerman,Nintendo Switch,Forever Entertainment,Forever Entertainment,5.75,5.75,0,0,2018-12-24,1,0.0,1,0,PEGI 3,80.0,"Arcade, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000603,My Little Riding Champion,Nintendo Switch,Toplitz Productions,Toplitz Productions,40.95,40.95,0,0,2018-12-24,1,0.0,1,0,PEGI 3,80.0,"Simulation, Sports",HOLD
+2026-10-16 11:17:58,2026-10-16,11,70010000013736,Double Cross,Nintendo Switch,Headup Games,Headup Games,4.6,23.03,80,0,2019-01-10,1,0.0,1,0,PEGI 7,80.0,"Action, Adventure, Platformer, Rpg",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015772,Overdriven Reloaded: Special Edition,Nintendo Switch,TOMAGameStudio,TOMAGameStudio,9.2,9.2,0,0,2018-12-30,4,0.0,1,0,PEGI 7,80.0,"Action, Arcade, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015580,Unicornicopia,Nintendo Switch,GenieGaming,GenieGaming,2.55,2.55,0,0,2019-01-03,1,0.0,1,0,PEGI 3,80.0,"Arcade, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000010426,ACA NEOGEO THE KING OF FIGHTERS 2002,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2018-12-27,2,0.0,1,0,PEGI 12,80.0,"Arcade, Fighting",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015496,Samsara: Deluxe Edition,Nintendo Switch,Marker,Marker,10.23,10.23,0,0,2018-12-31,1,0.0,1,0,PEGI 3,80.0,"Puzzle, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015175,MIND: Path to Thalamus,Nintendo Switch,Carlos Coronado,Carlos Coronado,12.79,12.79,0,0,2018-12-27,1,0.0,1,0,PEGI 12,80.0,"Adventure, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000013062,Brick Breaker,Nintendo Switch,Nacon,Nacon,11.51,11.51,0,0,2018-12-24,4,0.0,1,0,PEGI 3,80.0,"Arcade, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014921,Mahjong Solitaire Refresh,Nintendo Switch,SUNSOFT,SUNSOFT,16.63,16.63,0,0,2018-12-24,1,0.0,1,1,PEGI 3,80.0,"Board Game, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014212,ANIMUS,Nintendo Switch,TROOOZE,TROOOZE,10.23,10.23,0,0,2018-12-24,1,0.0,1,0,PEGI 16,80.0,"Action, Rpg",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016160,Mentori Puzzle,Nintendo Switch,ITL,ITL,8.05,8.05,0,0,2018-12-27,2,0.0,1,0,PEGI 3,80.0,Puzzle,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000013510,BLAZBLUE CENTRALFICTION Special Edition,Nintendo Switch,PQube,PQube,44.79,44.79,0,0,2019-02-08,8,0.0,1,1,PEGI 12,80.0,"Action, Arcade, Fighting",HOLD
+2026-10-16 11:17:58,2026-10-16,11,70010000013634,Hardway Party,Nintendo Switch,Wastelands,Wastelands,5.75,5.75,0,0,2018-12-17,4,0.0,1,0,PEGI 3,80.0,"Arcade, Party, Racing",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000001938,Johnny Turbo’s Arcade: Express Raider,Nintendo Switch,Golem Entertainment,Golem Entertainment,9.09,9.09,0,0,2019-01-03,1,0.0,1,0,PEGI 7,80.0,"Action, Arcade",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000012105,Octahedron: Transfixed Edition,Nintendo Switch,Demimonde,Demimonde,12.79,12.79,0,0,2019-01-16,1,0.0,1,0,PEGI 7,80.0,"Adventure, Music, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015741,Gnomes Garden 2,Nintendo Switch,8Floor Games,8Floor Games,3.44,3.44,0,0,2019-01-03,1,0.0,1,0,PEGI 3,80.0,Strategy,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000006141,Feudal Alloy,Nintendo Switch,Attu Games,Attu Games,1.72,17.27,90,0,2019-01-17,1,0.0,1,0,PEGI 7,80.0,"Action, Adventure, Platformer, Rpg",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014634,Don't Sink,Nintendo Switch,Hitcents,Hitcents,10.23,10.23,0,0,2019-01-03,1,0.0,1,0,PEGI 3,80.0,"Adventure, Rpg",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000010494,Neko Navy - Daydream Edition,Nintendo Switch,Fruitbat Factory,Fruitbat Factory,12.66,12.66,0,0,2019-01-08,1,0.0,1,0,PEGI 7,80.0,"Action, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014244,Planet RIX-13,Nintendo Switch,Sometimes You,Sometimes You,5.75,5.75,0,0,2019-01-16,1,0.0,1,0,PEGI 12,80.0,"Adventure, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000012587,Everything,Nintendo Switch,David Oreilly,David Oreilly,14.96,14.96,0,0,2019-01-10,1,0.0,1,0,PEGI 3,80.0,"Adventure, Communication, Simulation",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014899,Guns of Mercy - Rangers Edition,Nintendo Switch,PixelHeart,PixelHeart,10.23,10.23,0,0,2019-01-03,4,0.0,1,0,PEGI 7,80.0,"Arcade, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015107,HoPiKo,Nintendo Switch,Silver Lining,Silver Lining,11.51,11.51,0,0,2019-01-10,1,0.0,1,0,PEGI 3,80.0,"Arcade, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000011404,Pang Adventures,Nintendo Switch,Dotemu,Dotemu,11.51,11.51,0,0,2019-01-03,2,0.0,1,0,PEGI 3,80.0,"Arcade, Puzzle, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015735,Number Place 10000,Nintendo Switch,SUCCESS,SUCCESS,5.88,5.88,0,0,2019-01-03,1,0.0,1,0,PEGI 3,80.0,Puzzle,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000011381,DreamWorks Dragons Dawn of New Riders,Nintendo Switch,Outright Games,Outright Games,31.99,31.99,0,0,2019-02-01,1,0.0,1,0,PEGI 7,80.0,"Action, Adventure, Rpg",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000004061,At Sundown: Shots In The Dark,Nintendo Switch,Mild Beast,Mild Beast,5.75,5.75,0,0,2019-01-22,4,0.0,1,0,PEGI 12,80.0,"Arcade, Other, Party, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000010405,ACA NEOGEO RAGNAGARD,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2019-01-03,2,0.0,1,0,PEGI 12,80.0,"Arcade, Fighting",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015867,Left-Right: The Mansion,Nintendo Switch,Triple Boris,Triple Boris,5.12,5.12,0,0,2019-01-10,1,0.0,1,0,PEGI 7,80.0,Puzzle,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016452,Marble Power Blast,Nintendo Switch,EntwicklerX,EntwicklerX,1.72,3.44,50,0,2019-01-03,1,0.0,1,0,PEGI 3,80.0,Puzzle,STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015752,Stellar Interface,Nintendo Switch,ImaginationOverflow,ImaginationOverflow,2.98,16.63,82,0,2019-01-11,1,0.0,1,1,PEGI 7,80.0,"Action, Arcade, Shooter",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000013761,Caveblazers,Nintendo Switch,Yogscast Games,Yogscast Games,1.22,15.35,92,0,2019-01-10,2,0.0,1,0,PEGI 12,80.0,"Action, Platformer",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000013027,BQM -BlockQuest Maker-,Nintendo Switch,Wonderland Kazakiri,Wonderland Kazakiri,15.35,15.35,0,0,2019-01-10,2,0.0,1,1,PEGI 7,80.0,"Action, Puzzle, Rpg",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016055,Grab Lab,Nintendo Switch,Forever Entertainment,Forever Entertainment,5.75,5.75,0,0,2019-01-10,1,0.0,1,0,PEGI 3,80.0,"Arcade, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015609,Clock Simulator,Nintendo Switch,Kool2Play,Kool2Play,4.6,4.6,0,0,2019-01-10,4,0.0,1,0,PEGI 3,80.0,"Other, Simulation",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000012425,Knock 'Em Down! Bowling,Nintendo Switch,D3PUBLISHER,D3PUBLISHER,17.27,17.27,0,0,2019-01-10,4,0.0,1,0,PEGI 3,80.0,"Party, Sports",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000013541,LEGRAND LEGACY: Tale of the Fatebounds,Nintendo Switch,SEMISOFT,SEMISOFT,23.03,23.03,0,0,2019-01-24,1,0.0,1,0,PEGI 16,80.0,"Rpg, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000011413,SEGA AGES Out Run,Nintendo Switch,SEGA,SEGA,7.67,7.67,0,0,2019-01-10,1,0.0,1,0,PEGI 3,80.0,"Arcade, Racing",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014829,Lightseekers,Nintendo Switch,Playfusion,Playfusion,0.0,0.0,0,1,2019-01-10,2,0.0,0,1,PEGI 3,80.0,"Board Game, Strategy",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014086,Snowboarding The Next Phase,Nintendo Switch,RedBullMediaHouse,RedBullMediaHouse,2.55,2.55,0,0,2019-01-10,2,0.0,1,0,PEGI 3,80.0,"Action, Arcade, Sports",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015812,Apocalipsis Wormwood Edition,Nintendo Switch,Ultimate Games,Ultimate Games,5.75,5.75,0,0,2019-01-10,1,0.0,1,0,PEGI 12,80.0,"Adventure, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016513,Bubble Shooter DX,Nintendo Switch,EntwicklerX,EntwicklerX,1.72,3.44,50,0,2019-01-10,1,0.0,1,0,PEGI 3,80.0,"Arcade, Puzzle",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015291,Elli,Nintendo Switch,BandanaKid,BandanaKid,9.2,9.2,0,0,2019-01-10,1,0.0,1,0,PEGI 7,80.0,"Adventure, Platformer, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000012391,Old School Racer 2,Nintendo Switch,Riddlersoft Games,Riddlersoft Games,7.67,7.67,0,0,2019-01-18,1,0.0,1,0,PEGI 3,80.0,"Platformer, Racing",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016129,Momodora: Reverie Under the Moonlight,Nintendo Switch,DANGEN Entertainment,DANGEN Entertainment,16.12,16.12,0,0,2019-01-10,1,0.0,1,0,PEGI 7,80.0,"Action, Adventure, Platformer, Rpg",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016210,Crash™ Team Racing Nitro-Fueled,Nintendo Switch,Activision,Activision,44.79,44.79,0,0,2019-06-21,8,0.0,1,1,PEGI 3,80.0,"Action, Racing",HOLD
+2026-10-16 11:17:58,2026-10-16,11,70010000013905,DYING: Reborn - Nintendo Switch™ Edition,Nintendo Switch,Coconut Island Games,Coconut Island Games,9.72,9.72,0,0,2019-01-17,1,0.0,1,0,PEGI 12,80.0,"Adventure, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015340,Hive Jump,Nintendo Switch,GRAPHITE LAB,GRAPHITE LAB,12.79,12.79,0,0,2019-01-11,4,0.0,1,0,PEGI 7,80.0,"Action, Arcade, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000010432,ACA NEOGEO KIZUNA ENCOUNTER,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2019-01-10,2,0.0,1,0,PEGI 12,80.0,"Arcade, Fighting",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000007721,Combat Core,Nintendo Switch,MABManZ,MABManZ,20.21,20.21,0,0,2019-01-10,4,0.0,1,0,PEGI 12,80.0,"Arcade, Fighting, Party",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015105,Fragment of Marine,Nintendo Switch,Mediascape,Mediascape,5.11,5.11,0,0,2019-01-11,2,0.0,1,0,PEGI 3,80.0,"Action, Adventure",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016446,Voxel Sword,Nintendo Switch,SAT-BOX,SAT-BOX,7.04,7.04,0,0,2019-01-10,4,0.0,1,0,PEGI 7,80.0,"Party, Racing, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015507,Mega Mall Story,Nintendo Switch,Kairosoft,Kairosoft,13.81,13.81,0,0,2019-01-17,1,0.0,1,0,PEGI 3,80.0,"Puzzle, Simulation, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016464,The Shrouded Isle,Nintendo Switch,Kitfox Games,Kitfox Games,16.63,16.63,0,0,2019-01-17,1,0.0,1,0,PEGI 12,80.0,"Rpg, Simulation, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014431,#KILLALLZOMBIES,Nintendo Switch,Fortell Games,Fortell Games,23.03,23.03,0,0,2019-01-24,2,0.0,1,0,PEGI 16,80.0,"Action, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015850,Bash The Bear,Nintendo Switch,FuryLion Group,FuryLion Group,5.75,5.75,0,0,2019-01-14,1,0.0,1,0,PEGI 3,80.0,"Adventure, Arcade, Puzzle, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015821,Flowlines VS,Nintendo Switch,Baltoro Minis,Baltoro Minis,1.14,1.78,36,0,2019-01-25,2,0.0,1,0,PEGI 3,80.0,"Party, Puzzle",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000012741,Build a Bridge!,Nintendo Switch,BoomBit Games,BoomBit Games,17.27,17.27,0,0,2019-01-17,1,0.0,1,0,PEGI 3,80.0,"Puzzle, Simulation",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016594,Bedtime Blues,Nintendo Switch,Forever Entertainment,Forever Entertainment,11.51,11.51,0,0,2019-01-17,1,0.0,1,0,PEGI 12,80.0,Arcade,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000006881,Mages of Mystralia,Nintendo Switch,Borealys Games,Borealys Games,23.03,23.03,0,0,2019-01-29,1,0.0,1,0,PEGI 7,80.0,"Action, Adventure",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000012035,Fairy Fencer F Advent Dark Force,Nintendo Switch,Ghostlight,Ghostlight,38.39,38.39,0,0,2019-01-17,1,0.0,1,0,PEGI 12,80.0,"Adventure, Rpg, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016649,Gunman Clive HD Collection,Nintendo Switch,Hörberg Productions,Hörberg Productions,5.75,5.75,0,0,2019-01-17,1,0.0,1,0,PEGI 12,80.0,"Action, Arcade, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000013902,Crazy Strike Bowling EX,Nintendo Switch,CORECELL,CORECELL,11.51,11.51,0,0,2019-01-17,4,0.0,1,0,PEGI 3,80.0,Sports,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015330,The Office Quest,Nintendo Switch,11Sheep,11Sheep,14.07,14.07,0,0,2019-01-17,1,0.0,1,0,PEGI 3,80.0,"Adventure, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000023129,Little Town Hero,Nintendo Switch,GAME FREAK,GAME FREAK,28.79,28.79,0,0,2019-10-16,1,0.0,1,0,PEGI 7,80.0,Rpg,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015170,The Lord of the Rings: Adventure Card Game,Nintendo Switch,Twin Sails,Twin Sails,23.03,23.03,0,0,2019-11-05,2,0.0,0,0,PEGI 7,80.0,"Board Game, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014471,Dragon's Lair Trilogy,Nintendo Switch,Digital Leisure,Digital Leisure,23.03,23.03,0,0,2019-01-17,1,0.0,1,0,PEGI 7,80.0,"Action, Adventure, Arcade",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000002361,Pikuniku,Nintendo Switch,Devolver Digital,Devolver Digital,14.96,14.96,0,0,2019-01-24,2,0.0,1,0,PEGI 3,80.0,"Adventure, Platformer, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014350,Airheart - Tales of broken Wings,Nintendo Switch,Blindflug Studios,Blindflug Studios,15.35,15.35,0,0,2019-01-31,4,0.0,1,0,PEGI 7,80.0,"Action, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000012156,Monster Energy Supercross - The Official Videogame 2,Nintendo Switch,Milestone,Milestone,25.59,25.59,0,0,2019-02-08,8,0.0,1,0,PEGI 12,80.0,"Racing, Sports",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015483,99Moves,Nintendo Switch,SuperPowerUpGames,SuperPowerUpGames,1.72,3.44,50,0,2019-02-08,4,0.0,1,0,PEGI 3,80.0,"Action, Arcade, Party, Racing",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015211,Rampage Knights,Nintendo Switch,Rake in Grass,Rake in Grass,11.51,11.51,0,0,2019-01-17,2,0.0,1,0,PEGI 16,80.0,"Action, Arcade",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015295,IHUGU,Nintendo Switch,Kool2Play,Kool2Play,4.6,4.6,0,0,2019-01-21,2,0.0,1,0,PEGI 3,80.0,"Arcade, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016388,Spot The Differences: Party!,Nintendo Switch,Sanuk Games,Sanuk Games,5.75,5.75,0,0,2019-01-17,4,0.0,1,0,PEGI 3,80.0,"Party, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014508,FutureGrind,Nintendo Switch,Milkbag Games,Milkbag Games,23.03,23.03,0,0,2019-01-22,1,0.0,1,0,PEGI 7,80.0,"Arcade, Platformer, Racing, Sports",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000007423,Holy Potatoes! We're In Space?!,Nintendo Switch,Thunderful Games,Thunderful Games,16.63,16.63,0,0,2019-01-17,1,0.0,1,0,PEGI 7,80.0,"Adventure, Simulation",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014982,My Exotic Farm 2018,Nintendo Switch,Plug In Digital,Plug In Digital,11.51,11.51,0,0,2019-01-17,1,0.0,1,0,PEGI 3,80.0,Simulation,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016502,Solitaire Klondike BLACK,Nintendo Switch,G-MODE,G-MODE,5.88,5.88,0,0,2019-01-17,1,0.0,1,0,PEGI 3,80.0,"Board Game, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000008635,Drowning,Nintendo Switch,Sometimes You,Sometimes You,3.44,3.44,0,0,2019-01-30,1,0.0,1,0,PEGI 12,80.0,"Adventure, Other, Simulation",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015713,Mars or Die!,Nintendo Switch,34BigThings,34BigThings,25.59,25.59,0,0,2019-01-15,1,0.0,1,0,PEGI 7,80.0,"Action, Adventure, Shooter, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014077,Gelly Break Deluxe,Nintendo Switch,ByteRockers Games,ByteRockers Games,23.03,23.03,0,0,2018-11-29,2,0.0,1,0,PEGI 7,80.0,"Action, Arcade, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000011566,NAIRI: Tower of Shirin,Nintendo Switch,HomeBearStudio,HomeBearStudio,5.11,5.11,0,0,2018-11-29,1,0.0,1,0,PEGI 3,80.0,"Adventure, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014352,Secret Files: Tunguska,Nintendo Switch,PLAION,PLAION,17.27,17.27,0,0,2018-11-30,1,0.0,1,0,PEGI 12,80.0,Adventure,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000008466,INSTANT TENNIS,Nintendo Switch,Breakfirst Games,Breakfirst Games,11.38,11.38,0,0,2018-11-30,8,0.0,1,0,PEGI 3,80.0,"Arcade, Sports",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015770,Santa Tracker,Nintendo Switch,CGA Studio Games,CGA Studio Games,3.83,3.83,0,0,2018-12-07,1,0.0,0,0,PEGI 3,80.0,Other,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015315,Hunter's Legacy: Purrfect Edition,Nintendo Switch,Lienzo,Lienzo,8.05,8.05,0,0,2018-12-13,1,0.0,1,0,PEGI 7,80.0,"Action, Adventure, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000013643,Color Zen,Nintendo Switch,Cypronia,Cypronia,0.0,0.0,0,1,2018-11-26,1,0.0,1,1,PEGI 3,80.0,Puzzle,STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000013213,OkunoKA,Nintendo Switch,Caracal Games,Caracal Games,9.2,9.2,0,0,2018-11-30,1,0.0,1,0,PEGI 7,80.0,"Action, Adventure, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014883,Abyss,Nintendo Switch,SuperPowerUpGames,SuperPowerUpGames,1.72,3.44,50,0,2018-12-25,2,0.0,1,0,PEGI 3,80.0,"Action, Adventure",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000012687,Oxyjet,Nintendo Switch,Upstairs Digital,Upstairs Digital,11.51,11.51,0,0,2018-11-30,4,0.0,1,0,PEGI 7,80.0,"Action, Arcade, Sports",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000004141,Rival Megagun,Nintendo Switch,KOMODO,KOMODO,14.96,14.96,0,0,2018-11-29,2,0.0,1,0,PEGI 7,80.0,"Action, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014681,Son of a Witch,Nintendo Switch,Bigosaur,Bigosaur,5.62,14.07,60,0,2018-12-05,4,0.0,1,0,PEGI 12,80.0,"Arcade, Party, Rpg",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014289,Race Arcade,Nintendo Switch,ParadoxInteractive,ParadoxInteractive,11.51,11.51,0,0,2018-11-30,6,0.0,1,0,PEGI 3,80.0,"Arcade, Racing, Sports",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000013341,Cluedo: Classic Edition,Nintendo Switch,Marmalade Game Studio,Marmalade Game Studio,38.39,38.39,0,0,2018-11-30,6,0.0,0,1,PEGI 7,80.0,"Board Game, Puzzle, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000013206,Professional Farmer: Nintendo Switch Edition,Nintendo Switch,UIG Entertainment,UIG Entertainment,46.07,46.07,0,0,2018-11-29,1,0.0,1,0,PEGI 3,80.0,Simulation,HOLD
+2026-10-16 11:17:58,2026-10-16,11,70010000004644,Tales of Vesperia™: Definitive Edition,Nintendo Switch,Bandai Namco Entertainment,Bandai Namco Entertainment,51.19,51.19,0,0,2019-01-11,4,0.0,1,0,PEGI 12,80.0,"Adventure, Rpg",HOLD
+2026-10-16 11:17:58,2026-10-16,11,70010000009844,Toki,Nintendo Switch,Microids,Microids,17.15,17.15,0,0,2018-12-04,1,0.0,1,0,PEGI 7,80.0,"Action, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000013202,3D Billiards - Pool & Snooker,Nintendo Switch,Joindots,Joindots,11.51,23.03,50,0,2018-11-29,2,0.0,1,0,PEGI 3,80.0,"Arcade, Simulation, Sports",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000010420,ACA NEOGEO NEO GEO CUP '98: THE ROAD TO THE VICTORY,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2018-11-29,2,0.0,1,0,PEGI 3,80.0,"Arcade, Sports",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000010938,ARK: Survival Evolved,Nintendo Switch,Snail Games USA,Snail Games USA,23.03,57.59,0,0,2018-11-30,64,0.0,1,1,PEGI 16,80.0,"Adventure, First-Person Shooter, Rpg",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014714,Atelier Meruru ~The Apprentice of Arland~ DX,Nintendo Switch,KOEI TECMO EUROPE,KOEI TECMO EUROPE,44.79,44.79,0,0,2018-12-04,1,0.0,1,0,PEGI 12,80.0,Rpg,HOLD
+2026-10-16 11:17:58,2026-10-16,11,70010000013430,Monica e a Guarda dos Coelhos,Nintendo Switch,Mad Mimic,Mad Mimic,17.91,17.91,0,0,2018-12-04,4,0.0,1,0,PEGI 3,80.0,"Party, Platformer, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000013379,Battle Princess Madelyn,Nintendo Switch,Causal Bit Games,Causal Bit Games,17.27,17.27,0,0,2019-01-07,1,0.0,1,0,PEGI 7,80.0,"Action, Adventure, Arcade, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000010447,Gear.Club Unlimited 2,Nintendo Switch,Microids,Microids,45.95,45.95,0,0,2018-12-04,8,0.0,1,0,PEGI 3,80.0,"Racing, Simulation",HOLD
+2026-10-16 11:17:58,2026-10-16,11,70010000011553,Sundered: Eldritch Edition,Nintendo Switch,Thunder Lotus Games,Thunder Lotus Games,19.83,19.83,0,0,2018-12-21,4,0.0,1,0,PEGI 12,80.0,"Action, Adventure, Platformer, Rpg",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014041,Xenon Valkyrie+,Nintendo Switch,COWCAT,COWCAT,2.29,11.51,80,0,2019-01-01,1,0.0,1,0,PEGI 7,80.0,"Action, Adventure, Platformer, Rpg",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014222,Almightree: The Last Dreamer,Nintendo Switch,Bay Software Development Ltd,Bay Software Development Ltd,25.59,25.59,0,0,2018-12-13,1,0.0,1,0,PEGI 3,80.0,"Platformer, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000007943,Ultimate Runner,Nintendo Switch,TREVA,TREVA,4.6,23.03,80,0,2018-12-06,1,0.0,1,0,PEGI 3,80.0,Action,STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014711,Atelier Totori ~The Adventurer of Arland~ DX,Nintendo Switch,KOEI TECMO EUROPE,KOEI TECMO EUROPE,44.79,44.79,0,0,2018-12-04,1,0.0,1,0,PEGI 12,80.0,Rpg,HOLD
+2026-10-16 11:17:58,2026-10-16,11,70010000014626,Atelier Rorona ~The Alchemist of Arland~ DX,Nintendo Switch,KOEI TECMO EUROPE,KOEI TECMO EUROPE,44.79,44.79,0,0,2018-12-04,1,0.0,1,0,PEGI 12,80.0,Rpg,HOLD
+2026-10-16 11:17:58,2026-10-16,11,70010000013286,LongStory,Nintendo Switch,Mighty Yell,Mighty Yell,11.51,11.51,0,0,2018-12-06,1,0.0,1,0,PEGI 12,80.0,"Rpg, Simulation",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015186,Conduct TOGETHER!,Nintendo Switch,Northplay,Northplay,23.03,23.03,0,0,2018-12-05,4,0.0,1,1,PEGI 3,80.0,"Action, Party, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000013737,Beholder: Complete Edition,Nintendo Switch,Curve Digital,Curve Digital,15.35,15.35,0,0,2018-12-06,1,0.0,1,0,PEGI 12,80.0,"Adventure, Simulation, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014476,Battery Jam,Nintendo Switch,Halseo,Halseo,14.45,14.45,0,0,2018-12-03,4,0.0,1,0,PEGI 7,80.0,"Action, Arcade, Party",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000011582,Blue Rider,Nintendo Switch,eastasiasoft,eastasiasoft,11.51,11.51,0,0,2018-12-13,1,0.0,1,0,PEGI 7,80.0,"Action, Arcade, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000010077,MARVEL ULTIMATE ALLIANCE 3: The Black Order,Nintendo Switch,KOEI TECMO GAMES / Team NINJA,Nintendo,63.99,87.01,0,0,2019-07-19,4,0.0,1,0,PEGI 12,61.0,"Action, Rpg",AVOID
+2026-10-16 11:17:58,2026-10-16,11,70010000010417,ACA NEOGEO TWINKLE STAR SPRITES,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2018-12-06,2,0.0,1,0,PEGI 3,80.0,"Arcade, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016157,Arcade Archives DOUBLE DRAGON II The Revenge,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2018-12-06,2,0.0,1,0,PEGI 12,80.0,"Action, Arcade",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015750,Ivanych vs. Eared Beast,Nintendo Switch,Fortell Games,Fortell Games,3.32,3.32,0,0,2018-12-06,1,0.0,1,0,PEGI 7,80.0,Arcade,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015178,Koloro,Nintendo Switch,QubicGames,QubicGames,2.29,11.51,80,0,2018-12-22,2,0.0,1,0,PEGI 7,80.0,"Platformer, Puzzle",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015603,Mana Spark,Nintendo Switch,QubicGames,QubicGames,2.29,11.51,80,0,2018-12-22,1,0.0,1,1,PEGI 7,80.0,"Action, Adventure, Rpg",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014261,Omensight: Definitive Edition,Nintendo Switch,Spearhead Games,Spearhead Games,19.32,19.32,0,0,2018-12-13,1,0.0,1,0,PEGI 12,80.0,"Action, Adventure",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014831,Katamari Damacy REROLL,Nintendo Switch,Bandai Namco Entertainment,Bandai Namco Entertainment,20.47,20.47,0,0,2018-12-07,2,0.0,1,0,PEGI 3,80.0,"Action, Arcade",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014365,'n Verlore Verstand,Nintendo Switch,SKERMUNKEL STUDIOS,SKERMUNKEL STUDIOS,16.63,16.63,0,0,2018-12-07,1,0.0,1,0,PEGI 3,80.0,"Adventure, Platformer, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000010859,Knights of Pen & Paper 2 Deluxiest Edition,Nintendo Switch,ParadoxInteractive,ParadoxInteractive,14.96,14.96,0,0,2018-12-13,1,0.0,1,0,PEGI 7,80.0,"Adventure, Board Game, Rpg, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014005,GRIS,Nintendo Switch,Devolver Digital,Devolver Digital,18.55,18.55,0,0,2018-12-13,1,0.0,1,0,PEGI 7,80.0,"Action, Adventure, Platformer, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000012461,Quarantine Circular,Nintendo Switch,Ant Workshop,Ant Workshop,6.13,6.13,0,0,2018-12-08,1,0.0,1,0,PEGI 16,80.0,"Adventure, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014762,"Bury me, my Love",Nintendo Switch,Plug In Digital,Plug In Digital,5.75,5.75,0,0,2019-01-10,1,0.0,1,0,PEGI 7,80.0,"Adventure, Other, Simulation",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000010688,V-Rally 4,Nintendo Switch,Nacon,Nacon,5.75,57.59,90,0,2018-12-13,2,0.0,1,1,PEGI 3,80.0,"Racing, Simulation",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000003856,YIIK: A Postmodern RPG,Nintendo Switch,Ysbryd Games,Ysbryd Games,23.03,23.03,0,0,2019-01-17,1,0.0,1,0,PEGI 16,80.0,"Adventure, Rpg",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000001439,Solar Flux,Nintendo Switch,FIREBRAND GAMES,FIREBRAND GAMES,9.97,9.97,0,0,2018-12-11,1,0.0,1,0,PEGI 3,80.0,"Puzzle, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014506,Inside My Radio,Nintendo Switch,Seaven Studio,Seaven Studio,11.51,11.51,0,0,2019-01-10,1,0.0,1,0,PEGI 7,80.0,"Adventure, Arcade, Music, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015011,Ethan: Meteor Hunter,Nintendo Switch,Seaven Studio,Seaven Studio,11.51,11.51,0,0,2019-01-10,1,0.0,1,0,PEGI 7,80.0,"Arcade, Platformer, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015685,A Ch'ti Bundle,Nintendo Switch,Seaven Studio,Seaven Studio,18.55,18.55,0,0,2019-01-10,1,0.0,1,0,PEGI 7,80.0,"Adventure, Music, Platformer, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000669,Kingdom Two Crowns,Nintendo Switch,Noio & Licorice,Raw Fury,5.75,23.03,75,0,2018-12-11,2,0.0,1,1,PEGI 7,80.0,"Rpg, Strategy",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000010423,ACA NEOGEO METAL SLUG 5,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2018-12-13,2,0.0,1,0,PEGI 12,80.0,"Action, Arcade, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014807,Arcade Archives ATHENA,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2018-12-13,2,0.0,1,0,PEGI 7,80.0,"Action, Arcade",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015320,Chronus Arc,Nintendo Switch,KEMCO,KEMCO,7.48,14.96,50,0,2018-12-20,1,0.0,1,1,PEGI 7,80.0,"Adventure, Puzzle, Rpg",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014541,Lazy Galaxy: Rebel Story,Nintendo Switch,AbsoDev,AbsoDev,4.02,8.05,50,0,2018-12-14,2,0.0,1,0,PEGI 12,80.0,"Action, Arcade, Shooter",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015152,Pic-a-Pix Pieces,Nintendo Switch,Lightwood Games,Lightwood Games,8.95,8.95,0,0,2019-01-03,4,0.0,1,1,PEGI 3,80.0,"Party, Puzzle, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015570,Aaero: Complete Edition,Nintendo Switch,Wired Productions,Wired Productions,14.07,14.07,0,0,2018-12-23,1,0.0,1,0,PEGI 7,80.0,"Action, Music",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000007925,Firewatch,Nintendo Switch,Campo Santo,Campo Santo,19.19,19.19,0,0,2018-12-17,1,0.0,1,0,PEGI 16,80.0,Adventure,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000013492,Rain World,Nintendo Switch,Akupara Games,Akupara Games,26.87,26.87,0,0,2018-12-27,4,0.0,1,1,PEGI 7,80.0,"Action, Adventure, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014636,Dreamwalker,Nintendo Switch,Code Mystics,Code Mystics,5.11,5.11,0,0,2018-12-19,1,0.0,1,0,PEGI 3,80.0,"Action, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000013273,Bring Them Home,Nintendo Switch,Higgs Games,Higgs Games,3.44,3.44,0,0,2018-12-17,1,0.0,1,0,PEGI 3,80.0,"Arcade, Puzzle, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000012542,Doodle God: Evolution,Nintendo Switch,JoyBits,JoyBits,17.27,17.27,0,0,2019-01-24,1,0.0,1,1,PEGI 12,80.0,Puzzle,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015281,99Seconds,Nintendo Switch,SuperPowerUpGames,SuperPowerUpGames,1.72,3.44,50,0,2019-01-04,4,0.0,1,0,PEGI 3,80.0,"Action, Arcade, Party",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015768,Awe,Nintendo Switch,Badland Publishing,Badland Publishing,5.75,5.75,0,0,2018-12-20,1,0.0,1,0,PEGI 3,80.0,"Puzzle, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015051,King's Heir: Rise to the Throne,Nintendo Switch,Artifex Mundi,Artifex Mundi,17.27,17.27,0,0,2018-12-20,1,0.0,1,0,PEGI 12,80.0,"Adventure, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014521,Nippon Marathon,Nintendo Switch,PQube,PQube,15.35,15.35,0,0,2018-12-17,8,0.0,1,0,PEGI 7,80.0,"Action, Party, Racing",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000012842,ToeJam & Earl: Back in the Groove!,Nintendo Switch,HumaNature Studios,HumaNature Studios,20.21,20.21,0,0,2019-03-01,4,0.0,1,0,PEGI 7,80.0,Adventure,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015001,Odium to the Core,Nintendo Switch,Tendokore,Tendokore,5.75,5.75,0,0,2018-12-25,1,0.0,1,0,PEGI 7,80.0,"Action, Arcade, Music",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015511,Cake Laboratory,Nintendo Switch,GRIMTALIN,GRIMTALIN,3.44,3.44,0,0,2018-12-24,1,0.0,1,0,PEGI 3,80.0,"Arcade, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014126,Donut County,Nintendo Switch,Annapurna Interactive,Annapurna Interactive,3.51,14.07,75,0,2018-12-18,1,0.0,1,0,PEGI 3,80.0,"Adventure, Puzzle",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015207,Guess the Character,Nintendo Switch,JanduSoft,JanduSoft,3.44,3.44,0,0,2018-12-20,2,0.0,1,0,PEGI 3,80.0,"Board Game, Party",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000010686,City Builder,Nintendo Switch,BoomBox,BoomBox,11.51,11.51,0,0,2018-12-17,1,0.0,1,0,PEGI 3,80.0,"Arcade, Puzzle, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000012040,Horizon Shift '81,Nintendo Switch,Funbox Media,Funbox Media,9.2,9.2,0,0,2018-12-20,1,0.0,1,0,PEGI 3,80.0,"Action, Arcade, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000004460,JCB Pioneer: Mars,Nintendo Switch,Atomicom,Atomicom,25.59,25.59,0,0,2018-12-24,1,0.0,1,0,PEGI 3,80.0,"Action, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015019,Mad Age & This Guy,Nintendo Switch,SimFabric,SimFabric,5.36,5.36,0,0,2018-12-24,1,0.0,1,0,PEGI 3,80.0,"Adventure, Arcade, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000006521,Catastronauts,Nintendo Switch,Inertiasoft,Inertiasoft,16.63,16.63,0,0,2018-12-24,4,0.0,1,0,PEGI 3,80.0,"Action, Party",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000013570,Digerati Indie Bundle: INK & Hacky Zack,Nintendo Switch,Digerati,Digerati,17.27,17.27,0,0,2018-12-24,2,0.0,1,0,PEGI 3,80.0,"Action, Arcade, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014094,The Aquatic Adventure of the Last Human,Nintendo Switch,Digerati,Digerati,14.96,14.96,0,0,2018-12-25,1,0.0,1,0,PEGI 12,80.0,"Action, Adventure, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014556,Uncanny Valley,Nintendo Switch,Digerati,Digerati,11.51,11.51,0,0,2018-12-25,1,0.0,1,0,PEGI 16,80.0,"Action, Adventure",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000012107,Clouds & Sheep 2,Nintendo Switch,THQ Nordic Mobile,THQ Nordic Mobile,11.51,11.51,0,0,2018-12-21,2,0.0,1,0,PEGI 3,80.0,"Adventure, Simulation",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015015,Leopoldo Manquiseil,Nintendo Switch,Badland Publishing,Badland Publishing,5.11,5.11,0,0,2018-12-20,1,0.0,1,0,PEGI 3,80.0,"Arcade, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015601,Mimic Hunter,Nintendo Switch,Angry Cat,Angry Cat,5.75,5.75,0,0,2019-02-08,1,0.0,1,0,PEGI 7,80.0,"Platformer, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014043,Riddled Corpses EX,Nintendo Switch,COWCAT,COWCAT,2.29,11.51,80,0,2019-03-02,2,0.0,1,0,PEGI 12,80.0,"Action, Arcade, Rpg, Shooter",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017826,Guess the Word,Nintendo Switch,Ultimate Games,Ultimate Games,1.52,1.52,0,0,2019-02-14,1,0.0,0,0,PEGI 3,80.0,Puzzle,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000011360,Modern Combat Blackout,Nintendo Switch,Gameloft,Gameloft,8.96,8.96,0,0,2019-02-14,12,0.0,0,0,PEGI 18,80.0,"Action, Adventure, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017828,Pet Care,Nintendo Switch,Ultimate Games,Ultimate Games,1.52,1.52,0,0,2019-02-14,1,0.0,0,0,PEGI 3,80.0,Puzzle,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016109,Tales of the Orient - The Rising Sun,Nintendo Switch,Joindots,Joindots,4.98,16.63,70,0,2019-02-14,1,0.0,1,0,PEGI 7,80.0,"Adventure, Puzzle",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017066,Duck Hunting Challenge,Nintendo Switch,BoomBox,BoomBox,11.51,11.51,0,0,2019-02-12,1,0.0,1,0,PEGI 16,80.0,"First-Person Shooter, Sports",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014903,Dungeon Stars,Nintendo Switch,Dungeon Stars,Dungeon Stars,9.97,9.97,0,0,2019-02-12,1,0.0,0,0,PEGI 7,80.0,"Action, Adventure, Rpg",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017093,Nice Slice,Nintendo Switch,Kool2Play,Kool2Play,3.84,3.84,0,0,2019-02-14,2,0.0,1,0,PEGI 3,80.0,Arcade,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015375,Captain StarONE,Nintendo Switch,Flyhigh Works,Flyhigh Works,11.76,11.76,0,0,2019-02-12,1,0.0,1,0,PEGI 7,80.0,"Action, Rpg, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000018696,ASTRAL CHAIN™,Nintendo Switch,PlatinumGames,Nintendo,63.99,63.99,0,0,2019-08-30,2,0.0,1,0,PEGI 16,61.0,"Action, Adventure",AVOID
+2026-10-16 11:17:58,2026-10-16,11,70010000018678,Super Mario Maker 2,Nintendo Switch,Nintendo,Nintendo,63.99,63.99,0,0,2019-06-28,4,0.0,1,0,PEGI 3,61.0,Platformer,AVOID
+2026-10-16 11:17:58,2026-10-16,11,70010000015597,Alchemic Dungeons DX,Nintendo Switch,Flyhigh Works,Flyhigh Works,9.33,9.33,0,0,2019-02-14,1,0.0,1,0,PEGI 12,80.0,"Adventure, Rpg",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000002465,Arcade Archives FRONT LINE,Nintendo Switch,HAMSTER,HAMSTER,5.63,8.05,30,0,2019-02-14,2,0.0,1,0,PEGI 3,80.0,"Action, Arcade",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016457,Car Mechanic Simulator,Nintendo Switch,ECC GAMES,ECC GAMES,19.19,19.19,0,0,2019-02-15,1,0.0,1,0,PEGI 3,80.0,"Puzzle, Simulation",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000012281,Degrees of Separation,Nintendo Switch,MAXIMUM ENT FRANCE,MAXIMUM ENT FRANCE,19.83,19.83,0,0,2019-02-13,2,0.0,1,0,PEGI 3,80.0,"Platformer, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000013823,The Golf,Nintendo Switch,D3PUBLISHER,D3PUBLISHER,3.44,11.51,70,0,2019-02-14,4,0.0,1,0,PEGI 3,80.0,"Party, Sports",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014929,Mindball Play,Nintendo Switch,Interactive IP,Interactive IP,4.6,4.6,0,0,2019-02-14,20,0.0,1,0,PEGI 3,80.0,"Party, Racing",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016107,Awesome Pea,Nintendo Switch,Sometimes You,Sometimes You,6.9,6.9,0,0,2019-03-01,1,0.0,1,0,PEGI 3,80.0,Platformer,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000018693,BOXBOY! + BOXGIRL!,Nintendo Switch,"HAL Laboratory, Inc.",Nintendo,11.51,11.51,0,0,2019-04-26,2,0.0,1,0,PEGI 3,61.0,"Platformer, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000020034,The Legend of Zelda: Link's Awakening,Nintendo Switch,Nintendo,Nintendo,63.99,63.99,0,0,2019-09-20,1,0.0,1,0,PEGI 7,61.0,"Action, Adventure",AVOID
+2026-10-16 11:17:58,2026-10-16,11,70010000009166,DRAGON QUEST BUILDERS 2,Nintendo Switch,Square Enix,Nintendo,63.99,63.99,0,0,2019-07-12,4,0.0,1,0,PEGI 7,61.0,"Action, Adventure",AVOID
+2026-10-16 11:17:58,2026-10-16,11,70010000021468,DRAGON QUEST® XI S: Echoes of an Elusive Age – Definitive Edition,Nintendo Switch,"SQUARE ENIX CO., LTD.",SQUARE ENIX,44.79,44.79,0,0,2019-09-27,1,0.0,1,0,PEGI 12,80.0,"Action, Rpg",HOLD
+2026-10-16 11:17:58,2026-10-16,11,70010000010682,Assassin's Creed® III Remastered,Nintendo Switch,Ubisoft,Ubisoft,38.39,38.39,0,0,2019-05-21,1,0.0,1,1,PEGI 18,80.0,Action,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017216,BATTLLOON,Nintendo Switch,PLAYISM,PLAYISM,7.03,7.03,0,0,2019-02-28,4,0.0,1,0,PEGI 3,80.0,"Action, Party",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015882,YUMENIKKI -DREAM DIARY-,Nintendo Switch,PLAYISM,PLAYISM,23.03,23.03,0,0,2019-02-21,1,0.0,1,0,PEGI 12,80.0,"Action, Adventure, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017349,Pirates Pinball,Nintendo Switch,SuperPowerUpGames,SuperPowerUpGames,1.2,3.44,65,0,2019-03-01,1,0.0,1,0,PEGI 3,80.0,"Arcade, Simulation",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015574,Raining Coins,Nintendo Switch,Crazysoft,Crazysoft,6.39,6.39,0,0,2019-02-21,1,0.0,1,0,PEGI 3,80.0,"Action, Arcade",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000011723,Rotating Brave,Nintendo Switch,COSEN,COSEN,5.75,5.75,0,0,2019-02-21,1,0.0,1,0,PEGI 7,80.0,"Action, Adventure, Arcade",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014911,BlazeRush,Nintendo Switch,Targem Games,Targem Games,13.81,13.81,0,0,2019-02-19,8,0.0,1,0,PEGI 7,80.0,"Action, Arcade, Party, Racing",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017941,I wanna fly,Nintendo Switch,Ultimate Games,Ultimate Games,2.29,2.29,0,0,2019-02-20,1,0.0,1,0,PEGI 3,80.0,"Action, Arcade, Other",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015021,Almost There: The Platformer,Nintendo Switch,The Quantum Astrophysicists Guild,The Quantum Astrophysicists Guild,1.83,9.2,80,0,2019-02-21,1,0.0,1,0,PEGI 3,80.0,"Action, Arcade, Platformer",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014512,STEINS;GATE ELITE,Nintendo Switch,Spike Chunsoft US,Spike Chunsoft US,69.11,69.11,0,0,2019-02-19,1,0.0,1,0,PEGI 16,80.0,Adventure,AVOID
+2026-10-16 11:17:58,2026-10-16,11,70010000017124,Devil Engine,Nintendo Switch,Poppy Works,Poppy Works,23.03,23.03,0,0,2019-02-21,1,0.0,1,1,PEGI 7,80.0,Shooter,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000009109,Trine 2: Complete Story,Nintendo Switch,Frozenbyte,Frozenbyte,19.57,19.57,0,0,2019-02-18,3,0.0,1,0,PEGI 12,80.0,"Action, Adventure, Platformer, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015030,Klondike Solitaire,Nintendo Switch,Baltoro Minis,Baltoro Minis,2.24,4.6,51,0,2019-03-01,1,0.0,1,0,PEGI 3,80.0,"Board Game, Puzzle",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017652,Tardy,Nintendo Switch,Drageus Games,Drageus Games,1.14,11.51,90,0,2019-03-01,1,0.0,1,0,PEGI 16,80.0,"Adventure, Puzzle",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000012979,Swords & Soldiers 2 Shawarmageddon,Nintendo Switch,Atari,Atari,2.59,17.27,85,0,2019-03-01,2,0.0,1,0,PEGI 12,80.0,"Action, Strategy",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016667,Warplanes: WW2 Dogfight,Nintendo Switch,7Levels,7Levels,11.51,11.51,0,0,2019-02-21,1,0.0,1,0,PEGI 7,80.0,"Action, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016673,GIGANTIC ARMY,Nintendo Switch,PixelHeart,PixelHeart,10.36,10.36,0,0,2019-02-21,1,0.0,1,0,PEGI 7,80.0,"Action, Arcade, Platformer, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014584,Daggerhood,Nintendo Switch,Ratalaika Games,Ratalaika Games,6.39,6.39,0,0,2019-02-22,1,0.0,1,0,PEGI 7,80.0,"Action, Adventure, Arcade, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000018033,Caterpillar Royale,Nintendo Switch,STARSIGN,STARSIGN,2.87,5.75,50,0,2019-02-19,4,0.0,1,0,PEGI 3,80.0,"Action, Party",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016761,Braveland Trilogy,Nintendo Switch,Ellada Games,Ellada Games,17.27,17.27,0,0,2019-03-07,2,0.0,1,0,PEGI 7,80.0,"Adventure, Rpg, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015228,Q.U.B.E. 2,Nintendo Switch,TrappedNerveGames,TrappedNerveGames,29.43,29.43,0,0,2019-02-21,1,0.0,1,0,PEGI 12,80.0,"Adventure, Platformer, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000010912,Assault Android Cactus+,Nintendo Switch,Witch Beam,Witch Beam,23.03,23.03,0,0,2019-03-08,4,0.0,1,0,PEGI 7,80.0,"Action, Arcade, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015700,Ninja Village,Nintendo Switch,Kairosoft,Kairosoft,14.96,14.96,0,0,2019-02-28,1,0.0,1,0,PEGI 7,80.0,"Action, Rpg, Simulation, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000010435,ACA NEOGEO THE KING OF FIGHTERS 2003,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2019-02-21,2,0.0,1,0,PEGI 12,80.0,"Arcade, Fighting",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016381,Anodyne,Nintendo Switch,Nnooo,Nnooo,11.51,11.51,0,0,2019-02-28,1,0.0,1,0,PEGI 16,80.0,"Action, Adventure",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017662,Croc's World Run,Nintendo Switch,Sprakelsoft,Sprakelsoft,5.75,5.75,0,0,2019-02-21,1,0.0,1,0,PEGI 3,80.0,"Action, Adventure, Arcade, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016848,Arcade Archives ICE CLIMBER,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2019-02-22,2,0.0,1,0,PEGI 3,80.0,"Action, Arcade",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000013284,Fimbul,Nintendo Switch,EuroVideo Medien,EuroVideo Medien,17.91,17.91,0,0,2019-02-28,1,0.0,1,0,PEGI 16,80.0,"Action, Adventure",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016496,History 2048,Nintendo Switch,Run-Down Games,Run-Down Games,5.75,5.75,0,0,2019-03-01,1,0.0,1,0,PEGI 3,80.0,"Puzzle, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000013219,Monster Dynamite,Nintendo Switch,TREVA,TREVA,23.03,23.03,0,0,2019-02-28,1,0.0,1,0,PEGI 3,80.0,"Action, Arcade",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015816,Rad Rodgers Radical Edition,Nintendo Switch,THQ Nordic Mobile,THQ Nordic Mobile,34.55,34.55,0,0,2019-02-26,2,0.0,1,0,PEGI 16,80.0,"Action, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000013357,The LEGO Movie 2 Videogame,Nintendo Switch,WB Games,WB Games,44.79,44.79,0,0,2019-03-01,2,0.0,1,1,PEGI 7,80.0,"Action, Adventure",HOLD
+2026-10-16 11:17:58,2026-10-16,11,70010000013368,My Girlfriend is a Mermaid!?,Nintendo Switch,Sekai Games,Sekai Games,28.8,28.8,0,0,2019-02-28,1,0.0,1,0,PEGI 12,80.0,Adventure,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015745,The Lost Light of Sisu,Nintendo Switch,Solvarg,Solvarg,11.51,11.51,0,0,2019-02-26,1,0.0,1,0,PEGI 3,80.0,"Action, Adventure, Arcade, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000010671,Valley,Nintendo Switch,Blue Isle Studios,Blue Isle Studios,14.45,14.45,0,0,2019-03-07,1,0.0,1,0,PEGI 12,80.0,"Action, Adventure, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000013034,Crash Dummy,Nintendo Switch,Funbox Media,Funbox Media,11.51,11.51,0,0,2019-02-28,1,0.0,1,0,PEGI 7,80.0,"Arcade, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016365,SKYHILL,Nintendo Switch,Klabater,Klabater,5.75,5.75,0,0,2019-02-26,1,0.0,1,0,PEGI 7,80.0,"Adventure, Rpg",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000004485,Pokémon Shield,Nintendo Switch,GAME FREAK,Nintendo,34.55,34.55,0,0,2019-11-15,8,0.0,0,0,PEGI 7,61.0,Rpg,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000004488,Pokémon Sword,Nintendo Switch,GAME FREAK,Nintendo,34.55,34.55,0,0,2019-11-15,8,0.0,0,0,PEGI 7,61.0,Rpg,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017703,Bard's Gold - Nintendo Switch Edition,Nintendo Switch,Pixel Lantern,Pixel Lantern,10.23,10.23,0,0,2019-03-05,1,0.0,1,0,PEGI 3,80.0,"Action, Arcade, Platformer, Rpg",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017447,Dark Quest 2,Nintendo Switch,Brain Seal Entertainment,Brain Seal Entertainment,11.51,11.51,0,0,2019-02-27,3,0.0,1,0,PEGI 12,80.0,"Adventure, Rpg, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015844,Phoenix Wright: Ace Attorney Trilogy,Nintendo Switch,CAPCOM,CAPCOM,38.39,38.39,0,0,2019-04-09,1,0.0,1,0,PEGI 12,80.0,"Adventure, Simulation",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015048,BombFall,Nintendo Switch,Tackorama,Tackorama,6.4,6.4,0,0,2019-03-12,1,0.0,1,0,PEGI 3,80.0,"Arcade, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000013525,GALAK-Z: The Void: Deluxe Edition,Nintendo Switch,Golem Entertainment,Golem Entertainment,16.12,16.12,0,0,2019-03-26,1,0.0,1,0,PEGI 12,80.0,"Action, Arcade, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016403,12 is Better Than 6,Nintendo Switch,HYPETRAIN DIGITAL,HYPETRAIN DIGITAL,1.14,11.51,90,0,2019-03-05,1,0.0,1,0,PEGI 16,80.0,"Action, Adventure, Shooter",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016706,Unknown Fate,Nintendo Switch,MARSLIT GAMES,MARSLIT GAMES,17.27,17.27,0,0,2019-03-05,1,0.0,1,0,PEGI 12,80.0,"Adventure, Platformer, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000012852,Resident Evil,Nintendo Switch,CAPCOM,CAPCOM,20.47,20.47,0,0,2019-05-21,1,0.0,1,0,PEGI 18,80.0,Adventure,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000012848,Resident Evil 0,Nintendo Switch,CAPCOM,CAPCOM,20.47,20.47,0,0,2019-05-21,1,0.0,1,0,PEGI 18,80.0,Adventure,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000012856,Resident Evil 4,Nintendo Switch,CAPCOM,CAPCOM,20.47,20.47,0,0,2019-05-21,1,0.0,1,0,15,80.0,Adventure,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000013839,Duck Game,Nintendo Switch,LANDON J PODBIELSKI,LANDON J PODBIELSKI,14.96,14.96,0,0,2019-05-02,4,0.0,1,0,PEGI 12,80.0,"Action, Arcade, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016905,Trüberbrook,Nintendo Switch,Headup Games,Headup Games,3.19,31.99,90,0,2019-04-17,1,0.0,1,0,PEGI 12,80.0,"Adventure, Puzzle",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015730,Queen’s Quest 2: Stories of Forgotten Past,Nintendo Switch,Artifex Mundi,Artifex Mundi,17.27,17.27,0,0,2019-03-01,1,0.0,1,0,PEGI 12,80.0,"Adventure, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000009983,Space War Arena,Nintendo Switch,Playchemy,Playchemy,5.11,5.11,0,0,2019-02-28,2,0.0,1,0,PEGI 7,80.0,"Action, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000018778,Venture Kid,Nintendo Switch,FDG Entertainment,FDG Entertainment,2.87,11.51,75,0,2019-05-02,1,0.0,1,0,PEGI 7,80.0,"Action, Adventure, Arcade, Platformer",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000003541,Crystal Crisis,Nintendo Switch,Nicalis,Nicalis,23.03,23.03,0,0,2019-05-28,4,0.0,1,0,PEGI 7,80.0,"Arcade, Fighting, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000011421,Cytus α,Nintendo Switch,Flyhigh Works,Flyhigh Works,57.59,57.59,0,0,2019-04-25,3,0.0,1,0,PEGI 12,80.0,"Action, Music",HOLD
+2026-10-16 11:17:58,2026-10-16,11,70010000018772,Dig Dog,Nintendo Switch,Wild Rooster,Wild Rooster,3.83,3.83,0,0,2019-04-26,1,0.0,1,0,PEGI 3,80.0,"Action, Adventure, Arcade, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017213,PICROSS S3,Nintendo Switch,JUPITER,JUPITER,11.51,11.51,0,0,2019-04-25,2,0.0,1,0,PEGI 3,80.0,"Puzzle, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017091,Strike Suit Zero: Director's Cut,Nintendo Switch,Born Ready Games,Born Ready Games,20.47,20.47,0,0,2019-05-01,1,0.0,1,0,PEGI 7,80.0,"Action, Arcade, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000009287,AngerForce: Reloaded for Nintendo Switch,Nintendo Switch,indienova,indienova,10.36,10.36,0,0,2019-04-04,2,0.0,1,0,PEGI 7,80.0,"Action, Arcade, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000018321,Theatre Tales,Nintendo Switch,Ultimate Games,Ultimate Games,1.65,1.65,0,0,2019-04-24,1,0.0,0,0,PEGI 3,80.0,Adventure,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014897,Robox,Nintendo Switch,Sabec,Sabec,12.79,12.79,0,0,2019-04-22,2,0.0,0,0,PEGI 7,80.0,"Action, Arcade, Fighting",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000018862,Gym Hero - Idle Fitness Tycoon,Nintendo Switch,Ultimate Games,Ultimate Games,2.16,2.16,0,0,2019-04-24,1,0.0,1,0,PEGI 12,80.0,"Arcade, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017868,Shadows of Adam,Nintendo Switch,CIRCLE Ent.,CIRCLE Ent.,17.27,17.27,0,0,2019-05-03,1,0.0,1,0,PEGI 12,80.0,"Adventure, Rpg",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000019352,HexaGravity,Nintendo Switch,Flynns Arcade,Flynns Arcade,1.14,1.14,0,0,2019-05-02,1,0.0,1,0,PEGI 3,80.0,"Arcade, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000018788,Ding Dong XL,Nintendo Switch,Adamvision Studios,Adamvision Studios,1.14,1.14,0,0,2019-04-22,1,0.0,1,0,PEGI 3,80.0,"Action, Arcade, Other",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000019415,Gyro Boss DX,Nintendo Switch,Chequered Ink,Chequered Ink,5.11,5.11,0,0,2019-05-02,4,0.0,1,0,PEGI 3,80.0,"Action, Arcade, Party, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016781,Zeroptian Invasion,Nintendo Switch,Ratalaika Games,Ratalaika Games,6.39,6.39,0,0,2019-04-26,1,0.0,1,0,PEGI 3,80.0,"Action, Arcade",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016176,Lapis x Labyrinth,Nintendo Switch,NIS America,NIS America,34.55,34.55,0,0,2019-05-31,1,0.0,1,0,PEGI 7,80.0,"Action, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000019347,Shalnor Legends: Sacred Lands,Nintendo Switch,Johnny Ostad,Johnny Ostad,10.23,10.23,0,0,2019-04-26,1,0.0,1,0,PEGI 7,80.0,"Action, Adventure, Puzzle, Rpg",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017556,Isoland,Nintendo Switch,CottonGame,CottonGame,2.11,2.11,0,0,2019-04-25,1,0.0,1,0,PEGI 3,80.0,"Adventure, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016485,Isoland 2 - Ashes of Time,Nintendo Switch,CottonGame,CottonGame,3.52,3.52,0,0,2019-04-25,1,0.0,1,0,PEGI 7,80.0,"Adventure, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017135,The Swords of Ditto: Mormo's Curse,Nintendo Switch,Devolver Digital,Devolver Digital,17.27,17.27,0,0,2019-05-02,2,0.0,1,0,PEGI 7,80.0,"Action, Adventure, Arcade",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000018225,Defend your Castle,Nintendo Switch,XGen Studios,XGen Studios,5.11,5.11,0,0,2019-04-25,1,0.0,1,0,PEGI 7,80.0,Arcade,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015529,TerraTech,Nintendo Switch,Mythwright,Mythwright,25.59,25.59,0,0,2019-05-29,4,0.0,1,1,PEGI 7,80.0,"Action, Adventure, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000011400,For The King,Nintendo Switch,Curve Digital,Curve Digital,25.59,25.59,0,0,2019-05-09,3,0.0,1,0,PEGI 12,80.0,"Adventure, Board Game, Rpg, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015338,39 Days to Mars,Nintendo Switch,Its Anecdotal,Its Anecdotal,14.57,21.75,33,0,2019-05-16,2,0.0,1,0,PEGI 3,80.0,"Adventure, Puzzle",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000019203,Blazing Beaks,Nintendo Switch,Untold Tales,Untold Tales,3.44,17.27,80,0,2019-05-10,4,0.0,1,0,PEGI 7,80.0,"Party, Rpg, Shooter",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000018931,Frane: Dragons' Odyssey,Nintendo Switch,KEMCO,KEMCO,14.96,14.96,0,0,2019-05-09,1,0.0,1,1,PEGI 12,80.0,"Action, Adventure, Rpg",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000018686,Super Cane Magic ZERO,Nintendo Switch,STUDIO EVIL,STUDIO EVIL,28.79,28.79,0,0,2019-05-08,4,0.0,1,1,PEGI 3,80.0,"Action, Rpg",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017780,Rollin' Eggz,Nintendo Switch,GRIMTALIN,GRIMTALIN,3.44,3.44,0,0,2019-04-26,1,0.0,1,0,PEGI 3,80.0,Arcade,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017152,The Little Acre,Nintendo Switch,Pewter Games Studios,Pewter Games Studios,12.79,12.79,0,0,2019-04-25,1,0.0,1,0,PEGI 7,80.0,"Adventure, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015487,Panty Party,Nintendo Switch,COSEN,COSEN,16.76,16.76,0,0,2019-04-25,4,0.0,1,1,PEGI 7,80.0,"Action, Arcade, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014810,Arcade Archives PSYCHO SOLDIER,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2019-04-25,2,0.0,1,0,PEGI 7,80.0,"Action, Arcade",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000018948,Monster Puzzle,Nintendo Switch,Flynns Arcade,Flynns Arcade,2.29,2.29,0,0,2019-05-09,1,0.0,1,0,PEGI 3,80.0,Puzzle,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000019754,Super Star Blast,Nintendo Switch,EntwicklerX,EntwicklerX,2.29,5.75,60,0,2019-04-26,4,0.0,1,0,PEGI 3,80.0,"Action, Arcade, Shooter",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015309,Puyo Puyo Champions,Nintendo Switch,SEGA,SEGA,10.23,10.23,0,0,2019-05-07,4,0.0,1,0,PEGI 3,80.0,Puzzle,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000019217,Arcade Archives TERRA FORCE,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2019-05-02,2,0.0,1,0,PEGI 7,80.0,"Arcade, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000019376,Puzzle Herder,Nintendo Switch,Tiny Trinket Games,Tiny Trinket Games,5.75,5.75,0,0,2019-05-01,1,0.0,1,0,PEGI 3,80.0,Puzzle,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017185,Darkest Hunters,Nintendo Switch,Ultimate Games,Ultimate Games,5.75,5.75,0,0,2019-05-02,1,0.0,1,0,PEGI 12,80.0,"Puzzle, Rpg",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017619,Super Blood Hockey,Nintendo Switch,Games By Loren Lemcke,Games By Loren Lemcke,17.27,17.27,0,0,2019-04-26,4,0.0,1,0,PEGI 16,80.0,"Arcade, Sports",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000013732,Redout,Nintendo Switch,Nicalis,Nicalis,34.55,34.55,0,0,2019-05-14,6,0.0,1,0,PEGI 3,80.0,"Arcade, Racing",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000010930,Bird Game +,Nintendo Switch,Ratalaika Games,Ratalaika Games,6.39,6.39,0,0,2019-05-03,1,0.0,1,0,PEGI 3,80.0,"Adventure, Arcade, Simulation",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016515,Preventive Strike,Nintendo Switch,SimFabric,SimFabric,1.42,2.04,30,0,2019-05-03,1,0.0,1,0,PEGI 7,80.0,"Action, Arcade, Shooter",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000018013,Lost Artifacts: Soulstone,Nintendo Switch,8Floor Games,8Floor Games,3.44,3.44,0,0,2019-05-09,1,0.0,1,0,PEGI 3,80.0,Strategy,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000019183,Hellmut: The Badass from Hell,Nintendo Switch,Games Farm,Games Farm,34.55,34.55,0,0,2019-05-03,2,0.0,1,0,PEGI 16,80.0,"Action, Arcade, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017111,European Conqueror X,Nintendo Switch,CIRCLE Ent.,CIRCLE Ent.,11.51,11.51,0,0,2019-05-07,1,0.0,1,0,PEGI 7,80.0,Strategy,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015967,Lovecraft´s Untold Stories,Nintendo Switch,Fulqrum Publishing,Fulqrum Publishing,17.27,17.27,0,0,2019-05-10,1,0.0,1,0,PEGI 16,80.0,"Action, Adventure, Arcade, Rpg",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000018020,Reverse Crawl,Nintendo Switch,Digerati,Digerati,14.96,14.96,0,0,2019-05-10,2,0.0,1,0,PEGI 7,80.0,"Action, Rpg, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000019172,FUN! FUN! Animal Park,Nintendo Switch,Numskull Games,Numskull Games,38.39,38.39,0,0,2019-05-30,2,0.0,1,0,PEGI 3,80.0,Party,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000018761,Undead Horde,Nintendo Switch,10tons,10tons,19.19,19.19,0,0,2019-05-15,1,0.0,1,0,PEGI 12,80.0,"Action, Adventure, Rpg",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000019366,MachiKnights -Blood bagos-,Nintendo Switch,CFK,CFK,2.41,3.44,30,0,2019-05-09,2,0.0,1,0,PEGI 7,80.0,"Action, Arcade, Rpg",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000019220,INFERNO CLIMBER: REBORN,Nintendo Switch,ARC SYSTEM WORKS,ARC SYSTEM WORKS,13.81,13.81,0,0,2019-05-16,1,0.0,1,0,PEGI 7,80.0,"Action, Rpg",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017865,My Big Sister,Nintendo Switch,Ratalaika Games,Ratalaika Games,7.67,7.67,0,0,2019-05-10,1,0.0,1,0,PEGI 12,80.0,"Adventure, Rpg",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000019252,Akane,Nintendo Switch,QubicGames,QubicGames,2.29,5.75,60,0,2019-05-17,1,0.0,1,0,PEGI 16,80.0,"Action, Arcade",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000018261,WONDER BOY RETURNS REMIX,Nintendo Switch,CFK,CFK,4.6,11.51,60,0,2019-05-23,1,0.0,1,0,PEGI 3,80.0,"Action, Adventure, Arcade",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000018208,Car Mechanic Manager,Nintendo Switch,Ultimate Games,Ultimate Games,4.6,4.6,0,0,2019-05-07,1,0.0,1,0,PEGI 3,80.0,"Other, Simulation",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000011739,Darkwood,Nintendo Switch,Crunching Koalas,Crunching Koalas,16.63,16.63,0,0,2019-05-16,1,0.0,1,0,PEGI 18,80.0,"Adventure, Rpg",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000001549,OTTTD: Over The Top Tower Defence,Nintendo Switch,SMG Studio,SMG Studio,7.67,7.67,0,0,2019-05-06,1,0.0,1,0,PEGI 12,80.0,"Action, Arcade, Rpg, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000019788,Car Trader,Nintendo Switch,Ultimate Games,Ultimate Games,4.6,4.6,0,0,2019-05-12,1,0.0,1,0,PEGI 3,80.0,"Simulation, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000018963,Devious Dungeon 2,Nintendo Switch,Ratalaika Games,Ratalaika Games,10.23,10.23,0,0,2019-05-17,1,0.0,1,0,PEGI 7,80.0,"Action, Adventure, Arcade, Rpg",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015810,Atelier Lulua ~The Scion of Arland~,Nintendo Switch,KOEI TECMO EUROPE,KOEI TECMO EUROPE,63.99,63.99,0,0,2019-05-24,1,0.0,1,1,PEGI 12,80.0,Rpg,AVOID
+2026-10-16 11:17:58,2026-10-16,11,70010000019672,Dragon Snakes,Nintendo Switch,My Next Games,My Next Games,2.29,4.6,50,0,2019-05-09,4,0.0,1,0,PEGI 3,80.0,"Arcade, Party",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000013589,Gunlord X,Nintendo Switch,NGDEV,NGDEV,11.51,11.51,0,0,2019-05-22,1,0.0,1,0,PEGI 7,80.0,"Action, Arcade, Platformer, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000013292,Rock of Ages 2: Bigger & Boulder™,Nintendo Switch,ACE Team,ACE Team,17.27,17.27,0,0,2019-05-14,4,0.0,1,1,PEGI 12,80.0,"Action, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000010282,Octogeddon,Nintendo Switch,All Yes Good,All Yes Good,8.81,8.81,0,0,2019-05-16,1,0.0,1,0,PEGI 7,80.0,"Action, Arcade",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000003848,HEROINE ANTHEM ZERO episode 1,Nintendo Switch,Winking,Winking,14.96,14.96,0,0,2019-05-22,1,0.0,1,0,PEGI 16,80.0,"Action, Adventure, Rpg",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016727,Arcade Archives NINJA GAIDEN,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2019-05-09,2,0.0,1,0,PEGI 7,80.0,"Action, Arcade",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017345,Jungle Z,Nintendo Switch,Rising Win Tech.,Rising Win Tech.,13.3,13.3,0,0,2019-04-08,1,0.0,1,0,PEGI 12,80.0,"Action, Adventure",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015534,Reigns: Game of Thrones,Nintendo Switch,Devolver Digital,Devolver Digital,4.6,4.6,0,0,2019-04-11,2,0.0,1,0,PEGI 7,80.0,"Adventure, Rpg, Simulation, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017491,Doggie Ninja The Golden Mission,Nintendo Switch,toydea,toydea,7.54,7.54,0,0,2019-04-11,4,0.0,0,0,PEGI 3,80.0,"Action, Party",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016102,Death Coming,Nintendo Switch,Postmeta Games,Postmeta Games,8.05,8.05,0,0,2019-04-25,1,0.0,1,0,PEGI 16,80.0,Puzzle,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000019151,Xtreme Club Racing,Nintendo Switch,FuriouSoftPhoenix,FuriouSoftPhoenix,11.38,11.38,0,0,2019-05-03,1,0.0,1,0,PEGI 3,80.0,"Arcade, Racing, Sports",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017501,Type:Rider,Nintendo Switch,ARTE Experience,ARTE Experience,11.51,11.51,0,0,2019-04-25,1,0.0,1,0,PEGI 3,80.0,"Adventure, Platformer, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017544,Feather,Nintendo Switch,Samurai Punk,Samurai Punk,10.36,10.36,0,0,2019-04-05,4,0.0,1,0,PEGI 3,80.0,"Adventure, Other, Simulation",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000019181,Path to Mnemosyne,Nintendo Switch,Hidden Trap,Hidden Trap,11.51,11.51,0,0,2019-04-16,1,0.0,1,0,PEGI 7,80.0,Puzzle,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017341,Rolling Sky,Nintendo Switch,Rising Win Tech.,Rising Win Tech.,11.51,11.51,0,0,2019-04-12,1,0.0,1,0,PEGI 3,80.0,Music,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017428,Vandals,Nintendo Switch,ARTE Experience,ARTE Experience,10.88,10.88,0,0,2019-04-25,1,0.0,1,0,PEGI 3,80.0,"Action, Adventure, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014324,SUPER DRAGON BALL HEROES WORLD MISSION,Nintendo Switch,Bandai Namco Entertainment,Bandai Namco Entertainment,10.23,63.99,84,0,2019-05-09,6,0.0,0,1,PEGI 12,80.0,"Board Game, Strategy",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016851,Arcade Archives DONKEY KONG 3,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2019-04-05,2,0.0,1,0,PEGI 3,80.0,"Action, Arcade, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000019184,SlabWell: The Quest For Kaktun's Alpaca,Nintendo Switch,Undercoders,Undercoders,2.68,8.95,70,0,2019-04-18,2,0.0,1,0,PEGI 3,80.0,Puzzle,STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000009581,Active Soccer 2019,Nintendo Switch,Gianluca Troiano,Gianluca Troiano,11.51,11.51,0,0,2019-04-19,4,0.0,1,0,PEGI 3,80.0,"Arcade, Sports",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000018406,The Demon Crystal,Nintendo Switch,Regista,Regista,11.51,11.51,0,0,2019-04-11,1,0.0,1,0,PEGI 3,80.0,"Action, Adventure, Rpg",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016061,Hellblade: Senua's Sacrifice,Nintendo Switch,Ninja Theory,Ninja Theory,31.99,31.99,0,0,2019-04-11,1,0.0,1,0,PEGI 18,80.0,"Action, Adventure",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017745,Beyond Enemy Lines: Covert Operations,Nintendo Switch,Polygon Art,Polygon Art,16.12,16.12,0,0,2019-04-22,1,0.0,1,0,PEGI 16,80.0,"Action, First-Person Shooter, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017132,Super Weekend Mode,Nintendo Switch,Ratalaika Games,Ratalaika Games,6.39,6.39,0,0,2019-04-12,1,0.0,1,0,PEGI 3,80.0,"Action, Arcade, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017115,A Dark Room,Nintendo Switch,CIRCLE Ent.,CIRCLE Ent.,8.05,8.05,0,0,2019-04-12,2,0.0,1,0,PEGI 7,80.0,"Adventure, Rpg, Simulation",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000013100,Out There: Ω The Alliance,Nintendo Switch,Raw Fury,Raw Fury,14.96,14.96,0,0,2019-04-09,1,0.0,1,0,PEGI 12,80.0,"Adventure, Rpg",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000018094,Black Paradox,Nintendo Switch,Fantastico Studio,Fantastico Studio,6.9,17.27,60,0,2019-05-03,2,0.0,1,0,PEGI 7,80.0,"Action, Arcade, Shooter",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017241,Tanks Meet Zombies,Nintendo Switch,NunoVicenteBarreto,NunoVicenteBarreto,11.51,11.51,0,0,2019-04-16,4,0.0,1,0,PEGI 7,80.0,"Arcade, Party, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000008265,Sniper Elite V2 Remastered,Nintendo Switch,RebellionInteract,RebellionInteract,38.39,38.39,0,0,2019-05-14,8,0.0,1,0,PEGI 16,80.0,"Action, Adventure, First-Person Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016731,VA-11 Hall-A: Cyberpunk Bartender Action,Nintendo Switch,Ysbryd Games,Ysbryd Games,14.07,14.07,0,0,2019-05-02,1,0.0,1,0,PEGI 16,80.0,"Adventure, Simulation",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015975,Table Top Racing: World Tour - Nitro Edition,Nintendo Switch,Greenlight Games,Greenlight Games,12.79,12.79,0,0,2019-05-01,8,0.0,1,0,PEGI 3,80.0,"Arcade, Party, Racing",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000018536,Kotodama: The 7 Mysteries of Fujisawa,Nintendo Switch,PQube,PQube,25.59,25.59,0,0,2019-05-31,1,0.0,1,0,PEGI 12,80.0,"Adventure, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014716,Deponia,Nintendo Switch,Daedalic Entertainment,Daedalic Entertainment,10.24,10.24,0,0,2019-04-24,1,0.0,1,0,PEGI 12,80.0,Adventure,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000019197,Greco’s Hall of Kanji　Learn Japanese< Beginner >,Nintendo Switch,media5 LSAI,media5 LSAI,8.63,17.27,50,0,2019-04-09,1,0.0,1,0,PEGI 3,80.0,"Education, Other",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014933,The Padre,Nintendo Switch,Feardemic,Feardemic,23.03,23.03,0,0,2019-04-18,1,0.0,1,0,PEGI 12,80.0,"Adventure, Other, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016282,Cafeteria Nipponica,Nintendo Switch,Kairosoft,Kairosoft,14.96,14.96,0,0,2019-04-18,1,0.0,1,0,PEGI 3,80.0,"Rpg, Simulation, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000018031,DayD: Through Time,Nintendo Switch,8Floor Games,8Floor Games,3.44,3.44,0,0,2019-04-18,1,0.0,1,0,PEGI 3,80.0,Strategy,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000012682,Aggelos,Nintendo Switch,PQube,PQube,15.35,15.35,0,0,2019-04-25,1,0.0,1,0,PEGI 7,80.0,"Action, Adventure, Platformer, Rpg",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000018828,Slime Tactics,Nintendo Switch,Flyhigh Works,Flyhigh Works,11.51,11.51,0,0,2019-04-11,1,0.0,1,0,PEGI 7,80.0,"Rpg, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016721,Arcade Archives TIME PILOT,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2019-04-11,2,0.0,1,0,PEGI 3,80.0,"Arcade, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000013899,Hell is Other Demons,Nintendo Switch,Cuddle Monster,Cuddle Monster,11.51,11.51,0,0,2019-04-18,1,0.0,1,0,PEGI 7,80.0,"Action, Arcade, Platformer, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000019061,Sudoku Relax,Nintendo Switch,G-MODE,G-MODE,5.88,5.88,0,0,2019-04-18,1,0.0,1,0,PEGI 3,80.0,Puzzle,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014842,Warhammer Age of Sigmar: Champions,Nintendo Switch,Playfusion,Playfusion,0.0,0.0,0,1,2019-04-16,2,0.0,0,0,PEGI 7,80.0,"Board Game, Strategy",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000010013,Lost King's Lullaby,Nintendo Switch,Tesura Games,Tesura Games,11.51,11.51,0,0,2019-04-25,1,0.0,1,0,PEGI 7,80.0,"Action, Adventure, Rpg",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000018702,the Knight & the Dragon,Nintendo Switch,Naps Team,Naps Team,11.51,11.51,0,0,2019-04-18,1,0.0,1,0,PEGI 7,80.0,"Action, Arcade, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000018897,You Died but a Necromancer revived you,Nintendo Switch,BolHut,BolHut,10.23,10.23,0,0,2019-04-19,4,0.0,1,0,PEGI 7,80.0,"Action, Arcade",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017329,Dawn of Survivors,Nintendo Switch,WISTONE ENTERTAINMENT,WISTONE ENTERTAINMENT,5.24,5.24,0,0,2019-04-19,5,0.0,1,0,PEGI 16,80.0,"Action, Adventure, Rpg",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014591,Evil Defenders,Nintendo Switch,Crazy Panda,Crazy Panda,11.51,11.51,0,0,2019-05-14,1,0.0,1,0,PEGI 7,80.0,Strategy,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000013513,SAINTS ROW®: THE THIRD™ - THE FULL PACKAGE,Nintendo Switch,PLAION,PLAION,20.47,20.47,0,0,2019-05-10,2,0.0,1,0,PEGI 18,80.0,Action,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016612,GoatPunks,Nintendo Switch,MELLIFONT SANTIAGO,MELLIFONT SANTIAGO,10.23,10.23,0,0,2019-04-20,4,0.0,1,0,PEGI 3,80.0,"Action, Arcade, Party",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000019069,Dragon Pinball,Nintendo Switch,SuperPowerUpGames,SuperPowerUpGames,1.2,3.44,65,0,2019-05-10,1,0.0,1,0,PEGI 3,80.0,"Arcade, Simulation",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015708,Risky Rescue,Nintendo Switch,Forever Entertainment,Forever Entertainment,5.75,5.75,0,0,2019-04-18,2,0.0,1,0,PEGI 3,80.0,"Action, Arcade",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000019541,Rogue Bit,Nintendo Switch,Bigosaur,Bigosaur,2.04,5.11,60,0,2019-04-26,1,0.0,1,0,PEGI 3,80.0,"Adventure, Puzzle",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000003862,Masquerada: Songs and Shadows,Nintendo Switch,Ysbryd Games,Ysbryd Games,23.03,23.03,0,0,2019-05-09,1,0.0,1,0,PEGI 16,80.0,"Rpg, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000010438,ACA NEOGEO SAMURAI SHODOWN V SPECIAL,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2019-04-18,2,0.0,1,0,PEGI 16,80.0,"Arcade, Fighting",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017488,Arcade Classics Anniversary Collection,Nintendo Switch,KONAMI,KONAMI,20.47,20.47,0,0,2019-04-18,2,0.0,1,0,PEGI 7,80.0,"Action, Arcade, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000011166,Construction Machines Simulator,Nintendo Switch,SimFabric,SimFabric,22.57,32.24,30,0,2019-04-19,1,0.0,1,0,PEGI 3,80.0,Simulation,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000019071,Croc's World 2,Nintendo Switch,Sprakelsoft,Sprakelsoft,5.75,5.75,0,0,2019-04-18,1,0.0,1,0,PEGI 3,80.0,"Action, Adventure, Arcade, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000011641,"Everybody, Hearts!",Nintendo Switch,CELLNAVI,CELLNAVI,6.4,6.4,0,0,2019-04-18,5,0.0,1,0,PEGI 3,80.0,"Board Game, Party",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016208,Iron Snout,Nintendo Switch,Ratalaika Games,Ratalaika Games,1.14,6.39,82,0,2019-04-19,2,0.0,1,0,PEGI 12,80.0,"Action, Arcade",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016644,Secrets of Magic - The Book of Spells,Nintendo Switch,Joindots,Joindots,11.51,11.51,0,0,2019-04-18,1,0.0,1,0,PEGI 3,80.0,"Adventure, Arcade, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017113,Witch Thief,Nintendo Switch,Cardboard Keep,Cardboard Keep,15.35,15.35,0,0,2019-04-19,1,0.0,1,0,PEGI 7,80.0,"Action, Adventure, Arcade, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015871,Crashbots,Nintendo Switch,Sometimes You,Sometimes You,11.51,11.51,0,0,2019-05-01,1,0.0,1,0,PEGI 7,80.0,"Action, Arcade, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000012874,UNI,Nintendo Switch,Game Museum,Game Museum,5.12,5.12,0,0,2019-03-28,4,0.0,1,0,PEGI 7,80.0,"Action, Arcade, Party",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017089,Warparty,Nintendo Switch,Rogueside,Rogueside,11.51,11.51,0,0,2019-03-28,4,0.0,1,0,PEGI 12,80.0,Strategy,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000012128,The Princess Guide,Nintendo Switch,NIS America,NIS America,46.07,46.07,0,0,2019-03-29,1,0.0,1,0,PEGI 12,80.0,"Action, Rpg, Strategy",HOLD
+2026-10-16 11:17:58,2026-10-16,11,70010000016971,METAGAL,Nintendo Switch,Ratalaika Games,Ratalaika Games,6.39,6.39,0,0,2019-03-29,1,0.0,1,0,PEGI 7,80.0,"Action, Arcade, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016205,Cel Damage HD,Nintendo Switch,Finish Line Games,Finish Line Games,10.36,10.36,0,0,2019-03-28,4,0.0,1,0,PEGI 7,80.0,"Action, Party, Racing",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000010238,Back to Bed,Nintendo Switch,2Awesome Studio,2Awesome Studio,2.55,6.39,60,0,2019-04-11,1,0.0,1,0,PEGI 3,80.0,Puzzle,STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000012906,Nelke & the Legendary Alchemists ~Ateliers of the New World~,Nintendo Switch,KOEI TECMO EUROPE,KOEI TECMO EUROPE,63.99,63.99,0,0,2019-03-29,1,0.0,1,1,PEGI 7,80.0,"Rpg, Simulation",AVOID
+2026-10-16 11:17:58,2026-10-16,11,70010000018096,Quadle,Nintendo Switch,Clickteam,Clickteam,7.67,7.67,0,0,2019-05-03,1,0.0,1,0,PEGI 3,80.0,"Arcade, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000010628,Silence,Nintendo Switch,Daedalic Entertainment,Daedalic Entertainment,15.36,15.36,0,0,2019-04-03,1,0.0,1,0,PEGI 12,80.0,Adventure,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017161,"Cook, Serve, Delicious! 2!!",Nintendo Switch,Vertigo Gaming,Vertigo Gaming,16.63,16.63,0,0,2019-04-10,2,0.0,1,0,PEGI 7,80.0,"Simulation, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016741,Power Rangers: Battle for the Grid,Nintendo Switch,nWay,nWay,23.03,23.03,0,0,2019-03-26,2,0.0,1,1,PEGI 12,80.0,"Action, Fighting",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015141,SMASHING THE BATTLE,Nintendo Switch,PLATINUMROCKET,PLATINUMROCKET,6.39,6.39,0,0,2019-04-04,1,0.0,1,0,PEGI 12,80.0,"Action, Adventure, Arcade",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017064,War Theatre,Nintendo Switch,Arcade Distillery,Arcade Distillery,10.36,10.36,0,0,2019-04-11,2,0.0,1,0,PEGI 12,80.0,"Rpg, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017786,Yet Another Zombie Defense HD,Nintendo Switch,Awesome Games,Awesome Games,1.14,5.75,80,0,2019-04-05,4,0.0,1,0,PEGI 16,80.0,"Action, Shooter, Strategy",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000013203,Moai VI: Unexpected Guests,Nintendo Switch,Joindots,Joindots,18.68,18.68,0,0,2019-03-28,1,0.0,1,0,PEGI 3,80.0,"Adventure, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016985,Bow to Blood: Last Captain Standing,Nintendo Switch,Tribetoy,Tribetoy,23.03,23.03,0,0,2019-04-03,1,0.0,1,0,PEGI 7,80.0,"Action, First-Person Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015896,Bot Vice,Nintendo Switch,DYA GAMES,DYA GAMES,6.39,12.79,50,0,2019-04-11,1,0.0,1,0,PEGI 7,80.0,"Action, Adventure, Arcade, Shooter",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000018664,Airfield Mania,Nintendo Switch,Sprakelsoft,Sprakelsoft,5.75,5.75,0,0,2019-03-27,1,0.0,1,0,PEGI 3,80.0,"Arcade, Simulation",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000018981,Zombie Scrapper,Nintendo Switch,Ransacked Studios,Ransacked Studios,3.44,3.44,0,0,2019-04-05,1,0.0,1,0,PEGI 12,80.0,"Action, Adventure, Arcade, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000009363,Hob: The Definitive Edition,Nintendo Switch,Arc Games,Arc Games,2.29,23.03,90,0,2019-04-04,1,0.0,1,0,PEGI 7,80.0,"Action, Adventure, Platformer, Puzzle",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000019214,Arcade Archives Armed F,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2019-03-28,2,0.0,1,0,PEGI 7,80.0,"Arcade, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000013552,GIGA WRECKER ALT.,Nintendo Switch,Thunderful Games,Thunderful Games,28.79,28.79,0,0,2019-05-02,1,0.0,1,0,PEGI 7,80.0,"Action, Platformer, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015027,Shadowgate,Nintendo Switch,Abstraction,Abstraction,20.47,20.47,0,0,2019-04-11,1,0.0,1,0,PEGI 12,80.0,"Adventure, Puzzle, Rpg",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017381,ASCENDANCE,Nintendo Switch,Onevision Games,Onevision Games,7.67,7.67,0,0,2019-05-09,1,0.0,1,0,PEGI 3,80.0,"Action, Adventure, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016962,Sephirothic Stories,Nintendo Switch,KEMCO,KEMCO,17.27,17.27,0,0,2019-04-04,1,0.0,1,1,PEGI 7,80.0,"Adventure, Rpg",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000008527,MUSYNX,Nintendo Switch,PM Studios,PM Studios,34.55,34.55,0,0,2019-03-28,1,0.0,1,1,PEGI 12,80.0,Music,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015814,The friends of Ringo Ishikawa,Nintendo Switch,CIRCLE Ent.,CIRCLE Ent.,17.14,17.14,0,0,2019-04-04,1,0.0,1,0,PEGI 16,80.0,"Action, Rpg",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014825,Pressure Overdrive,Nintendo Switch,Chasing Carrots,Chasing Carrots,2.8,14.07,80,0,2019-04-04,2,0.0,1,0,PEGI 7,80.0,"Action, Arcade, Racing, Shooter",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017771,Godly Corp,Nintendo Switch,Ultimate Games,Ultimate Games,9.2,9.2,0,0,2019-04-05,1,0.0,1,0,PEGI 7,80.0,"Action, Simulation",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000018288,Circuits,Nintendo Switch,Hidden Trap,Hidden Trap,5.75,5.75,0,0,2019-04-05,1,0.0,1,0,PEGI 3,80.0,"Music, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000018481,Shadow Blade: Reload,Nintendo Switch,Dead Mage,Dead Mage,11.51,11.51,0,0,2019-03-30,1,0.0,1,0,PEGI 12,80.0,"Action, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017611,Istanbul: Digital Edition,Nintendo Switch,Acram Digital,Acram Digital,23.03,23.03,0,0,2019-03-28,5,0.0,1,1,PEGI 3,80.0,"Board Game, Party, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014153,Way of the Passive Fist,Nintendo Switch,Household Games,Household Games,15.35,15.35,0,0,2019-04-11,1,0.0,1,0,PEGI 16,80.0,"Action, Arcade, Fighting",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017741,Modern Tales: Age of Invention,Nintendo Switch,Artifex Mundi,Artifex Mundi,17.27,17.27,0,0,2019-04-04,1,0.0,1,0,PEGI 7,80.0,"Adventure, Board Game, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016647,Mechstermination Force,Nintendo Switch,Hörberg Productions,Hörberg Productions,14.07,14.07,0,0,2019-04-04,2,0.0,1,0,PEGI 7,80.0,"Action, Arcade, Platformer, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000013962,Safety First!,Nintendo Switch,Headup Games,Headup Games,1.16,3.44,66,0,2019-04-01,1,0.0,1,0,PEGI 12,80.0,"Action, Arcade, Puzzle",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017001,12 Labours of Hercules,Nintendo Switch,JetDogs,JetDogs,5.75,5.75,0,0,2019-04-01,1,0.0,1,0,PEGI 3,80.0,"Action, Adventure, Puzzle, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015984,Windstorm: An Unexpected Arrival,Nintendo Switch,Mindscape,Mindscape,28.79,28.79,0,0,2019-04-11,1,0.0,1,0,PEGI 3,80.0,"Adventure, Sports",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016274,Moto Rush GT,Nintendo Switch,Baltoro Games,Baltoro Games,5.75,5.75,0,0,2019-04-19,1,0.0,1,1,PEGI 3,80.0,"Arcade, Racing, Sports",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000012463,Box Align,Nintendo Switch,QUByte Interactive,QUByte Interactive,4.6,4.6,0,0,2019-04-11,1,0.0,1,0,PEGI 3,80.0,Puzzle,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015357,Super Star Path,Nintendo Switch,DYA GAMES,DYA GAMES,3.19,6.39,50,0,2019-04-11,1,0.0,1,0,PEGI 12,80.0,"Action, Arcade, Puzzle, Shooter",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000018846,Minefield,Nintendo Switch,Vertical Reach,Vertical Reach,5.11,5.11,0,0,2019-04-04,1,0.0,1,0,PEGI 3,80.0,"Arcade, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015586,OVERWHELM,Nintendo Switch,Alliance,Alliance,10.23,10.23,0,0,2019-04-04,2,0.0,1,0,PEGI 7,80.0,"Action, Platformer, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015523,Darksiders Warmastered Edition,Nintendo Switch,THQ Nordic,THQ Nordic,34.55,34.55,0,0,2019-04-02,1,0.0,1,0,15,80.0,"Action, Adventure",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015743,Gnomes Garden: New Home,Nintendo Switch,8Floor Games,8Floor Games,3.44,3.44,0,0,2019-02-07,1,0.0,1,0,PEGI 3,80.0,Strategy,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017095,Pillar,Nintendo Switch,Michael Hicks,Michael Hicks,9.2,9.2,0,0,2019-03-05,1,0.0,1,0,PEGI 7,80.0,"Adventure, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016883,Ping Pong Trick Shot EVOLUTION,Nintendo Switch,STARSIGN,STARSIGN,2.87,5.75,50,0,2019-02-05,2,0.0,1,0,PEGI 3,80.0,"Party, Puzzle, Sports",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014822,ACA NEOGEO PUZZLE BOBBLE 2,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2019-02-07,2,0.0,1,0,PEGI 3,80.0,"Action, Arcade, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015461,Access Denied,Nintendo Switch,Ratalaika Games,Ratalaika Games,6.39,6.39,0,0,2019-02-08,1,0.0,1,0,PEGI 3,80.0,"Puzzle, Simulation",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000002282,KYUB,Nintendo Switch,NextNinja,NextNinja,4.6,4.6,0,0,2019-02-07,1,0.0,1,0,PEGI 3,80.0,"Action, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000001639,Percy's Predicament Deluxe,Nintendo Switch,Maestro Interactive,Maestro Interactive,6.0,6.0,0,0,2019-02-07,1,0.0,1,0,PEGI 3,80.0,"Adventure, Platformer, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016633,Pizza Parking,Nintendo Switch,Arach Games,Arach Games,4.6,4.6,0,0,2019-02-07,1,0.0,0,0,PEGI 3,80.0,"Arcade, Simulation",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017263,The Rainsdowne Players,Nintendo Switch,Stephen OGorman,Stephen OGorman,1.91,1.91,0,0,2019-02-07,1,0.0,1,0,PEGI 3,80.0,"Adventure, Rpg",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015859,Surfingers,Nintendo Switch,Forever Entertainment,Forever Entertainment,5.75,5.75,0,0,2019-02-07,4,0.0,1,0,PEGI 3,80.0,"Action, Arcade",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016045,RemiLore,Nintendo Switch,Nicalis,Nicalis,46.07,46.07,0,0,2019-02-26,2,0.0,1,0,PEGI 7,80.0,"Action, Adventure",HOLD
+2026-10-16 11:17:58,2026-10-16,11,70010000015808,Minesweeper Genius,Nintendo Switch,Blowfish Studios,Blowfish Studios,6.39,6.39,0,0,2019-02-12,1,0.0,1,0,PEGI 3,80.0,"Puzzle, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000012152,OlliOlli: Switch Stance,Nintendo Switch,Good Shepherd,Good Shepherd,17.27,17.27,0,0,2019-02-14,4,0.0,1,0,PEGI 3,80.0,"Action, Arcade, Sports",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015092,The Journey Down Trilogy,Nintendo Switch,BlitWorks,BlitWorks,34.55,34.55,0,0,2019-02-21,1,0.0,1,0,PEGI 12,80.0,"Adventure, Other, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016119,Strikey Sisters,Nintendo Switch,DYA GAMES,DYA GAMES,5.75,11.51,50,0,2019-02-14,2,0.0,1,0,PEGI 3,80.0,"Action, Adventure, Arcade",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000012745,TOUHOU SKY ARENA -MATSURI- CLIMAX,Nintendo Switch,Mediascape,Mediascape,34.55,34.55,0,0,2019-02-13,8,0.0,1,1,PEGI 12,80.0,"Action, Fighting, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017336,Cinders,Nintendo Switch,Crunching Koalas,Crunching Koalas,23.03,23.03,0,0,2019-02-14,1,0.0,1,0,PEGI 12,80.0,"Adventure, Other, Rpg",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015889,Alvastia Chronicles,Nintendo Switch,KEMCO,KEMCO,14.96,14.96,0,0,2019-02-14,1,0.0,1,1,PEGI 12,80.0,"Adventure, Rpg, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000014893,Ghoulboy,Nintendo Switch,Dolores Ent.,Dolores Ent.,11.51,11.51,0,0,2019-02-14,1,0.0,1,0,PEGI 7,80.0,"Adventure, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016494,Astrology and Horoscopes Premium,Nintendo Switch,Crazysoft,Crazysoft,10.23,10.23,0,0,2019-02-14,5,0.0,1,0,PEGI 12,80.0,Other,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000013245,Space Lift Danger Panic!,Nintendo Switch,SPRINGLOADED,SPRINGLOADED,5.11,5.11,0,0,2019-02-15,1,0.0,1,0,PEGI 7,80.0,"Action, Arcade, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000002263,Constructor Plus,Nintendo Switch,System 3 Software,System 3 Software,25.59,25.59,0,0,2019-02-28,1,0.0,1,0,PEGI 16,80.0,"Simulation, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000007865,Trials® Rising,Nintendo Switch,Ubisoft,Ubisoft,20.47,20.47,0,0,2019-02-26,4,0.0,0,1,PEGI 12,80.0,Arcade,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000013217,Hexa Maze,Nintendo Switch,TREVA,TREVA,5.75,5.75,0,0,2019-02-14,1,0.0,1,0,PEGI 3,80.0,"Arcade, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000022236,Dungeon of the Endless,Nintendo Switch,PLAYDIGIOUS,PLAYDIGIOUS,23.03,23.03,0,0,2020-05-15,1,0.0,1,0,PEGI 7,80.0,"Action, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000029321,Arcade Archives FLAK ATTACK,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2020-04-09,2,0.0,1,0,PEGI 7,80.0,"Arcade, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000022801,TT Isle of Man Ride on the Edge 2,Nintendo Switch,Nacon,Nacon,3.19,31.99,90,0,2020-05-14,8,0.0,1,1,PEGI 3,80.0,"Racing, Simulation, Sports",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000027596,Sniper,Nintendo Switch,Sabec,Sabec,10.36,10.36,0,0,2020-04-16,1,0.0,0,0,PEGI 16,80.0,"Arcade, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000022032,Monstrum,Nintendo Switch,Soedesco,Soedesco,11.51,11.51,0,0,2020-05-22,1,0.0,1,0,PEGI 16,80.0,"Action, Other",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000030062,Indie Gems Bundle - Nonograms edition,Nintendo Switch,Plug In Digital,Plug In Digital,19.19,19.19,0,0,2020-04-16,1,0.0,1,0,PEGI 3,80.0,"Adventure, Puzzle, Rpg",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000028721,Solitaire Deluxe Bundle - 3 in 1,Nintendo Switch,Baltoro Minis,Baltoro Minis,6.9,6.9,0,0,2020-04-10,1,0.0,1,0,PEGI 3,80.0,Board Game,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000027218,Dungeon Shooting,Nintendo Switch,STARSIGN,STARSIGN,2.87,5.75,50,0,2020-04-10,1,0.0,1,0,PEGI 7,80.0,"Action, Arcade, Shooter",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000027180,Theme Park Simulator,Nintendo Switch,Lunaria Games,Lunaria Games,10.8,16.63,35,0,2020-04-17,1,0.0,0,0,PEGI 3,80.0,Simulation,STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000027565,Active Neurons - Puzzle game,Nintendo Switch,Sometimes You,Sometimes You,5.75,5.75,0,0,2020-04-29,1,0.0,1,0,PEGI 3,80.0,Puzzle,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000027347,Purrs In Heaven,Nintendo Switch,SuperPowerUpGames,SuperPowerUpGames,2.01,8.05,75,0,2020-04-17,1,0.0,1,0,PEGI 3,80.0,"Adventure, Platformer, Puzzle",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000021435,SEGA AGES G-LOC AIR BATTLE,Nintendo Switch,SEGA,SEGA,7.67,7.67,0,0,2020-04-30,1,0.0,1,0,PEGI 7,80.0,"Action, Arcade, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000022060,Crash'n the Boys Street Challenge,Nintendo Switch,ARC SYSTEM WORKS,ARC SYSTEM WORKS,5.75,5.75,0,0,2020-04-15,4,0.0,1,0,PEGI 7,80.0,"Action, Sports",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000028366,Magicolors,Nintendo Switch,QUByte Interactive,QUByte Interactive,4.6,4.6,0,0,2020-04-16,1,0.0,1,0,PEGI 3,80.0,Puzzle,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000022059,River City Ransom,Nintendo Switch,ARC SYSTEM WORKS,ARC SYSTEM WORKS,5.75,5.75,0,0,2020-04-15,2,0.0,1,0,PEGI 7,80.0,"Action, Fighting",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000028497,Rocket Rabbit - Coin Race,Nintendo Switch,Digital Game Group,Digital Game Group,10.23,10.23,0,0,2020-04-17,1,0.0,1,0,PEGI 3,80.0,"Action, Platformer, Racing",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000024467,The Casebook of Arkady Smith,Nintendo Switch,Wobbly Tooth,Wobbly Tooth,8.95,8.95,0,0,2020-04-16,1,0.0,1,0,PEGI 16,80.0,"Adventure, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000028660,while True: learn(),Nintendo Switch,Nival,Nival,16.63,16.63,0,0,2020-04-16,1,0.0,0,0,PEGI 3,80.0,"Puzzle, Simulation",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000022057,Renegade,Nintendo Switch,ARC SYSTEM WORKS,ARC SYSTEM WORKS,5.75,5.75,0,0,2020-04-15,2,0.0,1,0,PEGI 7,80.0,"Action, Fighting",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000022733,Warborn,Nintendo Switch,PQube,PQube,25.59,25.59,0,0,2020-06-12,2,0.0,1,0,PEGI 7,80.0,"Other, Rpg, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000028495,Shmup Collection,Nintendo Switch,PixelHeart,PixelHeart,17.27,17.27,0,0,2020-05-14,1,0.0,1,0,PEGI 7,80.0,"Arcade, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000029388,Mushroom Heroes,Nintendo Switch,Dolores Ent.,Dolores Ent.,7.04,7.04,0,0,2020-04-30,1,0.0,1,0,PEGI 3,80.0,"Adventure, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000027317,Piczle Cross Adventure,Nintendo Switch,Plug In Digital,Plug In Digital,11.51,11.51,0,0,2020-04-16,1,0.0,1,0,PEGI 7,80.0,"Adventure, Puzzle, Rpg, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000017301,Fledgling Heroes,Nintendo Switch,Subtle Boom,Subtle Boom,25.59,25.59,0,0,2020-05-07,2,0.0,1,0,PEGI 3,80.0,"Adventure, Arcade, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000022062,DOUBLE DRAGON,Nintendo Switch,ARC SYSTEM WORKS,ARC SYSTEM WORKS,5.75,5.75,0,0,2020-04-15,2,0.0,1,0,PEGI 12,80.0,"Action, Fighting",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000022063,DOUBLE DRAGON Ⅱ: The Revenge,Nintendo Switch,ARC SYSTEM WORKS,ARC SYSTEM WORKS,5.75,5.75,0,0,2020-04-15,2,0.0,1,0,PEGI 12,80.0,"Action, Fighting",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000022064,DOUBLE DRAGON Ⅲ: The Sacred Stones,Nintendo Switch,ARC SYSTEM WORKS,ARC SYSTEM WORKS,5.75,5.75,0,0,2020-04-15,2,0.0,1,0,PEGI 12,80.0,"Action, Fighting",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000010544,SmileBASIC 4,Nintendo Switch,SmileBoom,SmileBoom,25.59,25.59,0,0,2020-04-23,4,0.0,1,0,PEGI 3,80.0,Other,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000022058,Super Dodge Ball,Nintendo Switch,ARC SYSTEM WORKS,ARC SYSTEM WORKS,5.75,5.75,0,0,2020-04-15,4,0.0,1,0,PEGI 3,80.0,"Action, Sports",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000028368,Hang The Kings,Nintendo Switch,QUByte Interactive,QUByte Interactive,4.6,4.6,0,0,2020-04-23,1,0.0,1,0,PEGI 3,80.0,Puzzle,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000027465,Arcade Archives PLUS ALPHA,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2020-04-16,2,0.0,1,0,PEGI 3,80.0,"Arcade, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000030080,Broken Lines,Nintendo Switch,Supergg.com,Supergg.com,28.79,28.79,0,0,2020-04-23,1,0.0,1,0,PEGI 18,80.0,"Rpg, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000028781,PICROSS S4,Nintendo Switch,JUPITER,JUPITER,11.51,11.51,0,0,2020-04-23,2,0.0,1,0,PEGI 3,80.0,"Education, Puzzle, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000028045,Relic Hunters Zero: Remix,Nintendo Switch,Akupara Games,Akupara Games,14.07,14.07,0,0,2020-05-07,2,0.0,1,0,PEGI 12,80.0,"Action, Arcade, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000022671,Book of Demons,Nintendo Switch,505 Games,505 Games,25.59,25.59,0,0,2020-04-30,1,0.0,1,0,PEGI 7,80.0,"Action, Adventure, Rpg",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000029326,Swapperoo,Nintendo Switch,Fallen Tree Games,Fallen Tree Games,7.67,7.67,0,0,2020-05-01,1,0.0,1,0,PEGI 3,80.0,Puzzle,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000029004,Arcade Archives TUBE PANIC,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2020-04-23,2,0.0,1,0,PEGI 7,80.0,"Arcade, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000019232,Telling Lies,Nintendo Switch,Annapurna Interactive,Annapurna Interactive,4.79,19.19,75,0,2020-04-28,1,0.0,1,0,PEGI 16,80.0,"Adventure, Simulation",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000028456,StarCrossed,Nintendo Switch,Whitethorn Games,Whitethorn Games,10.23,10.23,0,0,2020-04-29,2,0.0,1,0,PEGI 7,80.0,"Action, Arcade",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000029273,The Bullet: Time of Revenge,Nintendo Switch,Art Games Studio,Art Games Studio,5.24,5.24,0,0,2020-05-07,1,0.0,1,0,PEGI 16,80.0,"Action, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000027015,911 Operator Deluxe Edition,Nintendo Switch,SONKA,SONKA,25.59,25.59,0,0,2020-05-01,1,0.0,1,0,PEGI 7,80.0,"Simulation, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000029167,Shovel Knight: Shovel of Hope,Nintendo Switch,Yacht Club Games,Yacht Club Games,17.27,17.27,0,0,2020-04-20,2,0.0,1,0,PEGI 7,80.0,"Action, Adventure, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000022238,Turmoil,Nintendo Switch,Gamious,Gamious,17.27,17.27,0,0,2020-05-28,1,0.0,1,1,PEGI 3,80.0,"Simulation, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000030337,Debtor,Nintendo Switch,Drageus Games,Drageus Games,1.14,3.44,67,0,2020-04-24,1,0.0,1,0,PEGI 7,80.0,"Adventure, Arcade, Platformer, Puzzle",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000026912,Gun Crazy,Nintendo Switch,Ratalaika Games,Ratalaika Games,6.39,6.39,0,0,2020-05-01,1,0.0,1,0,PEGI 7,80.0,"Action, Arcade, Platformer, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000029999,War-Torn Dreams,Nintendo Switch,Playstige Interactive,Playstige Interactive,8.05,8.05,0,0,2020-04-30,1,0.0,1,0,PEGI 16,80.0,"Action, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70070000010383,Hatsune Miku: Project DIVA Mega Mix,Nintendo Switch,SEGA,SEGA,44.79,44.79,0,0,2020-05-15,1,0.0,1,1,PEGI 12,80.0,"Arcade, Music",HOLD
+2026-10-16 11:17:58,2026-10-16,11,70010000021378,Golf With Your Friends,Nintendo Switch,Team17,Team17,4.79,19.19,75,0,2020-05-19,12,0.0,1,1,PEGI 7,80.0,"Party, Simulation, Sports",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000030279,Where Angels Cry,Nintendo Switch,Ocean Media,Ocean Media,11.51,11.51,0,0,2020-04-23,1,0.0,1,0,PEGI 7,80.0,"Adventure, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000028424,Void Bastards,Nintendo Switch,Blue Manchu,Blue Manchu,31.99,35.19,0,0,2020-05-07,1,0.0,1,1,PEGI 16,80.0,"Action, First-Person Shooter, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000029315,"Enchanted in the Moonlight - Miyabi, Kyoga & Samon -",Nintendo Switch,Voltage,Voltage,11.51,23.03,50,0,2020-04-30,1,0.0,1,1,PEGI 16,80.0,Adventure,STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000027152,SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated,Nintendo Switch,THQ Nordic,THQ Nordic,31.99,31.99,0,0,2020-06-23,2,0.0,1,0,PEGI 7,80.0,"Action, Adventure, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000026905,Tonight We Riot,Nintendo Switch,Means Interactive,Means Interactive,17.28,17.28,0,0,2020-05-05,2,0.0,1,0,PEGI 16,80.0,"Action, Arcade, Lifestyle, Other",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000029312,"Enchanted in the Moonlight - Kiryu, Chikage & Yukinojo -",Nintendo Switch,Voltage,Voltage,11.51,23.03,50,0,2020-04-30,1,0.0,1,1,PEGI 16,80.0,Adventure,STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000029849,Ghost Files: Memory of a Crime,Nintendo Switch,Artifex Mundi,Artifex Mundi,17.27,17.27,0,0,2020-05-07,1,0.0,1,0,PEGI 16,80.0,"Adventure, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000028016,SNK GALS' FIGHTERS,Nintendo Switch,SNK,SNK,9.2,9.2,0,0,2020-04-30,2,0.0,1,0,PEGI 7,80.0,Fighting,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000027942,Fairy Knights,Nintendo Switch,CFK,CFK,2.87,11.51,75,0,2020-04-30,1,0.0,1,0,PEGI 12,80.0,"Adventure, Puzzle, Rpg",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000030290,Bubble,Nintendo Switch,Sabec,Sabec,10.36,10.36,0,0,2020-04-30,1,0.0,0,0,PEGI 3,80.0,Puzzle,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000020316,Pocket Arcade Story,Nintendo Switch,Kairosoft,Kairosoft,4.93,14.96,67,0,2020-04-30,1,0.0,0,0,PEGI 7,80.0,"Action, Arcade, Fighting, Simulation",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000026487,The Copper Canyon Dixie Dash,Nintendo Switch,AlternativeSoftware,AlternativeSoftware,7.67,7.67,0,0,2020-04-23,1,0.0,1,0,PEGI 7,80.0,"Action, Arcade, First-Person Shooter, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000029795,Animal Fun for Toddlers and Kids,Nintendo Switch,winterworks,winterworks,7.67,7.67,0,0,2020-04-23,1,0.0,0,0,PEGI 3,80.0,Education,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000029246,My Secret Pets!,Nintendo Switch,D3PUBLISHER,D3PUBLISHER,5.17,17.27,70,0,2020-04-30,1,0.0,1,0,PEGI 12,80.0,"Adventure, Simulation",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000028189,Spirit of the North,Nintendo Switch,Silver Lining,Silver Lining,25.59,25.59,0,0,2020-05-07,1,0.0,1,0,PEGI 7,80.0,"Adventure, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000028244,The Persistence,Nintendo Switch,Firesprite,Firesprite,31.99,31.99,0,0,2020-05-21,1,0.0,1,0,PEGI 18,80.0,"Action, Adventure, First-Person Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000029737,Dark Burial,Nintendo Switch,Drageus Games,Drageus Games,1.14,4.6,75,0,2020-05-08,1,0.0,1,0,PEGI 12,80.0,"Action, Arcade, Platformer",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000021690,Slayin 2,Nintendo Switch,FDG Entertainment,FDG Entertainment,3.44,13.81,75,0,2020-05-07,2,0.0,1,0,PEGI 7,80.0,"Action, Arcade, Rpg",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000022887,STONE,Nintendo Switch,Convict Games,Convict Games,17.27,17.27,0,0,2020-05-08,1,0.0,1,0,PEGI 16,80.0,"Adventure, Rpg",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000016511,Monster Prom: XXL,Nintendo Switch,TAG Publishing,TAG Publishing,4.47,17.91,75,0,2020-05-21,4,0.0,0,0,PEGI 16,80.0,"Party, Rpg, Simulation",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000030192,Feathery Ears,Nintendo Switch,Ultimate Games,Ultimate Games,11.51,11.51,0,0,2020-05-08,1,0.0,1,0,PEGI 7,80.0,"Adventure, Platformer, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000024622,Island Saver,Nintendo Switch,National Westminster Bank,National Westminster Bank,0.0,0.0,0,1,2020-05-13,1,0.0,1,1,PEGI 3,80.0,"Action, Adventure, Education, First-Person Shooter",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000028991,Our Two Bedroom Story,Nintendo Switch,Voltage,Voltage,12.79,25.59,50,0,2020-05-06,1,0.0,1,1,PEGI 16,80.0,Adventure,STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000029151,Gravity Rider Zero,Nintendo Switch,QubicGames,QubicGames,2.29,8.05,72,0,2020-05-07,1,0.0,1,0,PEGI 3,80.0,"Arcade, Platformer, Racing",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000000663,Indivisible,Nintendo Switch,505 Games,505 Games,20.47,20.47,0,0,2020-04-28,4,0.0,1,1,PEGI 7,80.0,"Action, Platformer, Rpg",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000019752,Flux8,Nintendo Switch,Torchbearer,Torchbearer,9.59,9.59,0,0,2020-05-29,2,0.0,1,0,PEGI 3,80.0,"Arcade, Platformer, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000026007,Cloudbase Prime,Nintendo Switch,Floating Island Games,Floating Island Games,9.2,9.2,0,0,2020-05-07,1,0.0,1,0,PEGI 12,80.0,"Action, First-Person Shooter, Platformer, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000022952,Borderlands: Game of the Year Edition,Nintendo Switch,2K,2K,31.99,31.99,0,0,2020-05-29,4,0.0,1,0,PEGI 18,80.0,"Action, First-Person Shooter, Rpg, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000026228,BioShock 2 Remastered,Nintendo Switch,2K,2K,20.47,20.47,0,0,2020-05-29,1,0.0,1,0,PEGI 18,80.0,"Action, First-Person Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000026215,BioShock Remastered,Nintendo Switch,2K,2K,20.47,20.47,0,0,2020-05-29,1,0.0,1,0,PEGI 18,80.0,"Action, First-Person Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000026233,BioShock Infinite: The Complete Edition,Nintendo Switch,2K,2K,20.47,20.47,0,0,2020-05-29,1,0.0,1,0,PEGI 18,80.0,"Action, First-Person Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000031499,Pew Paw,Nintendo Switch,Drageus Games,Drageus Games,8.05,8.05,0,0,2020-06-12,1,0.0,1,0,PEGI 7,80.0,"Action, Arcade, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000026387,Shantae and the Seven Sirens,Nintendo Switch,WayForward,WayForward,32.24,32.24,0,0,2020-06-04,1,0.0,1,0,PEGI 7,80.0,"Adventure, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000006269,Arcade Archives CRAZY CLIMBER2,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2020-05-28,2,0.0,1,0,PEGI 12,80.0,"Action, Arcade",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000028831,HALF DEAD,Nintendo Switch,LLC ROOM710GAMES,LLC ROOM710GAMES,5.75,5.75,0,0,2020-06-12,2,0.0,1,0,PEGI 16,80.0,"Action, Adventure, Other, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000022068,Outbuddies DX,Nintendo Switch,Headup Games,Headup Games,1.91,19.19,90,0,2020-06-05,2,0.0,1,0,PEGI 16,80.0,"Action, Platformer, Puzzle",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000030452,Match,Nintendo Switch,Sabec,Sabec,10.36,10.36,0,0,2020-06-04,1,0.0,0,0,PEGI 3,80.0,"Board Game, Party",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000023455,Skelattack,Nintendo Switch,KONAMI,KONAMI,20.47,20.47,0,0,2020-06-02,1,0.0,1,0,PEGI 7,80.0,"Action, Adventure, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000031315,I dream of you and ice cream,Nintendo Switch,ManolidisAimilios,ManolidisAimilios,5.75,5.75,0,0,2020-06-16,1,0.0,1,0,PEGI 12,80.0,"Adventure, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000029632,Taxi Sim 2020,Nintendo Switch,SC Ovilex Soft,SC Ovilex Soft,2.55,17.27,85,0,2020-06-03,1,0.0,1,0,PEGI 16,80.0,"Racing, Simulation",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000027736,Demon's Rise - War for the Deep,Nintendo Switch,Silesia Games,Silesia Games,8.05,8.05,0,0,2020-07-09,1,0.0,1,0,PEGI 12,80.0,"Action, Adventure, Rpg, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000029540,AntVentor,Nintendo Switch,Loopymood,Loopymood,10.23,10.23,0,0,2020-06-24,1,0.0,1,0,PEGI 3,80.0,"Adventure, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000029113,Evan's Remains,Nintendo Switch,Whitethorn Games,Whitethorn Games,7.16,7.16,0,0,2020-06-11,1,0.0,1,0,PEGI 12,80.0,"Adventure, Platformer, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000021181,House Flipper,Nintendo Switch,Ultimate Games,Ultimate Games,28.79,28.79,0,0,2020-06-12,1,0.0,1,0,PEGI 3,80.0,"Lifestyle, Simulation, Utility",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000031533,Animal Pairs - Matching & Concentration Game for Toddlers & Kids,Nintendo Switch,winterworks,winterworks,7.67,7.67,0,0,2020-06-04,4,0.0,1,0,PEGI 3,80.0,"Board Game, Education, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000031321,Star-Crossed Myth - The Department of Punishments -,Nintendo Switch,Voltage,Voltage,14.07,28.15,50,0,2020-06-03,1,0.0,1,1,PEGI 16,80.0,Adventure,STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000031318,Star-Crossed Myth - The Department of Wishes -,Nintendo Switch,Voltage,Voltage,14.07,28.15,50,0,2020-06-03,1,0.0,1,1,PEGI 16,80.0,Adventure,STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000030131,Pity Pit,Nintendo Switch,eastasiasoft,eastasiasoft,1.14,5.75,80,0,2020-06-11,1,0.0,1,0,PEGI 3,80.0,"Action, Arcade, Platformer",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000031589,Kissed by the Baddest Bidder,Nintendo Switch,Voltage,Voltage,12.79,25.59,50,0,2020-06-10,1,0.0,1,1,PEGI 16,80.0,Adventure,STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000026888,Lost Horizon 2,Nintendo Switch,PLAION,PLAION,14.07,14.07,0,0,2020-06-11,1,0.0,1,0,PEGI 16,80.0,Puzzle,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000028620,Grimshade,Nintendo Switch,UTC ASTERION,UTC ASTERION,23.03,23.03,0,0,2020-06-25,1,0.0,1,0,PEGI 18,80.0,"Adventure, Rpg, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000030405,Pop the Bubbles,Nintendo Switch,Digital Game Group,Digital Game Group,10.23,10.23,0,0,2020-06-05,1,0.0,1,0,PEGI 3,80.0,"Action, Adventure, Board Game, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000023654,Masky,Nintendo Switch,Forever Entertainment,Forever Entertainment,5.75,5.75,0,0,2020-06-11,4,0.0,1,0,PEGI 3,80.0,Arcade,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000030853,Pixboy,Nintendo Switch,Forever Entertainment,Forever Entertainment,5.75,5.75,0,0,2020-06-11,1,0.0,1,0,PEGI 3,80.0,"Action, Arcade",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000028853,Him & Her,Nintendo Switch,QUByte Interactive,QUByte Interactive,4.6,4.6,0,0,2020-06-11,1,0.0,1,1,PEGI 3,80.0,"Adventure, Other, Platformer, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000027531,Rigid Force Redux,Nintendo Switch,Headup Games,Headup Games,2.16,21.75,90,0,2020-06-05,1,0.0,1,0,PEGI 7,80.0,"Action, Arcade, Shooter",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000020392,Cosmic Defenders,Nintendo Switch,Natsume Inc.,Natsume Inc.,5.75,5.75,0,0,2020-06-11,4,0.0,1,0,PEGI 3,80.0,"Action, Arcade, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000028891,The Coma 2: Vicious Sisters,Nintendo Switch,Headup Games,Headup Games,3.06,15.35,80,0,2020-06-19,1,0.0,1,1,PEGI 16,80.0,"Adventure, Other",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000025803,Truck and Logistics Simulator,Nintendo Switch,Aerosoft,Aerosoft,31.99,31.99,0,0,2020-06-25,16,0.0,1,0,PEGI 3,80.0,"Other, Racing, Simulation",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000022806,Remnants of Naezith,Nintendo Switch,Tolga Ay,Tolga Ay,11.51,11.51,0,0,2020-06-12,1,0.0,1,0,PEGI 7,80.0,"Action, Arcade, Platformer, Racing",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000030541,Tcheco in the Castle of Lucio,Nintendo Switch,Fantastico Studio,Fantastico Studio,2.29,5.75,60,0,2020-06-18,1,0.0,1,0,PEGI 7,80.0,"Action, Arcade, Platformer",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000029249,My Butler,Nintendo Switch,D3PUBLISHER,D3PUBLISHER,3.44,11.51,70,0,2020-06-18,1,0.0,1,0,PEGI 12,80.0,"Adventure, Simulation",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000021961,Elden: Path of the Forgotten,Nintendo Switch,Neon Doctrine,Neon Doctrine,1.91,19.19,90,0,2020-07-09,1,0.0,1,0,PEGI 16,80.0,"Action, Adventure, Rpg",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000030356,Miden Tower,Nintendo Switch,KEMCO,KEMCO,17.27,17.27,0,0,2020-06-25,1,0.0,1,1,PEGI 7,80.0,"Adventure, Rpg, Simulation, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000029635,Ship Sim 2020,Nintendo Switch,SC Ovilex Soft,SC Ovilex Soft,17.27,17.27,0,0,2020-06-11,1,0.0,1,0,PEGI 3,80.0,"Racing, Simulation",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000015525,Conjurer Andy's Repeatable Dungeon,Nintendo Switch,FIREBRAND GAMES,FIREBRAND GAMES,8.56,8.56,0,0,2020-06-23,1,0.0,1,0,PEGI 7,80.0,"Adventure, Rpg, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000030838,Working Zombies,Nintendo Switch,JUPITER,JUPITER,23.03,23.03,0,0,2020-06-18,4,0.0,1,0,PEGI 3,80.0,"Action, Puzzle, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000027921,One Way Heroics Plus,Nintendo Switch,PLAYISM,PLAYISM,17.27,17.27,0,0,2020-06-18,1,0.0,1,0,PEGI 3,80.0,"Adventure, Arcade, Other, Rpg",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000028447,Destrobots,Nintendo Switch,7Levels,7Levels,11.51,11.51,0,0,2020-06-18,4,0.0,1,0,PEGI 7,80.0,"Action, Party, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000027551,Hakoniwa Explorer Plus,Nintendo Switch,PLAYISM,PLAYISM,13.81,13.81,0,0,2020-06-18,1,0.0,1,0,PEGI 16,80.0,"Action, Adventure, Other, Rpg",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000029527,Push the Crate 2,Nintendo Switch,Polygon Art,Polygon Art,5.75,5.75,0,0,2020-06-18,1,0.0,1,0,PEGI 3,80.0,"Adventure, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000022557,RUINER,Nintendo Switch,Devolver Digital,Devolver Digital,23.03,23.03,0,0,2020-06-18,1,0.0,1,0,PEGI 18,80.0,"Action, Adventure, Shooter, Strategy",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000031290,Colt Canyon,Nintendo Switch,Headup Games,Headup Games,3.06,15.35,80,0,2020-06-16,2,0.0,1,0,PEGI 16,80.0,"Action, Arcade",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000021261,Urban Trial Tricky,Nintendo Switch,Tate Multimedia,Tate Multimedia,2.32,17.91,87,0,2020-06-24,1,0.0,1,1,PEGI 3,80.0,"Arcade, Platformer, Racing, Sports",STRONG_BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000021060,Spacejacked,Nintendo Switch,Ratalaika Games,Ratalaika Games,12.79,12.79,0,0,2020-06-12,1,0.0,1,0,PEGI 7,80.0,"Action, Arcade, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000030849,Endless Fables: Dark Moor,Nintendo Switch,Artifex Mundi,Artifex Mundi,17.27,17.27,0,0,2020-06-18,1,0.0,1,0,PEGI 12,80.0,"Adventure, Puzzle",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000027671,void tRrLM(); //Void Terrarium,Nintendo Switch,NIS America,NIS America,28.79,28.79,0,0,2020-07-10,1,0.0,1,1,PEGI 7,80.0,Rpg,BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000031016,Radio Squid,Nintendo Switch,Ratalaika Games,Ratalaika Games,6.39,6.39,0,0,2020-06-19,1,0.0,1,0,PEGI 3,80.0,"Action, Arcade, Music, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000031542,Super Soccer Blast,Nintendo Switch,Unfinished Pixel,Unfinished Pixel,9.2,9.2,0,0,2020-06-19,4,0.0,1,0,PEGI 3,80.0,"Arcade, Football, Sports",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000032033,Swords and Sandals: Spartacus,Nintendo Switch,Ultimate Games,Ultimate Games,14.96,14.96,0,0,2020-06-22,1,0.0,1,0,PEGI 12,80.0,"Action, Arcade, Platformer",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000027194,Urban Flow,Nintendo Switch,Baltoro Games,Baltoro Games,6.9,6.9,0,0,2020-06-26,4,0.0,1,1,PEGI 3,80.0,"Arcade, Puzzle, Simulation",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000030906,Singled Out,Nintendo Switch,Matthew Glanville,Matthew Glanville,5.11,5.11,0,0,2020-07-03,1,0.0,1,0,PEGI 7,80.0,"Action, Arcade, Puzzle, Shooter",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000030300,Arcade Archives VS. BASEBALL,Nintendo Switch,HAMSTER,HAMSTER,8.05,8.05,0,0,2020-06-19,2,0.0,1,0,PEGI 3,80.0,"Arcade, Sports",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000019020,The Bard's Tale ARPG: Remastered and Resnarkled,Nintendo Switch,inXile Entertainment,inXile Entertainment,19.83,19.83,0,0,2020-06-18,1,0.0,1,0,PEGI 12,80.0,"Action, Adventure, Other, Rpg",BUY
+2026-10-16 11:17:58,2026-10-16,11,70010000032020,Paint,Nintendo Switch,Sabec,Sabec,10.36,10.36,0,0,2020-06-18,1,0.0,0,0,PEGI 3,80.0,"Education, Puzzle",BUY

@@ -1,0 +1,4 @@
+﻿tournament_rank,structure_id,model_structure_name,math_principle,mae_error_usd,rmse_error_usd,r2_regression_score_pct,classification_accuracy_pct,classification_f1_score_pct,final_tournament_score,referee_decision
+1,1_LINEAR_RIDGE_LOGISTIC,Cấu trúc 1: Tuyến tính (Ridge + Logistic Regression),Phương trình siêu phẳng tuyến tính có trọng số L2 (w*X + b),0.47,0.825,99.59,98.53,98.55,99.07,CHAMPION_SELECTED
+2,3_BOOSTING_GRADIENT_BOOST,Cấu trúc 3: Cây Tăng Cường (Gradient Boosting 180 Stages),Chuỗi cây nối tiếp học phần dư sai số (Residual Gradient),0.32,4.449,88.04,99.63,99.64,93.84,RUNNER_UP
+3,2_BAGGING_RANDOM_FOREST,Cấu trúc 2: Rừng Song Song (Random Forest 200 Trees),200 cây quyết định độc lập lấy trung bình MSE & bầu cử Gini,0.354,4.541,87.54,99.08,99.1,93.32,RUNNER_UP

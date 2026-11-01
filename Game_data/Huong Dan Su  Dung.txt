@@ -1,0 +1,339 @@
+================================================================================
+                HUONG DAN SU DUNG - DU AN GAMESTORE AI
+     (Ban day du nhat: Ghi ro toan bo cac file can chay & tung cau lenh CMD)
+================================================================================
+ Tom tat cho nguoi moi: Phan 1 muc 4, Phan 4 bat dau tu buoc 0
+================================================================================
+ PHAN 1: TONG HOP NHANH CAC FILE CAN PHAI CHAY VA CAU LENH CMD DAY DU
+ (Chi can copy va dan lan luot tu tren xuong duoi vao cua so CMD la chay duoc ngay)
+================================================================================
+
+1. DANH SACH 3 FILE CODE PYTHON (.PY) BAT BUOC PHAI CHAY THEO THU TU:
+   - File chay so 1: 1_price_prediction_pipeline.py    (Chay de du bao gia game 3 thang toi)
+   - File chay so 2: 3_build_recommendation_system.py  (Chay de tao goi y game cho tung User)
+   - File chay so 3: 4_web_app.py                      (Chay de mo giao dien trang Web)
+
+2. DANH SACH 7 FILE DU LIEU (.CSV) TRONG THU MUC "data/cleaned_verified/":
+   - File CSV 1: steam_users_profile_verified.csv        (Du lieu ho so nguoi dung)
+   - File CSV 2: steam_user_owned_games_verified.csv     (Du lieu kho game nguoi dung da mua)
+   - File CSV 3: master_price_predicted.csv              (Sinh ra sau khi chay File 1)
+   - File CSV 4: ml_price_tournament_leaderboard.csv     (Sinh ra sau khi chay File 1)
+   - File CSV 5: master_recommendations_ready.csv        (Sinh ra sau khi chay File 3)
+   - File CSV 6: user_personalized_recommendations.csv   (Sinh ra sau khi chay File 3)
+   - File CSV 7: ml_recommendation_structures_report.csv (Sinh ra sau khi chay File 3)
+
+--------------------------------------------------------------------------------
+3. TRON BO CAU LENH CMD CHAY TU A DEN Z (DUNG TREN MAY TINH CUA BAN):
+--------------------------------------------------------------------------------
+# Buoc 1: Chuyen sang o dia E va vao dung thu muc chua du an
+E:
+cd E:\Steam_Machine_Learning\Game_data
+
+# Buoc 2: Nang cap cong cu cai dat pip
+C:\Users\ADMIN\AppData\Local\Python\pythoncore-3.14-64\python.exe -m pip install --upgrade pip
+
+# Buoc 3: Cai dat toan bo 10 thu vien can thiet (Lenh gop 1 dong)
+C:\Users\ADMIN\AppData\Local\Python\pythoncore-3.14-64\python.exe -m pip install pandas numpy scikit-learn scipy joblib requests streamlit openpyxl matplotlib seaborn
+
+# Buoc 4: Chay file 1_price_prediction_pipeline.py (Huan luyen AI du bao gia)
+C:\Users\ADMIN\AppData\Local\Python\pythoncore-3.14-64\python.exe E:\Steam_Machine_Learning\Game_data\1_price_prediction_pipeline.py
+
+# Buoc 5: Chay file 3_build_recommendation_system.py (Huan luyen AI goi y game)
+C:\Users\ADMIN\AppData\Local\Python\pythoncore-3.14-64\python.exe E:\Steam_Machine_Learning\Game_data\3_build_recommendation_system.py
+
+# Buoc 6: Chay file 4_web_app.py (Khoi dong trang Web len trinh duyet)
+C:\Users\ADMIN\AppData\Local\Python\pythoncore-3.14-64\python.exe -m streamlit run E:\Steam_Machine_Learning\Game_data\4_web_app.py
+
+--------------------------------------------------------------------------------
+4. TRON BO CAU LENH CMD CHAY TU A DEN Z (DUNG KHI MANG SANG MAY TINH KHAC):
+--------------------------------------------------------------------------------
+# Buoc 1: Di chuyen vao thu muc chua du an (thay duong dan tuy theo may)
+cd duong_dan_toi_thu_muc\Game_data
+
+# Buoc 2: Nang cap cong cu cai dat pip
+python -m pip install --upgrade pip
+
+# Buoc 3: Cai dat toan bo 10 thu vien can thiet
+pip install pandas numpy scikit-learn scipy joblib requests streamlit openpyxl matplotlib seaborn
+
+# Buoc 4: Chay file 1_price_prediction_pipeline.py
+python 1_price_prediction_pipeline.py
+
+# Buoc 5: Chay file 3_build_recommendation_system.py
+python 3_build_recommendation_system.py
+
+# Buoc 6: Chay file 4_web_app.py
+python -m streamlit run 4_web_app.py
+
+
+================================================================================
+ PHAN 2: MO TA DU AN & BANG GIAI THICH DAY DU CAC TU VIET TAT
+================================================================================
+
+MO TA DU AN
+-----------
+Ung dung Cua hang Game thong minh: Du bao gia & Goi y game ca nhan hoa
+- Nen tang ho tro:
+  + Steam PC (Cua hang game tren may vi tinh ca nhan)
+  + Nintendo Switch eShop (Cua hang game tren may choi game Nintendo Switch)
+- Du lieu dau vao:
+  + Doc 100% tu cac file CSV (Comma-Separated Values - Tep du lieu bang mo bang Excel)
+  + Luu tru tai thu muc: E:\Steam_Machine_Learning\Game_data\data\cleaned_verified\
+- Mo hinh Du bao gia trong 3 thang toi:
+  + Cho 3 mo hinh Machine Learning (Hoc may) thi dau:
+    1. Random Forest (Thuat toan Rung ngau nhien)
+    2. Gradient Boosting (Thuat toan Tang cuong do doc)
+    3. Ridge Regression (Thuat toan Hoi quy tuyen tinh Ridge)
+- He thong Goi y game lai ghep (Hybrid Recommendation System):
+  + Ket hop 3 cau truc thuat toan:
+    1. SVD (Singular Value Decomposition - Phan ra gia tri suy bien / Loc cong tac)
+    2. TF-IDF (Term Frequency-Inverse Document Frequency - Loc theo noi dung the loai)
+    3. KNN (K-Nearest Neighbors - Thuat toan tim K lang gieng gan nhat)
+
+BANG GIAI THICH TOAN BO KY HIEU & TU VIET TAT
+---------------------------------------------
+1. Thuat ngu He thong & May tinh:
+   - AI     : Artificial Intelligence (Tri tue nhan tao)
+   - ML     : Machine Learning (Hoc may - May tinh tu hoc quy luat tu du lieu)
+   - CSV    : Comma-Separated Values (Tep bang du lieu phan cach bang dau phay, mo bang Excel)
+   - CMD    : Command Prompt (Cua so dong lenh mau den cua he dieu hanh Windows)
+   - PC     : Personal Computer (May vi tinh ca nhan)
+   - UI     : User Interface (Giao dien nguoi dung tren trang Web)
+   - URL    : Uniform Resource Locator (Duong dan / Dia chi trang Web)
+
+2. Thuat ngu Game & Cua hang:
+   - AppID  : Application Identification (Ma so dinh danh duy nhat cua tung tua game)
+   - User   : Nguoi dung / Nguoi choi game (Game thu)
+   - CCU    : Concurrent Users (So luong nguoi dang choi game truc tuyen cung mot luc)
+   - 1h     : 1 gio qua (So nguoi choi tinh trong 1 tieng gan nhat)
+   - 24h    : 24 gio qua (Dinh so nguoi choi cao nhat trong vong 1 ngay qua)
+   - 3T     : 3 Thang toi (Khoang thoi gian AI du doan gia game trong tuong lai)
+   - F2P    : Free-to-Play (Game mien phi 100%, gia ban = $0.00)
+   - Sale   : Dot giam gia / Chuong trinh khuyen mai
+   - RPG    : Role-Playing Game (The loai game nhap vai)
+   - FPS    : First-Person Shooter (The loai game ban sung goc nhin thu nhat)
+
+3. Thuat ngu Thuat toan & Chi so danh gia Mo hinh:
+   - RF     : Random Forest (Mo hinh Rung ngau nhien)
+   - SVD    : Singular Value Decomposition (Ma tran phan rã tương tác giữa Người dùng và Game)
+   - TF-IDF : Term Frequency-Inverse Document Frequency (Danh gia muc do tuong dong ve the loai)
+   - KNN    : K-Nearest Neighbors (Tim kiem cac tua game co chi so gan giong nhau nhat)
+   - MAE    : Mean Absolute Error (Sai so tuyet doi trung binh - Chi so nay cang nho cang tot)
+   - RMSE   : Root Mean Square Error (Can bac hai sai so binh phuong trung binh - Cang nho cang tot)
+   - R2     : R-Squared / He so xac dinh (Do chinh xac cua mo hinh, cang gan 1.0 la cang chinh xac)
+
+
+================================================================================
+ PHAN 3: CAU TRUC THU MUC CHI TIET CUA DU AN
+================================================================================
+E:\Steam_Machine_Learning\Game_data\
+├── 1_price_prediction_pipeline.py    # [FILE CHAY SO 1] Huan luyen 3 mo hinh du bao gia 3 thang toi
+├── 3_build_recommendation_system.py  # [FILE CHAY SO 2] Huan luyen 3 cau truc goi y & dong bo User
+├── 4_web_app.py                      # [FILE CHAY SO 3] Chay giao dien trang Web (Streamlit)
+├── HUONG_DAN_SU_DUNG.txt             # File tai lieu huong dan su dung tu A den Z
+├── requirements.txt                  # File liet ke danh sach 10 thu vien can cai dat
+│
+└── data\
+    └── cleaned_verified\             # Thu muc chua toan bo cac file du lieu CSV
+        ├── steam_users_profile_verified.csv        # Bang 1: Ho so nguoi dung Steam
+        ├── steam_user_owned_games_verified.csv     # Bang 2: Kho game nguoi dung dang so huu
+        ├── master_price_predicted.csv              # Bang 3: Gia hien tai & gia du bao 3 thang toi
+        ├── ml_price_tournament_leaderboard.csv     # Bang 4: Bang xep hang 3 mo hinh du bao gia
+        ├── master_recommendations_ready.csv        # Bang 5: Du lieu tong hop phuc vu trang Web
+        ├── user_personalized_recommendations.csv   # Bang 6: Danh sach goi y rieng cho tung User
+        └── ml_recommendation_structures_report.csv # Bang 7: Bao cao ket qua 3 cau truc goi y
+
+
+================================================================================
+ PHAN 4: HUONG DAN CHI TIET TUNG BUOC CAI DAT & CHAY TUNG FILE BANG CMD
+================================================================================
+
+--------------------------------------------------------------------------------
+BUOC 0: MO CUA SO CMD VA CAI DAT 10 THU VIEN (CHI CAN LAM 1 LAN DAU TIEN)
+--------------------------------------------------------------------------------
+1. Cach mo cua so CMD (Command Prompt):
+   - Nhan to hop phim "Windows + R" tren ban phim.
+   - Go chu: cmd   -> Nhan phim Enter (Cua so mau den hien ra).
+
+2. Cau lenh di chuyen vao thu muc du an:
+   E:
+   cd E:\Steam_Machine_Learning\Game_data
+
+3. Cau lenh cai gop tat ca 10 thu vien trong 1 lan chay:
+   * Tren may tinh cua ban:
+     C:\Users\ADMIN\AppData\Local\Python\pythoncore-3.14-64\python.exe -m pip install pandas numpy scikit-learn scipy joblib requests streamlit openpyxl matplotlib seaborn
+
+   * Tren may tinh khac:
+     pip install pandas numpy scikit-learn scipy joblib requests streamlit openpyxl matplotlib seaborn
+
+4. Cau lenh cai le tung thu vien (Neu may bao thieu thu vien nao thi copy dong do):
+   - Cai thu vien pandas (Doc va xu ly file CSV):
+     C:\Users\ADMIN\AppData\Local\Python\pythoncore-3.14-64\python.exe -m pip install pandas
+     (May khac: pip install pandas)
+
+   - Cai thu vien numpy (Tinh toan ma tran so hoc):
+     C:\Users\ADMIN\AppData\Local\Python\pythoncore-3.14-64\python.exe -m pip install numpy
+     (May khac: pip install numpy)
+
+   - Cai thu vien scikit-learn (Chua cac mo hinh Hoc may):
+     C:\Users\ADMIN\AppData\Local\Python\pythoncore-3.14-64\python.exe -m pip install scikit-learn
+     (May khac: pip install scikit-learn)
+
+   - Cai thu vien scipy (Tinh toan ma tran thua cho he goi y):
+     C:\Users\ADMIN\AppData\Local\Python\pythoncore-3.14-64\python.exe -m pip install scipy
+     (May khac: pip install scipy)
+
+   - Cai thu vien joblib (Luu tru mo hinh AI da huan luyen):
+     C:\Users\ADMIN\AppData\Local\Python\pythoncore-3.14-64\python.exe -m pip install joblib
+     (May khac: pip install joblib)
+
+   - Cai thu vien requests (Ket noi duong dan Store):
+     C:\Users\ADMIN\AppData\Local\Python\pythoncore-3.14-64\python.exe -m pip install requests
+     (May khac: pip install requests)
+
+   - Cai thu vien streamlit (Chay giao dien trang Web):
+     C:\Users\ADMIN\AppData\Local\Python\pythoncore-3.14-64\python.exe -m pip install streamlit
+     (May khac: pip install streamlit)
+
+   - Cai thu vien openpyxl (Doc/ghi file Excel .xlsx):
+     C:\Users\ADMIN\AppData\Local\Python\pythoncore-3.14-64\python.exe -m pip install openpyxl
+     (May khac: pip install openpyxl)
+
+   - Cai thu vien matplotlib (Ve bieu do thong ke):
+     C:\Users\ADMIN\AppData\Local\Python\pythoncore-3.14-64\python.exe -m pip install matplotlib
+     (May khac: pip install matplotlib)
+
+   - Cai thu vien seaborn (Ve bieu do phan tich nang cao):
+     C:\Users\ADMIN\AppData\Local\Python\pythoncore-3.14-64\python.exe -m pip install seaborn
+     (May khac: pip install seaborn)
+
+5. Cau lenh kiem tra xem 10 thu vien da cai thanh cong chua:
+   C:\Users\ADMIN\AppData\Local\Python\pythoncore-3.14-64\python.exe -c "import pandas, numpy, sklearn, scipy, joblib, requests, streamlit, openpyxl, matplotlib, seaborn; print('CAI DAT THANH CONG 100%!')"
+
+
+--------------------------------------------------------------------------------
+BUOC 1: CHAY FILE SO 1 -> "1_price_prediction_pipeline.py"
+--------------------------------------------------------------------------------
+* Ten file can chay:
+  1_price_prediction_pipeline.py
+
+* Cau lenh CMD de chay tren may cua ban:
+  C:\Users\ADMIN\AppData\Local\Python\pythoncore-3.14-64\python.exe 1_price_prediction_pipeline.py
+
+* Cau lenh CMD de chay tren may khac:
+  python 1_price_prediction_pipeline.py
+
+* Nhiem vu cua file nay:
+  - Doc du lieu danh sach game, gia hien tai, phan tram giam gia, day lich su, diem danh gia, CCU.
+  - Huan luyen 3 mo hinh Hoc may (Random Forest, Gradient Boosting, Ridge Regression) de du doan 
+    muc gia cua tung tua game trong 3 thang toi.
+  - Danh gia sai so (MAE, RMSE, R2) va gan nhan khuyen nghi: "NEN MUA NGAY" hoac "CHO DOT SALE".
+
+* File ket qua sinh ra sau khi chay xong:
+  1. data\cleaned_verified\master_price_predicted.csv
+  2. data\cleaned_verified\ml_price_tournament_leaderboard.csv
+
+
+--------------------------------------------------------------------------------
+BUOC 2: CHAY FILE SO 2 -> "3_build_recommendation_system.py"
+--------------------------------------------------------------------------------
+* Ten file can chay:
+  3_build_recommendation_system.py
+
+* Cau lenh CMD de chay tren may cua ban:
+  C:\Users\ADMIN\AppData\Local\Python\pythoncore-3.14-64\python.exe 3_build_recommendation_system.py
+
+* Cau lenh CMD de chay tren may khac:
+  python 3_build_recommendation_system.py
+
+* File dau vao no doc:
+  1. data\cleaned_verified\master_price_predicted.csv
+  2. data\cleaned_verified\steam_users_profile_verified.csv
+  3. data\cleaned_verified\steam_user_owned_games_verified.csv
+
+* Nhiem vu cua file nay:
+  - Doc ho so cua tung nguoi dung va danh sach cac game ma nguoi do dang so huu.
+  - Loai tru 100% cac game da mua khoi danh sach goi y.
+  - Chay 3 cau truc Hoc may (SVD + TF-IDF + KNN) de tinh diem "Do Hop Gu (%)" cho tung tua game.
+
+* File ket qua sinh ra sau khi chay xong:
+  1. data\cleaned_verified\master_recommendations_ready.csv
+  2. data\cleaned_verified\user_personalized_recommendations.csv
+  3. data\cleaned_verified\ml_recommendation_structures_report.csv
+
+
+--------------------------------------------------------------------------------
+BUOC 3: CHAY FILE SO 3 -> "4_web_app.py" (MO GIAO DIEN TRANG WEB)
+--------------------------------------------------------------------------------
+* Ten file can chay:
+  4_web_app.py
+
+* Cau lenh CMD de chay tren may cua ban:
+  C:\Users\ADMIN\AppData\Local\Python\pythoncore-3.14-64\python.exe -m streamlit run 4_web_app.py
+
+* Cau lenh CMD de chay tren may khac:
+  python -m streamlit run 4_web_app.py
+
+* Cach mo trang Web:
+  - Sau khi bam Enter 3 giay, trinh duyet Web se tu dong bat len dia chi:
+    http://localhost:8501
+  - (Cach mo nhanh trong PyCharm: Mo file 4_web_app.py va nhan to hop phim Shift + F10).
+  - Luu y: Neu lan dau chay Streamlit ma CMD hoi "Email:", chi can bam phim ENTER de bo qua.
+
+
+================================================================================
+ PHAN 5: HUONG DAN SU DUNG 5 TRANG CHUC NANG TREN WEB APP (DASHBOARD)
+================================================================================
+
+A. CỘT BỘ LỌC BÊN TRÁI MÀN HÌNH (SIDEBAR):
+   - 👤 Game Thu: Chon ho so nguoi dung tu file CSV (Bang kho game va danh sach goi y se doi theo).
+   - 💎 Che do Cua hang: Bam chon xem game "Tra Phi" (> $0), "Tat Ca" hoac "Mien Phi" ($0).
+   - 💰 Tran ngan sach ($): Keo thanh truot de loc cac game co gia re hon muc ngan sach.
+   - 🖥️ Nen tang: Bam chon "Moi He", chi xem game "Steam" (PC) hoac chi xem game "Switch" (Nintendo).
+   - 🔄 Dong Bo Lai CSV: Bam nut nay de Web tu dong chay lai File 3 va cap nhat du lieu CSV moi nhat.
+
+B. 5 TRANG CHÍNH TRÊN MÀN HÌNH (5 TABS):
+   1. 🎮 Cua Hang Goi Y:
+      - Hien thi truc tiep "Bang Game Hien Tai Dang So Huu" cua nguoi dung dang chon.
+      - Hien thi danh sach game AI de xuat mua (da loai tru 100% cac game trong bang so huu).
+      - Tren moi the game hien thi ro 3 cot gia:
+        + Cot 1 (Gia Hien Tai / Gia Sale): Gia dang ban kem Gia goc va % giam gia.
+        + Cot 2 (Du Bao 3T Toi): Gia du doan trong 3 thang toi ("↑ Het sale" hoac "↓ Cho sale").
+        + Cot 3 (Day Lich Su): Muc gia thap nhat lich su cua tua game do.
+      - Co 2 nut bam: Nut mo thang trang san pham tren Steam Store / Nintendo eShop va nut xem 
+        chi tiet diem so AI (SVD, TF-IDF, KNN) kem luong nguoi choi CCU.
+
+   2. 📦 Kho Game Dang So Huu:
+      - Xem bang chi tiet toan bo kho game cua nguoi dung va bieu do cot so sanh so gio choi.
+
+   3. 🔥 Xep Hang CCU:
+      - Bieu do va danh sach Top 10 tua game co so nguoi dang choi cung luc (CCU 1h va Dinh 24h) cao nhat.
+
+   4. 🏷️ San Sale & Gia 3T:
+      - O tim kiem ten game bat ky va bo loc nhanh cac game "🟢 Mua Ngay" hoac "🔥 Dang Sale".
+
+   5. 📊 Bang CSV & Mo Hinh:
+      - Xem bang xep hang 3 mo hinh Du Bao Gia, bao cao 3 cau truc Hoc May Goi Y va xem truc tiep 
+        noi dung cac file CSV ngay tren Web.
+
+
+================================================================================
+ PHAN 6: CACH XU LY SU CO THUONG GAP
+================================================================================
+
+1. LOI: "ModuleNotFoundError: No module named '...'"
+   -> Copy va chay lai cau lenh cai dat 10 thu vien o PHAN 1 (Buoc 3).
+
+2. LOI: Chay Streamlit lan dau bi dung im o chữ "Email:" trong CMD
+   -> Bam phim ENTER tren ban phim (de trong khong can nhap gi), Web se tu mo len.
+
+3. LOI: Tren Web bao "Chua tim thay du file CSV trong data/cleaned_verified/"
+   -> Bam nut "🔄 Dong Bo & Huan Luyen Tu File CSV" tren man hinh Web, hoac chay lai 
+      file 1_price_prediction_pipeline.py va 3_build_recommendation_system.py.
+
+4. LOI: Sua code trong PyCharm nhung giao dien Web chua thay doi
+   -> Bam Ctrl + S trong PyCharm de luu code, sau do sang trinh duyet Web bam phim R (hoac F5).
+
+5. LOI: Muon tat han trang Web dang chay
+   -> Bam chuot vao cua so CMD/Terminal dang chay va nhan to hop phim: Ctrl + C.
+================================================================================

@@ -1,0 +1,159 @@
+================================================================================
+   FILE 02: 1_steamspy_crawler.py
+   (CÀO CHUYÊN SÂU 1.000 GAME STEAMSPY, NHÃN ĐÁNH GIÁ & PHÂN KHÚC THỊ TRƯỜNG)
+================================================================================
+
+I. MỤC ĐÍCH & Ý NGHĨA CỦA FILE
+================================================================================
+- Đây là phiên bản nâng cấp chuẩn Production của trình cào SteamSpy, mở rộng quy mô
+  thu thập lên đúng **1.000 tựa game** bằng cách quét 5 phân khúc khác nhau:
+  1) `top100in2weeks`: 100 game đang thịnh hành nhất 2 tuần qua.
+  2) `top100forever` : 100 game có lượng người chơi tích lũy đông nhất mọi thời đại.
+  3) `top100owned`   : 100 game có số lượng người mua cao nhất.
+  4) `all (page=0)`  : Trang 1 danh mục toàn cầu (1.000 game).
+  5) `all (page=1)`  : Trang 2 danh mục dự phòng để đảm bảo lọc xong vẫn đủ 1.000 game.
+- Bóc tách chuẩn xác **23 trường dữ liệu (columns)**, tự động ánh xạ tỷ lệ % review
+  sang 7 cấp độ nhãn chuẩn của Valve và phân loại từng game vào đúng phân khúc thị trường
+  (`segment_tag`).
+
+
+II. GIẢI THÍCH CHI TIẾT TỪNG HÀM & THUẬT TOÁN TRONG FILE
+================================================================================
+
+--------------------------------------------------------------------------------
+1. THUẬT TOÁN ÁNH XẠ 7 CẤP ĐỘ NHÃN ĐÁNH GIÁ VALVE — Hàm `build_review_summary_label(...)`
+--------------------------------------------------------------------------------
+a) Ý nghĩa:
+   - SteamSpy chỉ trả về 2 con số thô là số lượt khen (`positive`) và số lượt chê (`negative`).
+   - Để người dùng nhìn vào hiểu ngay game này tốt hay tệ theo đúng chuẩn giao diện
+     của Steam Store, hàm này tính tỷ lệ phần trăm tích cực ($Review\_Pct$) và đối chiếu
+     với số lượng đánh giá tối thiểu ($Review\_Total$) để gán nhãn chữ.
+
+b) Công thức & Bảng ngưỡng phân loại 7 cấp độ:
+   $$Review\_Pct = \frac{Positive}{Positive + Negative} \times 100$$
+
+   | Điều kiện Điểm ($Review\_Pct$) | Điều kiện Số lượng ($Review\_Total$) | Nhãn chuẩn Valve (Tiếng Anh) | Ý nghĩa Tiếng Việt |
+   |---|---|---|---|
+   | Bất kỳ | $= 0$ | `Unrated` | Chưa có đánh giá |
+   | $\ge 95.0\%$ | $\ge 500$ lượt | `Overwhelmingly Positive` | Cực kỳ tích cực (Siêu phẩm) |
+   | $\ge 80.0\%$ | $\ge 50$ lượt | `Very Positive` | Rất tích cực |
+   | $\ge 80.0\%$ | $< 50$ lượt | `Positive` | Tích cực |
+   | $70.0\% \dots 79.99\%$ | $\ge 1$ lượt | `Mostly Positive` | Khá tích cực |
+   | $40.0\% \dots 69.99\%$ | $\ge 1$ lượt | `Mixed` | Đánh giá trái chiều (Khen chê lẫn lộn) |
+   | $20.0\% \dots 39.99\%$ | $\ge 1$ lượt | `Mostly Negative` | Phần lớn là tiêu cực |
+   | $< 20.0\%$ | $\ge 500$ lượt | `Overwhelmingly Negative` | Cực kỳ tiêu cực (Game thảm họa) |
+
+c) Dẫn chứng Code trong `1_steamspy_crawler.py`:
+```python
+def build_review_summary_label(score_pct: float, review_total: int) -> str:
+    """Tạo nhãn đánh giá chuẩn của Steam dựa trên tỷ lệ % tích cực và tổng số review."""
+    if review_total <= 0:
+        return "Unrated"
+    if score_pct >= 95.0 and review_total >= 500:
+        return "Overwhelmingly Positive"
+    if score_pct >= 80.0:
+        return "Very Positive" if review_total >= 50 else "Positive"
+    if score_pct >= 70.0:
+        return "Mostly Positive"
+    if score_pct >= 40.0:
+        return "Mixed"
+    if score_pct >= 20.0:
+        return "Mostly Negative"
+    return "Overwhelmingly Negative" if review_total >= 500 else "Negative"
+```
+
+d) Ví dụ cụ thể:
+   - Game A có $Positive = 96$, $Negative = 4$:
+     + Tổng review $= 100$ lượt; $Score\_Pct = 96.0\%$.
+     + Mặc dù đạt $96.0\% \ge 95\%$, nhưng vì tổng lượt review mới chỉ có $100 < 500$,
+       nên hệ thống chỉ gán nhãn `Very Positive` (chưa đủ độ tin cậy để lên `Overwhelmingly Positive`).
+
+--------------------------------------------------------------------------------
+2. THUẬT TOÁN NHẬN DIỆN THỂ LOẠI BẰNG LUẬT TỪ KHÓA — Hàm `resolve_game_genres(...)`
+--------------------------------------------------------------------------------
+a) Ý nghĩa:
+   - Nếu cột `genre` từ API trả về bị rỗng, hàm này ghép tên game (`title`) và tên
+     nhà phát hành (`pub_name`) rồi đem đối sánh với bộ từ điển 5 nhóm thể loại lớn
+     `GENRE_KEYWORD_RULES`:
+     1) Nhóm Bắn súng / Hành động (`Action, Shooter, Multiplayer`): khớp các từ khóa
+        `"counter-strike"`, `"valorant"`, `"apex"`, `"pubg"`, `"call of duty"`, `"rust"`, `"helldivers"`...
+     2) Nhóm Chiến thuật (`Strategy, Simulation`): khớp `"dota"`, `"civilization"`,
+        `"total war"`, `"age of empires"`, `"factorio"`, `"rimworld"`...
+     3) Nhóm Nhập vai (`RPG, Action, Adventure`): khớp `"elden ring"`, `"baldur"`,
+        `"witcher"`, `"cyberpunk"`, `"final fantasy"`, `"diablo"`, `"black myth"`...
+     4) Nhóm Thể thao / Đua xe (`Sports, Racing, Simulation`): khớp `"fc 24"`, `"fc 25"`,
+        `"nba"`, `"forza"`, `"f1 "`, `"rocket league"`...
+     5) Nhóm Sinh tồn / Nông trại (`Simulation, Adventure, Survival`): khớp `"stardew"`,
+        `"terraria"`, `"minecraft"`, `"sims"`, `"palworld"`, `"valheim"`, `"ark:"`...
+
+b) Dẫn chứng Code trong `1_steamspy_crawler.py`:
+```python
+def resolve_game_genres(title: str, raw_genre: str, pub_name: str) -> str:
+    if raw_genre and raw_genre.strip():
+        return raw_genre.strip()
+
+    haystack = f"{title} {pub_name}".lower()
+    matched_tags: list[str] = []
+
+    for keywords, tags in GENRE_KEYWORD_RULES:
+        if any(kw in haystack for kw in keywords):
+            matched_tags.extend(tags)
+
+    if not matched_tags:
+        matched_tags = ["Action", "Adventure", "Indie"]
+
+    deduped = list(dict.fromkeys(matched_tags))
+    return ", ".join(deduped[:5])
+```
+
+--------------------------------------------------------------------------------
+3. THUẬT TOÁN PHÂN ĐOẠN THỊ TRƯỜNG — Hàm `classify_telemetry_tier(...)`
+--------------------------------------------------------------------------------
+a) Ý nghĩa:
+   - Tự động chia 1.000 game thành các phân khúc rõ ràng (`segment_tag`) kết hợp giữa
+     loại giá (`FREE` / `PAID`) và vị thế của game trên thị trường (`BEST_SELLER`,
+     `HIGHEST_RATED`, `LOWEST_RATED`, `STANDARD`).
+
+b) Quy tắc phân loại trong Code:
+   - Đặt tiền tố $Prefix = \text{"FREE"}$ nếu miễn phí, ngược lại là $\text{"PAID"}$.
+   - **Phân khúc (`segment_tag`):**
+     + Nếu $0 < Review\_Pct < 55.0\% \rightarrow$ `{Prefix}_LOWEST_RATED`
+     + Nếu ($Owners \ge 2,000,000$ HOẶC $CCU \ge 5,000$) VÀ $Review\_Pct \ge 75.0\% \rightarrow$ `{Prefix}_BEST_SELLER`
+     + Nếu $Review\_Pct \ge 85.0\%$ VÀ $Total\_Reviews \ge 500 \rightarrow$ `{Prefix}_HIGHEST_RATED`
+     + Còn lại $\rightarrow$ `{Prefix}_STANDARD`.
+   - **Tín hiệu khuyến nghị (`signal`):**
+     + Xét 3 cờ đặc biệt:
+       * `is_top_gem` (Viên ngọc quý): $Review\_Pct \ge 88.0\%$ và $Total\_Reviews \ge 300$.
+       * `is_hot_deal` (Món hời giảm giá): $Discount \ge 40\%$ và $Review\_Pct \ge 78.0\%$.
+       * `is_great_free` (Game miễn phí xuất sắc): $Is\_Free == 1$ và $Review\_Pct \ge 82.0\%$.
+     + Nếu vi phạm $Review\_Pct < 55\% \rightarrow$ `AVOID`.
+     + Nếu thỏa mãn 1 trong 3 cờ (`is_top_gem` / `is_hot_deal` / `is_great_free`) $\rightarrow$ `STRONG_BUY`.
+     + Nếu $Review\_Pct \ge 75\%$ hoặc ($Discount \ge 20\%$ và $Price \le \$29.99$) $\rightarrow$ `BUY`.
+     + Còn lại $\rightarrow$ `HOLD`.
+
+c) Dẫn chứng Code trong `1_steamspy_crawler.py`:
+```python
+is_top_gem = review_pct >= 88.0 and total_reviews >= 300
+is_hot_deal = discount_pct >= 40 and review_pct >= 78.0
+is_great_free = is_free == 1 and review_pct >= 82.0
+
+if 0.0 < review_pct < 55.0:
+    signal = "AVOID"
+elif is_top_gem or is_hot_deal or is_great_free:
+    signal = "STRONG_BUY"
+elif review_pct >= 75.0 or (discount_pct >= 20 and price_usd <= 29.99):
+    signal = "BUY"
+else:
+    signal = "HOLD"
+```
+
+
+III. CÂU HỎI VẤN ĐÁP THƯỜNG GẶP VỀ FILE 02
+================================================================================
+- **Câu hỏi:** *"Sự khác nhau giữa `average_playtime_hours` và `median_playtime_hours` trong file này là gì?"*
+  $\rightarrow$ **Trả lời:**
+  + `average_playtime_hours` là **Trung bình cộng** số giờ chơi của tất cả người mua
+    (dễ bị kéo lệch nếu có một nhóm nhỏ game thủ cày 5.000 giờ).
+  + `median_playtime_hours` là **Số trung vị** (mức giờ chơi của người đứng chính giữa
+    danh sách), phản ánh chính xác hơn một người chơi bình thường sẽ chơi game đó trong bao lâu.
+================================================================================
